@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 29/04/2023 12:50" generator-info-url="t.me/EPG_dobleM">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
   <channel id="DMAX">
     <display-name lang="es">DMAX</display-name>
     <display-name lang="es">DMAX.</display-name>
