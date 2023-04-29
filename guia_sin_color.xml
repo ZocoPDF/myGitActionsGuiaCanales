@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv>
-  <channel id="DMAX">
-    <display-name lang="es">DMAX</display-name>
-    <display-name lang="es">DMAX.</display-name>
-    <display-name lang="es">DMAX SD</display-name>
-    <display-name lang="es">DMAX HD</display-name>
-    <display-name lang="es">DMAX FHD</display-name>
-    <display-name lang="es">DMAX HEVC</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DMAX.png" />
+  <channel id="|ES| DMAX">
+    <display-name lang="es">|ES| DMAX</display-name>
+    <display-name lang="es">|ES| DMAX.</display-name>
+    <display-name lang="es">|ES| DMAX SD</display-name>
+    <display-name lang="es">|ES| DMAX HD</display-name>
+    <display-name lang="es">|ES| DMAX FHD</display-name>
+    <display-name lang="es">|ES| DMAX HEVC</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/|ES| DMAX.png" />
   </channel>
   <channel id="DKISS">
     <display-name lang="es">DKISS</display-name>
@@ -38,14 +38,11 @@
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png" />
   </channel>
 
-  <programme start="20230429005100 +0200" stop="20230429014800 +0200" channel="DMAX">
+  <programme start="20230429005100 +0200" stop="20230429014800 +0200" channel="|ES| DMAX">
 	<title lang="es">Curiosidades de la Tierra T4 E6 · El misterio del bosque de los colmillos</title>
 	<sub-title lang="es">2017 | TP | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Ciencia y tecnología · Un bosque de piedras muy afiladas podría ser el hogar de una especie humanoide. Por otra parte, imágenes por satélite revelan una misteriosa isla en forma de ojo en un pantano.
-
-·Valoración: 3/5 de 40 votos
-·País: EE.UU. 
-·Productora: Wag TV.</desc>
+	<desc lang="es">Documentales/Ciencia y tecnología · Un bosque de piedras muy afilad
+  </desc>
 	<category lang="es">Documentales, Ciencia y tecnología</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDCRMAXP1491129" />
     <rating system="ES">
@@ -55,13 +52,11 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429014800 +0200" stop="20230429023600 +0200" channel="DMAX">
+
+  <programme start="20230429014800 +0200" stop="20230429023600 +0200" channel="|ES| DMAX">
 	<title lang="es">Desaparecidos T9 E4 · Una cita con el peligro</title>
 	<sub-title lang="es">2018 | ⑫ | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Sociedad · Nancy Moyer no está en casa cuando sus hijos regresan después de un fin de semana. Más tarde se produce un asesinato muy extraño. ¿Fue Nancy la víctima de un asesino en serie?
-
-·Valoración: 3/5 de 34 votos
-·País: EE.UU. </desc>
+	<desc lang="es">Documentales/Sociedad · Nancy Moyer no está en casa cuando sus hijos regresan después de un fin de semana. Más tarde se p</desc>
 	<category lang="es">Documentales, Sociedad</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDCRMAXP1569291" />
     <rating system="ES">
@@ -71,7 +66,8 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429023600 +0200" stop="20230429032300 +0200" channel="DMAX">
+
+  <programme start="20230429023600 +0200" stop="20230429032300 +0200" channel="|ES| DMAX">
 	<title lang="es">Desaparecidos T9 E5 · Aguas turbulentas</title>
 	<sub-title lang="es">2018 | ⑫ | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Sociedad · En 1998, Amy Bradley, de 23 años, realizó un crucero familiar por el Caribe. Después de una pasar noche bailando en la discoteca del barco, desapareció sin dejar rastro alguno.
@@ -87,7 +83,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429032300 +0200" stop="20230429040900 +0200" channel="DMAX">
+  <programme start="20230429032300 +0200" stop="20230429040900 +0200" channel="|ES| DMAX">
 	<title lang="es">Muerte en el pantano T1 E1</title>
 	<sub-title lang="es">2013 | ⑫ | ★★★☆☆</sub-title>
 	<desc lang="es">Entretenimiento/Tele Realidad · Los pantanos son lugares oscuros, peligrosos, llenos de leyendas pero también son lugares donde el crimen es su mejor aliado.
@@ -103,7 +99,8 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429040900 +0200" stop="20230429045400 +0200" channel="DMAX">
+
+  <programme start="20230429040900 +0200" stop="20230429045400 +0200" channel="|ES| DMAX">
 	<title lang="es">Muerte en el pantano T1 E2</title>
 	<sub-title lang="es">2013 | ⑫ | ★★★☆☆</sub-title>
 	<desc lang="es">Entretenimiento/Tele Realidad · Los pantanos son lugares oscuros, peligrosos, llenos de leyendas pero también son lugares donde el crimen es su mejor aliado.
@@ -119,7 +116,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429045400 +0200" stop="20230429051600 +0200" channel="DMAX">
+  <programme start="20230429045400 +0200" stop="20230429051600 +0200" channel="|ES| DMAX">
 	<title lang="es">Seprona en acción T3 E6</title>
 	<sub-title lang="es">2022 | ⑦</sub-title>
 	<desc lang="es">Documentales/Actualidad · El Servicio de Protección de la Naturaleza trabaja protegiendo el entorno natural, el bienestar de los seres vivos, el patrimonio histórico español y persiguiendo a los infractores. El espacio recorre una serie de localizaciones para intervenir en situaciones de riesgo.
@@ -135,7 +132,7 @@
       <value>0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429051600 +0200" stop="20230429053800 +0200" channel="DMAX">
+  <programme start="20230429051600 +0200" stop="20230429053800 +0200" channel="|ES| DMAX">
 	<title lang="es">Seprona en acción T3 E7</title>
 	<sub-title lang="es">2022 | ⑦</sub-title>
 	<desc lang="es">Documentales/Actualidad · El Servicio de Protección de la Naturaleza trabaja protegiendo el entorno natural, el bienestar de los seres vivos, el patrimonio histórico español y persiguiendo a los infractores. El espacio recorre una serie de localizaciones para intervenir en situaciones de riesgo.
@@ -151,7 +148,7 @@
       <value>0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429053800 +0200" stop="20230429060000 +0200" channel="DMAX">
+  <programme start="20230429053800 +0200" stop="20230429060000 +0200" channel="|ES| DMAX">
 	<title lang="es">Seprona en acción T3 E8</title>
 	<sub-title lang="es">2022 | ⑦ | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Actualidad · El Servicio de Protección de la Naturaleza trabaja protegiendo el entorno natural, el bienestar de los seres vivos, el patrimonio histórico español y persiguiendo a los infractores. El espacio recorre una serie de localizaciones para intervenir en situaciones de riesgo.
@@ -167,7 +164,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429060000 +0200" stop="20230429062500 +0200" channel="DMAX">
+  <programme start="20230429060000 +0200" stop="20230429062500 +0200" channel="|ES| DMAX">
 	<title lang="es">¿Cómo lo hacen? T11 E19</title>
 	<sub-title lang="es">2013 | TP | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Ciencia y tecnología · ¿Cómo se fabricaba la bebida favorita de George Washington? ¿Cómo se ponen a prueba los asientos de los aviones sin necesidad de estrellarlos? ¿Cómo se producen millones de pilas?
@@ -184,7 +181,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429062500 +0200" stop="20230429065000 +0200" channel="DMAX">
+  <programme start="20230429062500 +0200" stop="20230429065000 +0200" channel="|ES| DMAX">
 	<title lang="es">¿Cómo lo hacen? T11 E20</title>
 	<sub-title lang="es">2013 | TP | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Ciencia y tecnología · ¿Cómo se construyen esclusas de canales para que las embarcaciones de todo tipo puedan navegar hacia arriba? ¿Cómo se ponen las burbujas en el té de burbujas favorito de Taiwán?
@@ -201,7 +198,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429065000 +0200" stop="20230429071500 +0200" channel="DMAX">
+  <programme start="20230429065000 +0200" stop="20230429071500 +0200" channel="|ES| DMAX">
 	<title lang="es">¿Cómo lo hacen?: Baklavas, Autogiros, Ukeleles T13 E1</title>
 	<sub-title lang="es">2015 | TP | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Ciencia y tecnología · ¿Cómo fabrican el delicioso baklava, el dulce preferido de los Otomanos? Además, el giroplano de James Bond, el ukelele y el ferri más rápido del mundo, el Supercat.
@@ -218,7 +215,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429071500 +0200" stop="20230429080000 +0200" channel="DMAX">
+  <programme start="20230429071500 +0200" stop="20230429080000 +0200" channel="|ES| DMAX">
 	<title lang="es">Te lo dije T5 E19</title>
 	<sub-title lang="es">2016 | ⑦ | ★★★☆☆</sub-title>
 	<desc lang="es">Entretenimiento/Programa · Este programa muestra a creadores que reinventan ideas clásicas, aumentándolas y mejorándolas. Estas creaciones incluyen ratoneras gigantescas y una diana para dardos automática.
@@ -235,7 +232,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429080000 +0200" stop="20230429084500 +0200" channel="DMAX">
+  <programme start="20230429080000 +0200" stop="20230429084500 +0200" channel="|ES| DMAX">
 	<title lang="es">Te lo dije T5 E20</title>
 	<sub-title lang="es">2016 | ⑦ | ★★★☆☆</sub-title>
 	<desc lang="es">Entretenimiento/Programa · Los clips más peligrosos en Internet, en donde se celebra a todos los que convierten el desastre en un experimento científico. ¡Un hombre arrastra por sí solo un avión enorme!
@@ -252,7 +249,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429084500 +0200" stop="20230429091000 +0200" channel="DMAX">
+  <programme start="20230429084500 +0200" stop="20230429091000 +0200" channel="|ES| DMAX">
 	<title lang="es">Pareja a la puja T3 E16 · Una carrera hasta la meta</title>
 	<sub-title lang="es">2013 | ⑦ | ★★★☆☆</sub-title>
 	<desc lang="es">Entretenimiento/Tele Realidad · Un artículo en un contenedor hace que Papa Bear y Mone aceleren sus motores, mientras que T Money apuesta por las armas en otro contenedor. El equipo Brandori sube las apuestas.
@@ -269,7 +266,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429091000 +0200" stop="20230429093500 +0200" channel="DMAX">
+  <programme start="20230429091000 +0200" stop="20230429093500 +0200" channel="|ES| DMAX">
 	<title lang="es">Pareja a la puja T3 E17 · Ahí abajo</title>
 	<sub-title lang="es">2013 | ⑦ | ★★★☆☆</sub-title>
 	<desc lang="es">Entretenimiento/Tele Realidad · Una unidad de almacenamiento de las antípodas guarda una sorpresa oscura y misteriosa. Jessie promete evitar que todos ganen. Papa Bear empuja a Brandon al borde del abismo.
@@ -286,7 +283,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429093500 +0200" stop="20230429100200 +0200" channel="DMAX">
+  <programme start="20230429093500 +0200" stop="20230429100200 +0200" channel="|ES| DMAX">
 	<title lang="es">Pareja a la puja T3 E18 · Emocionante</title>
 	<sub-title lang="es">2013 | ⑦ | ★★★☆☆</sub-title>
 	<desc lang="es">Entretenimiento/Tele Realidad · En el día más caluroso del año, ¿hará el sol que las pujas sean una locura? Bajo un calor sofocante, todos deben pujar a ciegas por un contenedor completamente oculto tras una lámina de plástico.
@@ -303,7 +300,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429100200 +0200" stop="20230429103200 +0200" channel="DMAX">
+  <programme start="20230429100200 +0200" stop="20230429103200 +0200" channel="|ES| DMAX">
 	<title lang="es">Pareja a la puja T3 E19 · Club de chicos</title>
 	<sub-title lang="es">2013 | ⑦ | ★★★☆☆</sub-title>
 	<desc lang="es">Entretenimiento/Tele Realidad · Brandon llega solo a la subasta. Los chicos apuestan por un estudio de grabación abandonado. Y un tráiler con artículos de la Guerra Civil incita a los participantes a librar una batalla de pujas.
@@ -320,7 +317,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429103200 +0200" stop="20230429105900 +0200" channel="DMAX">
+  <programme start="20230429103200 +0200" stop="20230429105900 +0200" channel="|ES| DMAX">
 	<title lang="es">Cazasubastas T4 E21 · Atrapado en la red</title>
 	<sub-title lang="es">2013 | TP | ★★★☆☆</sub-title>
 	<desc lang="es">Entretenimiento/Tele Realidad · Ton y Allen se enfrentan a su reto más difícil hasta la fecha cuando dos viejos rivales unen sus fuerzas. Los chicos desentierran una motocicleta todoterreno y un par de pistolas de red.
@@ -339,7 +336,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429105900 +0200" stop="20230429112900 +0200" channel="DMAX">
+  <programme start="20230429105900 +0200" stop="20230429112900 +0200" channel="|ES| DMAX">
 	<title lang="es">Cazasubastas T4 E22 · El juego del Salón de la Fama</title>
 	<sub-title lang="es">2013 | TP | ★★★☆☆</sub-title>
 	<desc lang="es">Entretenimiento/Tele Realidad · Allen se dirige a una subasta con Elle, mientras Ton y Big Sis renuevan la tienda para lograr atraer más clientes. Además, Allen se enfrenta a un miembro del Salón de la Fama de la NBA.
@@ -358,7 +355,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429112900 +0200" stop="20230429115600 +0200" channel="DMAX">
+  <programme start="20230429112900 +0200" stop="20230429115600 +0200" channel="|ES| DMAX">
 	<title lang="es">Cazasubastas T4 E23 · Nashville, Tennessee</title>
 	<sub-title lang="es">2013 | TP | ★★★☆☆</sub-title>
 	<desc lang="es">Entretenimiento/Tele Realidad · Ton y Allen se echan a la carretera con destino a Nashville, donde se reúnen con una banda de duros moteros que apuestan por todo lo alto.
@@ -377,7 +374,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429115600 +0200" stop="20230429122600 +0200" channel="DMAX">
+  <programme start="20230429115600 +0200" stop="20230429122600 +0200" channel="|ES| DMAX">
 	<title lang="es">Cazasubastas T4 E24 · Big Sis se escaquea</title>
 	<sub-title lang="es">2013 | TP | ★★★☆☆</sub-title>
 	<desc lang="es">Entretenimiento/Tele Realidad · Big Sis trae malas noticias cuando los chicos se enfrentan a Carolyn en Long Beach. Además, descubren un tomahawk, un tanque de inmersión y una curiosa pistola que puede disparar tres tiros a la vez.
@@ -396,7 +393,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429122600 +0200" stop="20230429125300 +0200" channel="DMAX">
+  <programme start="20230429122600 +0200" stop="20230429125300 +0200" channel="|ES| DMAX">
 	<title lang="es">Cazasubastas T4 E25 · Se ha esfumado en 20 segundos</title>
 	<sub-title lang="es">2013 | TP | ★★★☆☆</sub-title>
 	<desc lang="es">Entretenimiento/Tele Realidad · CJ, su oponente más feroz, machaca a Ton y a Allen, pero un giro del destino permite a los chicos seguir en la brecha. Descubren un contador Geiger y unas llaves de impacto de la NASCAR.
@@ -415,7 +412,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429125300 +0200" stop="20230429135000 +0200" channel="DMAX">
+  <programme start="20230429125300 +0200" stop="20230429135000 +0200" channel="|ES| DMAX">
 	<title lang="es">Ingeniería letal T3 E1</title>
 	<sub-title lang="es">2021 | TP | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Ciencia y tecnología · Uno de los puentes de la autopista de Minneapolis cae en hora punta. Y un accidente de tren en Dinamarca desvela un fallo de seguridad en toda Europa.
@@ -431,7 +428,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429135000 +0200" stop="20230429144800 +0200" channel="DMAX">
+  <programme start="20230429135000 +0200" stop="20230429144800 +0200" channel="|ES| DMAX">
 	<title lang="es">Ingeniería letal T3 E2</title>
 	<sub-title lang="es">2021 | TP | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Ciencia y tecnología · En Kentucky, ocho Corvettes son engullidos por un enorme socavón. Además, conocemos las causas de derrumbe de un puente de Melbourne en construcción.
@@ -447,7 +444,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429144800 +0200" stop="20230429154600 +0200" channel="DMAX">
+  <programme start="20230429144800 +0200" stop="20230429154600 +0200" channel="|ES| DMAX">
 	<title lang="es">Ingeniería letal T3 E3</title>
 	<sub-title lang="es">2021 | TP | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Ciencia y tecnología · El descarrilamiento de un tren casi borra del mapa una ciudad de Dakota del Norte. Además, analizaremos el colapso de un puente portuario en Taiwán.
@@ -463,7 +460,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429154600 +0200" stop="20230429174400 +0200" channel="DMAX">
+  <programme start="20230429154600 +0200" stop="20230429174400 +0200" channel="|ES| DMAX">
 	<title lang="es">Desmontando la historia T5 E1 · Imperio perdido de Persia</title>
 	<sub-title lang="es">2022 | ⑦</sub-title>
 	<desc lang="es">Documentales/Historia · Los mitos y misterios que envuelven las más icónicas y conocidas megaestructuras del planeta han sobrevivido al paso de los siglos alimentando la imaginación de la humanidad con las más variopintas teorías.
@@ -479,7 +476,7 @@
       <value>0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429174400 +0200" stop="20230429184200 +0200" channel="DMAX">
+  <programme start="20230429174400 +0200" stop="20230429184200 +0200" channel="|ES| DMAX">
 	<title lang="es">Desmontando la historia T3 E15 · La ciudad perdida de los mayas</title>
 	<sub-title lang="es">2019 | TP | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Historia · Escondida en la jungla de Guatemala está la ciudad perdida de Tikal. ¿Cómo se transformó esta población en una superpotencia maya?
@@ -496,7 +493,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429184200 +0200" stop="20230429191200 +0200" channel="DMAX">
+  <programme start="20230429184200 +0200" stop="20230429191200 +0200" channel="|ES| DMAX">
 	<title lang="es">Control de fronteras: España T4 E1</title>
 	<sub-title lang="es">2018 | ⑫ | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Otros · Los Servicios de Control de Fronteras de España llevan a cabo una importante lucha, esta consiste en erradicar el transporte ilegal de mercancías de un país a otro. El principal objetivo es combatir el trafico de drogas, el de armas y la entrada de terroristas.
@@ -512,7 +509,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429191200 +0200" stop="20230429194000 +0200" channel="DMAX">
+  <programme start="20230429191200 +0200" stop="20230429194000 +0200" channel="|ES| DMAX">
 	<title lang="es">Control de fronteras: España T4 E2</title>
 	<sub-title lang="es">2018 | ⑫ | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Otros · Los Servicios de Control de Fronteras de España llevan a cabo una importante lucha, esta consiste en erradicar el transporte ilegal de mercancías de un país a otro. El principal objetivo es combatir el trafico de drogas, el de armas y la entrada de terroristas.
@@ -528,7 +525,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429194000 +0200" stop="20230429200500 +0200" channel="DMAX">
+  <programme start="20230429194000 +0200" stop="20230429200500 +0200" channel="|ES| DMAX">
 	<title lang="es">Control de fronteras: España T4 E3</title>
 	<sub-title lang="es">2018 | ⑫ | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Otros · Los Servicios de Control de Fronteras de España llevan a cabo una importante lucha, esta consiste en erradicar el transporte ilegal de mercancías de un país a otro. El principal objetivo es combatir el trafico de drogas, el de armas y la entrada de terroristas.
@@ -544,7 +541,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429200500 +0200" stop="20230429203000 +0200" channel="DMAX">
+  <programme start="20230429200500 +0200" stop="20230429203000 +0200" channel="|ES| DMAX">
 	<title lang="es">Control de fronteras: España T4 E4</title>
 	<sub-title lang="es">2018 | ⑫ | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Otros · Los Servicios de Control de Fronteras de España llevan a cabo una importante lucha, esta consiste en erradicar el transporte ilegal de mercancías de un país a otro. El principal objetivo es combatir el trafico de drogas, el de armas y la entrada de terroristas.
@@ -560,7 +557,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429203000 +0200" stop="20230429210300 +0200" channel="DMAX">
+  <programme start="20230429203000 +0200" stop="20230429210300 +0200" channel="|ES| DMAX">
 	<title lang="es">Control de fronteras: España T4 E5</title>
 	<sub-title lang="es">2018 | ⑫ | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Otros · Los Servicios de Control de Fronteras de España llevan a cabo una importante lucha, esta consiste en erradicar el transporte ilegal de mercancías de un país a otro. El principal objetivo es combatir el trafico de drogas, el de armas y la entrada de terroristas.
@@ -576,7 +573,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429210300 +0200" stop="20230429220000 +0200" channel="DMAX">
+  <programme start="20230429210300 +0200" stop="20230429220000 +0200" channel="|ES| DMAX">
 	<title lang="es">091: Alerta Policía T4 E3</title>
 	<sub-title lang="es">2020 | ⑯ | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Actualidad · Historias reales de los hombres y mujeres de la Policía Nacional en su lucha constante contra el crimen en todas sus vertientes, arriesgando sus vidas para ayudar a los demás.
@@ -593,7 +590,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429220000 +0200" stop="20230429225700 +0200" channel="DMAX">
+  <programme start="20230429220000 +0200" stop="20230429225700 +0200" channel="|ES| DMAX">
 	<title lang="es">091: Alerta Policía T4 E4</title>
 	<sub-title lang="es">2020 | ⑯ | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Actualidad · Historias reales de los hombres y mujeres de la Policía Nacional en su lucha constante contra el crimen en todas sus vertientes, arriesgando sus vidas para ayudar a los demás.
@@ -610,7 +607,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429225700 +0200" stop="20230429235400 +0200" channel="DMAX">
+  <programme start="20230429225700 +0200" stop="20230429235400 +0200" channel="|ES| DMAX">
 	<title lang="es">091: Alerta Policía T4 E5</title>
 	<sub-title lang="es">2020 | ⑯ | ★★★☆☆</sub-title>
 	<desc lang="es">Documentales/Actualidad · Historias reales de los hombres y mujeres de la Policía Nacional en su lucha constante contra el crimen en todas sus vertientes, arriesgando sus vidas para ayudar a los demás.
@@ -627,7 +624,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230429235400 +0200" stop="20230430005100 +0200" channel="DMAX">
+  <programme start="20230429235400 +0200" stop="20230430005100 +0200" channel="|ES| DMAX">
 	<title lang="es">Testigos de lo paranormal T5 E5</title>
 	<sub-title lang="es">2022 | ⑯</sub-title>
 	<desc lang="es">Ocio y Aficiones/Esoterismo · Un grupo de expertos analiza imágenes de algunos de los vídeos paranormales más terroríficos y reveladores del mundo. Desde fenómenos extraños y luces en el cielo, relatos de primera mano que podrían convertir a los escépticos en creyentes.
@@ -644,7 +641,7 @@
       <value>0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230430005100 +0200" stop="20230430014800 +0200" channel="DMAX">
+  <programme start="20230430005100 +0200" stop="20230430014800 +0200" channel="|ES| DMAX">
 	<title lang="es">Testigos de lo paranormal T5 E6 · Luces en la ladera y más</title>
 	<sub-title lang="es">2022 | ⑯</sub-title>
 	<desc lang="es">Ocio y Aficiones/Esoterismo · Un grupo de expertos analiza imágenes de algunos de los vídeos paranormales más terroríficos y reveladores del mundo. Desde fenómenos extraños y luces en el cielo, relatos de primera mano que podrían convertir a los escépticos en creyentes.
@@ -661,7 +658,7 @@
       <value>0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230430014800 +0200" stop="20230430023600 +0200" channel="DMAX">
+  <programme start="20230430014800 +0200" stop="20230430023600 +0200" channel="|ES| DMAX">
 	<title lang="es">Buscadores de fantasmas T18 E8 · Más allá de Bonanza</title>
 	<sub-title lang="es">2020 | ⑫</sub-title>
 	<desc lang="es">Documentales/Otros · Zak y el equipo vuelven a Virginia City para investigar un salón de mala fama. Los empleados dicen haber sido atacados violentamente por espíritus malignos.
@@ -678,7 +675,7 @@
       <value>0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230430023600 +0200" stop="20230430032300 +0200" channel="DMAX">
+  <programme start="20230430023600 +0200" stop="20230430032300 +0200" channel="|ES| DMAX">
 	<title lang="es">Winamax Live Sessions T2 E8</title>
 	<sub-title lang="es">2023 | ⑱</sub-title>
 	<desc lang="es">Deportes/Programa · Disfrutamos de una partida de póker con los mejores jugadores españoles e internacionales y entendemos la estrategia que hay detrás del juego.
@@ -694,7 +691,7 @@
       <value>0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230430032300 +0200" stop="20230430040900 +0200" channel="DMAX">
+  <programme start="20230430032300 +0200" stop="20230430040900 +0200" channel="|ES| DMAX">
 	<title lang="es">Grabaciones de un asesinato T4 E17 · Un cuerpo en el patio</title>
 	<sub-title lang="es">2021 | ⑫</sub-title>
 	<desc lang="es">Documentales/Sociedad · Los espectadores obtienen una perspectiva cercana de cada caso gracias a las cámaras corporales, de vigilancia y las salas de interrogatorio.
@@ -710,7 +707,7 @@
       <value>0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230430040900 +0200" stop="20230430045400 +0200" channel="DMAX">
+  <programme start="20230430040900 +0200" stop="20230430045400 +0200" channel="|ES| DMAX">
 	<title lang="es">Grabaciones de un asesinato T4 E18 · El hombre de la camiseta roja</title>
 	<sub-title lang="es">2021 | ⑫</sub-title>
 	<desc lang="es">Documentales/Sociedad · Los espectadores obtienen una perspectiva cercana de cada caso gracias a las cámaras corporales, de vigilancia y las salas de interrogatorio.
@@ -726,7 +723,7 @@
       <value>0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230430045400 +0200" stop="20230430051600 +0200" channel="DMAX">
+  <programme start="20230430045400 +0200" stop="20230430051600 +0200" channel="|ES| DMAX">
 	<title lang="es">Seprona en acción T3 E10</title>
 	<sub-title lang="es">2022 | ⑦</sub-title>
 	<desc lang="es">Documentales/Actualidad · El Servicio de Protección de la Naturaleza trabaja protegiendo el entorno natural, el bienestar de los seres vivos, el patrimonio histórico español y persiguiendo a los infractores. El espacio recorre una serie de localizaciones para intervenir en situaciones de riesgo.
@@ -742,7 +739,7 @@
       <value>0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230430051600 +0200" stop="20230430053800 +0200" channel="DMAX">
+  <programme start="20230430051600 +0200" stop="20230430053800 +0200" channel="|ES| DMAX">
 	<title lang="es">Seprona en acción T3 E11</title>
 	<sub-title lang="es">2022 | ⑦ | ★★★★☆</sub-title>
 	<desc lang="es">Documentales/Actualidad · El Servicio de Protección de la Naturaleza trabaja protegiendo el entorno natural, el bienestar de los seres vivos, el patrimonio histórico español y persiguiendo a los infractores. El espacio recorre una serie de localizaciones para intervenir en situaciones de riesgo.
@@ -758,7 +755,7 @@
       <value>8/10</value>
     </star-rating>
   </programme>
-  <programme start="20230430053800 +0200" stop="20230430070000 +0200" channel="DMAX">
+  <programme start="20230430053800 +0200" stop="20230430070000 +0200" channel="|ES| DMAX">
 	<title lang="es">Seprona en acción T1 E1</title>
 	<sub-title lang="es">2021 | ⑦ | ★★★★★</sub-title>
 	<desc lang="es">Documentales/Actualidad · Cazadores furtivos invaden un coto a plena luz del día. La inspección sorpresa a un mercado mayorísta, revela irregularidades que nadie quiere asumir.
@@ -774,10 +771,10 @@
       <value>10/10</value>
     </star-rating>
   </programme>
-  <programme start="20230430070000 +0200" stop="20230430110000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230430070000 +0200" stop="20230430110000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -787,10 +784,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230430110000 +0200" stop="20230430150000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230430110000 +0200" stop="20230430150000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -800,10 +797,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230430150000 +0200" stop="20230430190000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230430150000 +0200" stop="20230430190000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -813,10 +810,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230430190000 +0200" stop="20230430230000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230430190000 +0200" stop="20230430230000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -826,10 +823,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230430230000 +0200" stop="20230501030000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230430230000 +0200" stop="20230501030000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -839,10 +836,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230501030000 +0200" stop="20230501070000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230501030000 +0200" stop="20230501070000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -852,10 +849,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230501070000 +0200" stop="20230501110000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230501070000 +0200" stop="20230501110000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -865,10 +862,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230501110000 +0200" stop="20230501150000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230501110000 +0200" stop="20230501150000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -878,10 +875,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230501150000 +0200" stop="20230501190000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230501150000 +0200" stop="20230501190000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -891,10 +888,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230501190000 +0200" stop="20230501230000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230501190000 +0200" stop="20230501230000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -904,10 +901,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230501230000 +0200" stop="20230502030000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230501230000 +0200" stop="20230502030000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -917,10 +914,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230502030000 +0200" stop="20230502070000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230502030000 +0200" stop="20230502070000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -930,10 +927,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230502070000 +0200" stop="20230502110000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230502070000 +0200" stop="20230502110000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -943,10 +940,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230502110000 +0200" stop="20230502150000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230502110000 +0200" stop="20230502150000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -956,10 +953,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230502150000 +0200" stop="20230502190000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230502150000 +0200" stop="20230502190000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -969,10 +966,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230502190000 +0200" stop="20230502230000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230502190000 +0200" stop="20230502230000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -982,10 +979,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230502230000 +0200" stop="20230503030000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230502230000 +0200" stop="20230503030000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -995,10 +992,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230503030000 +0200" stop="20230503070000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230503030000 +0200" stop="20230503070000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1008,10 +1005,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230503070000 +0200" stop="20230503110000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230503070000 +0200" stop="20230503110000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1021,10 +1018,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230503110000 +0200" stop="20230503150000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230503110000 +0200" stop="20230503150000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1034,10 +1031,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230503150000 +0200" stop="20230503190000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230503150000 +0200" stop="20230503190000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1047,10 +1044,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230503190000 +0200" stop="20230503230000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230503190000 +0200" stop="20230503230000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1060,10 +1057,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230503230000 +0200" stop="20230504030000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230503230000 +0200" stop="20230504030000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1073,10 +1070,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230504030000 +0200" stop="20230504070000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230504030000 +0200" stop="20230504070000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1086,10 +1083,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230504070000 +0200" stop="20230504110000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230504070000 +0200" stop="20230504110000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1099,10 +1096,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230504110000 +0200" stop="20230504150000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230504110000 +0200" stop="20230504150000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1112,10 +1109,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230504150000 +0200" stop="20230504190000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230504150000 +0200" stop="20230504190000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1125,10 +1122,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230504190000 +0200" stop="20230504230000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230504190000 +0200" stop="20230504230000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1138,10 +1135,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230504230000 +0200" stop="20230505030000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230504230000 +0200" stop="20230505030000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1151,10 +1148,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230505030000 +0200" stop="20230505070000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230505030000 +0200" stop="20230505070000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1164,10 +1161,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230505070000 +0200" stop="20230505110000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230505070000 +0200" stop="20230505110000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1177,10 +1174,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230505110000 +0200" stop="20230505150000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230505110000 +0200" stop="20230505150000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1190,10 +1187,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230505150000 +0200" stop="20230505190000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230505150000 +0200" stop="20230505190000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1203,10 +1200,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230505190000 +0200" stop="20230505230000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230505190000 +0200" stop="20230505230000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
@@ -1216,10 +1213,10 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230505230000 +0200" stop="20230506030000 +0200" channel="DMAX">
-	<title lang="es">DMAX</title>
+  <programme start="20230505230000 +0200" stop="20230506030000 +0200" channel="|ES| DMAX">
+	<title lang="es">|ES| DMAX</title>
 	<sub-title lang="es">2017 | ★★★☆☆</sub-title>
-	<desc lang="es">Documentales/Otros · Emisión de un documental de DMAX.
+	<desc lang="es">Documentales/Otros · Emisión de un documental de |ES| DMAX.
 
 ·Valoración: 3/5 de 159 votos
 </desc>
