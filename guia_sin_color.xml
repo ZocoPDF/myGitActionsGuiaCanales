@@ -1,45 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv>
+<tv source-info-name="example" source-info-url="example.com" source-data-url="example.com/a" generator-info-name="Example Generator"
+  generator-info-url="https://example.com">
+
   <channel id="MOVISTAR ESTRENOS"></channel>
 
-  <channel id="|ES| DMAX">
-  </channel>
+  <channel id="|ES| DMAX"></channel>
 
-  <channel id="DKISS">
-  </channel>
+  <channel id="DKISS"></channel>
 
-  <channel id="Mega">
-  </channel>
+  <channel id="Mega"></channel>
 
-  <channel id="Ten">
-  </channel>
-
-  <programme start="20230429005100 +0200" stop="20230429014800 +0200" channel="|ES| DMAX">
-    <title lang="es">Curiosidades de la Tierra T4 E6 · El misterio del bosque de los colmillos</title>
-    <sub-title lang="es">2017 | TP | ★★★☆☆</sub-title>
-    <desc lang="es">Documentales/Ciencia y tecnol
-    </desc>
-    <category lang="es">Documentales, Ciencia y tecnología</category>
-    <rating system="ES">
-      <value>TV-G</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6/10</value>
-    </star-rating>
-  </programme>
-
-  <programme start="20230429014800 +0200" stop="20230429023600 +0200" channel="|ES| DMAX">
-    <title lang="es">Desaparecidos T9 E4 · Una cita con el peligro</title>
-    <sub-title lang="es">2018 | ⑫ | ★★★☆☆</sub-title>
-    <desc lang="es">Documentales/Sociedad · Nancy Moyer no está en casa cua</desc>
-    <category lang="es">Documentales, Sociedad</category>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6/10</value>
-    </star-rating>
-  </programme>
+  <channel id="Ten"></channel>
   
 </tv>
