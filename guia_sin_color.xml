@@ -161,7 +161,8 @@
   <programme start="20230429071500 +0200" stop="20230429080000 +0200" channel="|ES| DMAX">
     <title lang="es">Te lo dije T5 E19</title>
     <sub-title lang="es">2016 | ⑦ | ★★★☆☆</sub-title>
-    <desc lang="es">Entretenimiento/Programa</category>
+    <desc lang="es">Entretenimiento/ProgramaDocumentales/Ciencia y tecnología</desc>
+    <category lang="es">Documentales, Ciencia y tecnología</category>
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -173,7 +174,8 @@
   <programme start="20230429080000 +0200" stop="20230429084500 +0200" channel="|ES| DMAX">
     <title lang="es">Te lo dije T5 E20</title>
     <sub-title lang="es">2016 | ⑦ | ★★★☆☆</sub-title>
-    <desc lang="es">Entretenimiento/Programa</category>
+    <desc lang="es">Entretenimiento/ProgramaDocumentales/Ciencia y tecnología</desc>
+    <category lang="es">Documentales, Ciencia y tecnología</category>
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -186,7 +188,8 @@
     <title lang="es">Pareja a la puja T3 E16 · Una carrera hasta la meta</title>
     <sub-title lang="es">2013 | ⑦ | ★★★☆☆</sub-title>
     <desc lang="es">Entretenimiento/Tele Realidad</desc>
-    <category lang="es">Entretenimiento, Tele Realidad</category>
+    <category lang="es">Entretenimiento, Tele RealidadDocumentales/Ciencia y tecnología</desc>
+    <category lang="es">Documentales, Ciencia y tecnología</category>
     <rating system="ES">
       <value>7</value>
     </rating>
