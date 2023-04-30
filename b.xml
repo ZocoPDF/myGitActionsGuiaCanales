@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv source-info-url="http://tvlistings.zap2it.com/" source-info-name="zap2it.com" generator-info-name="zap2xml" generator-info-url="zap2xml@gmail.com">
+<tv source-info-url="http://tvlistings.zap2it.com" source-info-name="zap2it.com" generator-info-name="zap2xml" generator-info-url="zap2xml@gmail.com">
 	<channel id="I2.1.20454.zap2it.com">
 		<display-name>WBBMDT</display-name>
 		<display-name>2.1 WBBMDT</display-name>
@@ -136,3 +136,4 @@
 			<value>TV-14</value>
 		</rating>
 	</programme>
+	</tv>
