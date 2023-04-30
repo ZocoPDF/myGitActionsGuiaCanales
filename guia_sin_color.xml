@@ -188,7 +188,6 @@
     <title lang="es">Pareja a la puja T3 E16 · Una carrera hasta la meta</title>
     <sub-title lang="es">2013 | ⑦ | ★★★☆☆</sub-title>
     <desc lang="es">Entretenimiento/Tele Realidad</desc>
-    <category lang="es">Entretenimiento, Tele RealidadDocumentales/Ciencia y tecnología</desc>
     <category lang="es">Documentales, Ciencia y tecnología</category>
     <rating system="ES">
       <value>7</value>
@@ -201,7 +200,8 @@
   <programme start="20230429091000 +0200" stop="20230429093500 +0200" channel="|ES| DMAX">
     <title lang="es">Pareja a la puja T3 E17 · Ahí abajo</title>
     <sub-title lang="es">2013 | ⑦ | ★★★☆☆</sub-title>
-    <desc lang="es">Entretenimiento/Tele realidad</category>
+    <desc lang="es">Entretenimiento/Tele realidad</desc>
+    <category lang="es">Documentales, Ciencia y tecnología</category>
     <rating system="ES">
       <value>7</value>
     </rating>
