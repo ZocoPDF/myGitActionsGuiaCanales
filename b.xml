@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-url="http://tvlistings.zap2it.com/" source-info-name="zap2it.com" generator-info-name="zap2xml" generator-info-url="zap2xml@gmail.com">
+	<channel id="I2.1.20454.zap2it.com">
+		<display-name>WBBMDT</display-name>
+		<display-name>2.1 WBBMDT</display-name>
+		<display-name>2.1</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/20454/s28711_h3_aa.png" />
+	</channel>
+	<channel id="I5.1.20452.zap2it.com">
+		<display-name>WMAQDT</display-name>
+		<display-name>5.1 WMAQDT</display-name>
+		<display-name>5.1</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/20452/s28717_h3_aa.png" />
+	</channel>
+	<channel id="I5.2.45805.zap2it.com">
+		<display-name>WMAQDT2</display-name>
+		<display-name>5.2 WMAQDT2</display-name>
+		<display-name>5.2</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/45805/s78851_h3_aa.png" />
+	</channel>
+	<channel id="I7.1.20456.zap2it.com">
+		<display-name>WLSDT</display-name>
+		<display-name>7.1 WLSDT</display-name>
+		<display-name>7.1</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/20456/s28708_h3_aa.png" />
+	</channel>
+	<channel id="I9.1.20455.zap2it.com">
+		<display-name>WGNDT</display-name>
+		<display-name>9.1 WGNDT</display-name>
+		<display-name>9.1</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/20455/s20455_h3_aa.png" />
+	</channel>
+	<channel id="I9.2.31044.zap2it.com">
+		<display-name>WGNDT2</display-name>
+		<display-name>9.2 WGNDT2</display-name>
+		<display-name>9.2</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/31044/s70248_h3_aa.png" />
+	</channel>
+	<channel id="I11.1.30415.zap2it.com">
+		<display-name>WTTWDT</display-name>
+		<display-name>11.1 WTTWDT</display-name>
+		<display-name>11.1</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/30415/s32356_h3_aa.png" />
+	</channel>
+	<channel id="I26.1.36099.zap2it.com">
+		<display-name>WCIUDT</display-name>
+		<display-name>26.1 WCIUDT</display-name>
+		<display-name>26.1</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/36099/s51306_h3_aa.png" />
+	</channel>
+	<channel id="I32.1.20361.zap2it.com">
+		<display-name>WFLDDT</display-name>
+		<display-name>32.1 WFLDDT</display-name>
+		<display-name>32.1</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/20361/s28719_h3_aa.png" />
+	</channel>
+	<channel id="I38.1.24024.zap2it.com">
+		<display-name>WCPXDT</display-name>
+		<display-name>38.1 WCPXDT</display-name>
+		<display-name>38.1</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/24024/s18633_h3_aa.png" />
+	</channel>
+	<channel id="I50.1.34662.zap2it.com">
+		<display-name>WPWRDT</display-name>
+		<display-name>50.1 WPWRDT</display-name>
+		<display-name>50.1</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/34662/s51307_h3_aa.png" />
+	</channel>
+	<programme start="20201229090000 -0600" stop="20201229100000 -0600" channel="I2.1.20454.zap2it.com">
+		<title lang="en">Let&apos;s Make a Deal</title>
+		<desc lang="en">Costumed contestants compete for cash and prizes.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7805542_b_v8_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01176132&amp;tmsId=SH011761320000</url>
+		<episode-num system="dd_progid">SH01176132.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20201229100000 -0600" stop="20201229110000 -0600" channel="I2.1.20454.zap2it.com">
+		<title lang="en">The Price Is Right</title>
+		<desc lang="en">Contestants bid for prizes then compete for fabulous showcases.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p183911_b_v8_af.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004372&amp;tmsId=SH000043720000</url>
+		<episode-num system="dd_progid">SH00004372.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20201229110000 -0600" stop="20201229113000 -0600" channel="I2.1.20454.zap2it.com">
+		<title lang="en">CBS 2 News at 11:00AM</title>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p605091_st_v8_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00352374&amp;tmsId=SH003523740000</url>
+		<episode-num system="dd_progid">SH00352374.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20201229113000 -0600" stop="20201229123000 -0600" channel="I2.1.20454.zap2it.com">
+		<title lang="en">The Young and the Restless</title>
+		<desc lang="en">Mariah protects Faith; Sally opens up about her past; Nate&apos;s plan for romance backfires.</desc>
+		<date>20201229</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p183904_b_v9_ah.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004422&amp;tmsId=EP000044226101</url>
+		<episode-num system="common">S48E69</episode-num>
+		<episode-num system="dd_progid">EP00004422.6101</episode-num>
+		<episode-num system="xmltv_ns">47.68.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20201229123000 -0600" stop="20201229130000 -0600" channel="I2.1.20454.zap2it.com">
+		<title lang="en">The Bold and the Beautiful</title>
+		<desc lang="en">Zoe&apos;s adverse reaction to news about Paris throws Carter off guard; Liam unravels under the guilt of having betrayed Hope.</desc>
+		<date>20201229</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p183907_b_v9_aq.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004217&amp;tmsId=EP000042176607</url>
+		<episode-num system="common">S34E70</episode-num>
+		<episode-num system="dd_progid">EP00004217.6607</episode-num>
+		<episode-num system="xmltv_ns">33.69.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
