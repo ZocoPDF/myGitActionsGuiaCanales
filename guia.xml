@@ -20,5 +20,7 @@
   <channel id="Ten">
     <display-name lang="es">Ten</display-name>
   </channel>
+
+  <programme channel="MOVISTAR ESTRENOS"></programme>
   
 </tv>
