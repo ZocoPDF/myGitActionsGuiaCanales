@@ -21,6 +21,7 @@
     <display-name lang="es">Ten</display-name>
   </channel>
 
-  <!--<programme channel="MOVISTAR ESTRENOS"></programme>-->
+  <programme channel="MOVISTAR ESTRENOS"></programme>
+  <programme channel="|ES| DMAX"></programme>
   
 </tv>
