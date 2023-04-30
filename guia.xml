@@ -5,8 +5,8 @@
     <display-name lang="es">MOVISTAR ESTRENOS</display-name>
   </channel>
 
-  <channel id="|ES| DMAX">
-    <display-name>|ES| DMAX</display-name>
+  <channel id="DMAX">
+    <display-name>DMAX</display-name>
   </channel>
 
   <channel id="DKISS">
@@ -14,11 +14,11 @@
   </channel>
 
   <channel id="Mega">
-      <display-name>Mega</display-name>
+      <display-name>MEGA</display-name>
   </channel>
 
   <channel id="Ten">
-    <display-name>Ten</display-name>
+    <display-name>TEN</display-name>
   </channel>
 
   <programme channel="MOVISTAR ESTRENOS"></programme>
