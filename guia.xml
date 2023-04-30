@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "https://raw.githubusercontent.com/XMLTV/xmltv/master/xmltv.dtd">
-<tv source-info-name="example" source-info-url="example.com" source-data-url="example.com/a" generator-info-name="Example Generator"
-  generator-info-url="https://example.com">
+<tv>
 
   <channel id="MOVISTAR ESTRENOS"></channel>
 
