@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
 
-  <channel id="MOVISTAR ESTRENOS"></channel>
+  <channel id="MOVISTAR ESTRENOS">
+    <display-name lang="es">MOVISTAR ESTRENOS</display-name>
+  </channel>
 
-  <channel id="|ES| DMAX"></channel>
+  <channel id="|ES| DMAX">
+    <display-name lang="es">|ES| DMAX</display-name>
+  </channel>
 
-  <channel id="DKISS"></channel>
+  <channel id="DKISS">
+    <display-name lang="es">DKISS</display-name>
+  </channel>
 
-  <channel id="Mega"></channel>
+  <channel id="Mega">
+      <display-name lang="es">Mega</display-name>
+  </channel>
 
-  <channel id="Ten"></channel>
+  <channel id="Ten">
+    <display-name lang="es">Ten</display-name>
+  </channel>
   
 </tv>
