@@ -1,50 +1,25 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv>
+
   <channel id="|ES| DMAX">
-    <display-name lang="es">|ES| DMAX</display-name>
-    <display-name lang="es">|ES| DMAX.</display-name>
-    <display-name lang="es">|ES| DMAX SD</display-name>
-    <display-name lang="es">|ES| DMAX HD</display-name>
-    <display-name lang="es">|ES| DMAX FHD</display-name>
-    <display-name lang="es">|ES| DMAX HEVC</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/|ES| DMAX.png" />
   </channel>
+
   <channel id="DKISS">
-    <display-name lang="es">DKISS</display-name>
-    <display-name lang="es">DKISS.</display-name>
-    <display-name lang="es">DKISS SD</display-name>
-    <display-name lang="es">DKISS HD</display-name>
-    <display-name lang="es">DKISS FHD</display-name>
-    <display-name lang="es">DKISS HEVC</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DKISS.png" />
   </channel>
+
   <channel id="Mega">
-    <display-name lang="es">Mega</display-name>
-    <display-name lang="es">Mega.</display-name>
-    <display-name lang="es">Mega SD</display-name>
-    <display-name lang="es">Mega HD</display-name>
-    <display-name lang="es">Mega FHD</display-name>
-    <display-name lang="es">Mega HEVC</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" />
   </channel>
+
   <channel id="Ten">
-    <display-name lang="es">Ten</display-name>
-    <display-name lang="es">Ten.</display-name>
-    <display-name lang="es">Ten SD</display-name>
-    <display-name lang="es">Ten HD</display-name>
-    <display-name lang="es">Ten FHD</display-name>
-    <display-name lang="es">Ten HEVC</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png" />
   </channel>
 
   <programme start="20230429005100 +0200" stop="20230429014800 +0200" channel="|ES| DMAX">
     <title lang="es">Curiosidades de la Tierra T4 E6 · El misterio del bosque de los colmillos</title>
     <sub-title lang="es">2017 | TP | ★★★☆☆</sub-title>
-    <desc lang="es">Documentales/Ciencia y tecnología · Un bosque de piedras muy afilad
+    <desc lang="es">Documentales/Ciencia y tecnol
     </desc>
     <category lang="es">Documentales, Ciencia y tecnología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDCRMAXP1491129" />
     <rating system="ES">
       <value>TV-G</value>
     </rating>
@@ -56,9 +31,8 @@
   <programme start="20230429014800 +0200" stop="20230429023600 +0200" channel="|ES| DMAX">
     <title lang="es">Desaparecidos T9 E4 · Una cita con el peligro</title>
     <sub-title lang="es">2018 | ⑫ | ★★★☆☆</sub-title>
-    <desc lang="es">Documentales/Sociedad · Nancy Moyer no está en casa cuando sus hijos regresan después de un fin de semana. Más tarde se p</desc>
+    <desc lang="es">Documentales/Sociedad · Nancy Moyer no está en casa cua</desc>
     <category lang="es">Documentales, Sociedad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDCRMAXP1569291" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -70,12 +44,8 @@
   <programme start="20230429023600 +0200" stop="20230429032300 +0200" channel="|ES| DMAX">
     <title lang="es">Desaparecidos T9 E5 · Aguas turbulentas</title>
     <sub-title lang="es">2018 | ⑫ | ★★★☆☆</sub-title>
-    <desc lang="es">Documentales/Sociedad · En 1998, Amy Bradley, de 23 años, realizó un crucero familiar por el Caribe. Después de una pasar noche bailando en la discoteca del barco, desapareció sin dejar rastro alguno.
-
-·Valoración: 3/5 de 36 votos
-·País: EE.UU. </desc>
+    <desc lang="es">Documentales/Sociedad · En 1998, Amy Bradley, d</desc>
     <category lang="es">Documentales, Sociedad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDCRMAXP1569291" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -83,14 +53,11 @@
       <value>6/10</value>
     </star-rating>
   </programme>
+
   <programme start="20230429032300 +0200" stop="20230429040900 +0200" channel="|ES| DMAX">
     <title lang="es">Muerte en el pantano T1 E1</title>
     <sub-title lang="es">2013 | ⑫ | ★★★☆☆</sub-title>
-    <desc lang="es">Entretenimiento/Tele Realidad · Los pantanos son lugares oscuros, peligrosos, llenos de leyendas pero también son lugares donde el crimen es su mejor aliado.
-
-·Valoración: 3/5 de 5 votos
-·País: EE.UU. 
-·Productora: Crazy Legs Productions.</desc>
+    <desc lang="es">Entretenimiento/Tele Realidad</desc>
     <category lang="es">Entretenimiento, Tele Realidad</category>
     <rating system="ES">
       <value>12</value>
@@ -103,11 +70,7 @@
   <programme start="20230429040900 +0200" stop="20230429045400 +0200" channel="|ES| DMAX">
     <title lang="es">Muerte en el pantano T1 E2</title>
     <sub-title lang="es">2013 | ⑫ | ★★★☆☆</sub-title>
-    <desc lang="es">Entretenimiento/Tele Realidad · Los pantanos son lugares oscuros, peligrosos, llenos de leyendas pero también son lugares donde el crimen es su mejor aliado.
-
-·Valoración: 3/5 de 5 votos
-·País: EE.UU. 
-·Productora: Crazy Legs Productions.</desc>
+    <desc lang="es">Entretenimiento/Tele Realidad</desc>
     <category lang="es">Entretenimiento, Tele Realidad</category>
     <rating system="ES">
       <value>12</value>
@@ -116,15 +79,12 @@
       <value>6/10</value>
     </star-rating>
   </programme>
+
   <programme start="20230429045400 +0200" stop="20230429051600 +0200" channel="|ES| DMAX">
     <title lang="es">Seprona en acción T3 E6</title>
     <sub-title lang="es">2022 | ⑦</sub-title>
-    <desc lang="es">Documentales/Actualidad · El Servicio de Protección de la Naturaleza trabaja protegiendo el entorno natural, el bienestar de los seres vivos, el patrimonio histórico español y persiguiendo a los infractores. El espacio recorre una serie de localizaciones para intervenir en situaciones de riesgo.
-
-·Valoración: Sin votos
-·País: España </desc>
+    <desc lang="es">Documentales/Actualidad</desc>
     <category lang="es">Documentales, Actualidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDCRMAXP2144802" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -132,15 +92,12 @@
       <value>0/10</value>
     </star-rating>
   </programme>
+
   <programme start="20230429051600 +0200" stop="20230429053800 +0200" channel="|ES| DMAX">
     <title lang="es">Seprona en acción T3 E7</title>
     <sub-title lang="es">2022 | ⑦</sub-title>
-    <desc lang="es">Documentales/Actualidad · El Servicio de Protección de la Naturaleza trabaja protegiendo el entorno natural, el bienestar de los seres vivos, el patrimonio histórico español y persiguiendo a los infractores. El espacio recorre una serie de localizaciones para intervenir en situaciones de riesgo.
-
-·Valoración: Sin votos
-·País: España </desc>
+    <desc lang="es">Documentales/Actualidad</desc>
     <category lang="es">Documentales, Actualidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDCRMAXP2147379" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -148,15 +105,12 @@
       <value>0/10</value>
     </star-rating>
   </programme>
+
   <programme start="20230429053800 +0200" stop="20230429060000 +0200" channel="|ES| DMAX">
     <title lang="es">Seprona en acción T3 E8</title>
     <sub-title lang="es">2022 | ⑦ | ★★★☆☆</sub-title>
-    <desc lang="es">Documentales/Actualidad · El Servicio de Protección de la Naturaleza trabaja protegiendo el entorno natural, el bienestar de los seres vivos, el patrimonio histórico español y persiguiendo a los infractores. El espacio recorre una serie de localizaciones para intervenir en situaciones de riesgo.
-
-·Valoración: 3/5 de 1 voto
-·País: España </desc>
+    <desc lang="es">Documentales/Actualidad</desc>
     <category lang="es">Documentales, Actualidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDCRMAXP2147380" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -164,16 +118,12 @@
       <value>6/10</value>
     </star-rating>
   </programme>
+
   <programme start="20230429060000 +0200" stop="20230429062500 +0200" channel="|ES| DMAX">
     <title lang="es">¿Cómo lo hacen? T11 E19</title>
     <sub-title lang="es">2013 | TP | ★★★☆☆</sub-title>
-    <desc lang="es">Documentales/Ciencia y tecnología · ¿Cómo se fabricaba la bebida favorita de George Washington? ¿Cómo se ponen a prueba los asientos de los aviones sin necesidad de estrellarlos? ¿Cómo se producen millones de pilas?
-
-·Valoración: 3/5 de 131 votos
-·País: Canadá y R.U. 
-·Dirección: Christopher Lent, Jon Stephens.</desc>
+    <desc lang="es">Documentales/Ciencia y tecnología</desc>
     <category lang="es">Documentales, Ciencia y tecnología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDCRMAXP1248084" />
     <rating system="ES">
       <value>TV-G</value>
     </rating>
@@ -181,16 +131,12 @@
       <value>6/10</value>
     </star-rating>
   </programme>
+
   <programme start="20230429062500 +0200" stop="20230429065000 +0200" channel="|ES| DMAX">
     <title lang="es">¿Cómo lo hacen? T11 E20</title>
     <sub-title lang="es">2013 | TP | ★★★☆☆</sub-title>
-    <desc lang="es">Documentales/Ciencia y tecnología · ¿Cómo se construyen esclusas de canales para que las embarcaciones de todo tipo puedan navegar hacia arriba? ¿Cómo se ponen las burbujas en el té de burbujas favorito de Taiwán?
-
-·Valoración: 3/5 de 124 votos
-·País: Canadá y R.U. 
-·Dirección: Christopher Lent, Jon Stephens.</desc>
+    <desc lang="es">Documentales/Ciencia y tecnología</desc>
     <category lang="es">Documentales, Ciencia y tecnología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDCRMAXP1260943" />
     <rating system="ES">
       <value>TV-G</value>
     </rating>
@@ -198,16 +144,12 @@
       <value>6/10</value>
     </star-rating>
   </programme>
+
   <programme start="20230429065000 +0200" stop="20230429071500 +0200" channel="|ES| DMAX">
     <title lang="es">¿Cómo lo hacen?: Baklavas, Autogiros, Ukeleles T13 E1</title>
     <sub-title lang="es">2015 | TP | ★★★☆☆</sub-title>
-    <desc lang="es">Documentales/Ciencia y tecnología · ¿Cómo fabrican el delicioso baklava, el dulce preferido de los Otomanos? Además, el giroplano de James Bond, el ukelele y el ferri más rápido del mundo, el Supercat.
-
-·Valoración: 3/5 de 105 votos
-·País: Canadá y R.U. 
-·Dirección: Christopher Lent, Jon Stephens.</desc>
+    <desc lang="es">Documentales/Ciencia y tecnología</desc>
     <category lang="es">Documentales, Ciencia y tecnología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDCRMAXP1348531" />
     <rating system="ES">
       <value>TV-G</value>
     </rating>
@@ -215,16 +157,11 @@
       <value>6/10</value>
     </star-rating>
   </programme>
+
   <programme start="20230429071500 +0200" stop="20230429080000 +0200" channel="|ES| DMAX">
     <title lang="es">Te lo dije T5 E19</title>
     <sub-title lang="es">2016 | ⑦ | ★★★☆☆</sub-title>
-    <desc lang="es">Entretenimiento/Programa · Este programa muestra a creadores que reinventan ideas clásicas, aumentándolas y mejorándolas. Estas creaciones incluyen ratoneras gigantescas y una diana para dardos automática.
-
-·Valoración: 3/5 de 38 votos
-·País: EE.UU. y R.U. 
-·Productora: October Films Productions, Discovery Communications International.</desc>
-    <category lang="es">Entretenimiento, Programa</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDCRMAXP1346168" />
+    <desc lang="es">Entretenimiento/Programa</category>
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -232,16 +169,11 @@
       <value>6/10</value>
     </star-rating>
   </programme>
+
   <programme start="20230429080000 +0200" stop="20230429084500 +0200" channel="|ES| DMAX">
     <title lang="es">Te lo dije T5 E20</title>
     <sub-title lang="es">2016 | ⑦ | ★★★☆☆</sub-title>
-    <desc lang="es">Entretenimiento/Programa · Los clips más peligrosos en Internet, en donde se celebra a todos los que convierten el desastre en un experimento científico. ¡Un hombre arrastra por sí solo un avión enorme!
-
-·Valoración: 3/5 de 53 votos
-·País: EE.UU. y R.U. 
-·Productora: October Films Productions, Discovery Communications International.</desc>
-    <category lang="es">Entretenimiento, Programa</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDCRMAXP1346168" />
+    <desc lang="es">Entretenimiento/Programa</category>
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -249,16 +181,12 @@
       <value>6/10</value>
     </star-rating>
   </programme>
+
   <programme start="20230429084500 +0200" stop="20230429091000 +0200" channel="|ES| DMAX">
     <title lang="es">Pareja a la puja T3 E16 · Una carrera hasta la meta</title>
     <sub-title lang="es">2013 | ⑦ | ★★★☆☆</sub-title>
-    <desc lang="es">Entretenimiento/Tele Realidad · Un artículo en un contenedor hace que Papa Bear y Mone aceleren sus motores, mientras que T Money apuesta por las armas en otro contenedor. El equipo Brandori sube las apuestas.
-
-·Valoración: 3/5 de 114 votos
-·País: EE.UU. 
-·Productora: T Group Productions.</desc>
+    <desc lang="es">Entretenimiento/Tele Realidad</desc>
     <category lang="es">Entretenimiento, Tele Realidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDCRMAXP1169336" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -266,16 +194,11 @@
       <value>6/10</value>
     </star-rating>
   </programme>
+
   <programme start="20230429091000 +0200" stop="20230429093500 +0200" channel="|ES| DMAX">
     <title lang="es">Pareja a la puja T3 E17 · Ahí abajo</title>
     <sub-title lang="es">2013 | ⑦ | ★★★☆☆</sub-title>
-    <desc lang="es">Entretenimiento/Tele Realidad · Una unidad de almacenamiento de las antípodas guarda una sorpresa oscura y misteriosa. Jessie promete evitar que todos ganen. Papa Bear empuja a Brandon al borde del abismo.
-
-·Valoración: 3/5 de 103 votos
-·País: EE.UU. 
-·Productora: T Group Productions.</desc>
-    <category lang="es">Entretenimiento, Tele Realidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDCRMAXP1169337" />
+    <desc lang="es">Entretenimiento/Tele realidad</category>
     <rating system="ES">
       <value>7</value>
     </rating>
