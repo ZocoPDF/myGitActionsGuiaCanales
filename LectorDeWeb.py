@@ -1,5 +1,7 @@
-import requests
 import xml.etree.ElementTree as ET
+
+import requests
+
 
 class LectorDeWeb():
     def __init__(self, url="https://www.movistarplus.es/programacion-tv", timeout=1) -> None:
