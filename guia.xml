@@ -13,16 +13,18 @@
     <display-name>DKISS</display-name>
   </channel>
 
-  <channel id="Mega">
+  <channel id="MEGA">
       <display-name>MEGA</display-name>
   </channel>
 
-  <channel id="Ten">
+  <channel id="TEN">
     <display-name>TEN</display-name>
   </channel>
 
   <programme channel="MOVISTAR ESTRENOS"></programme>
   <programme channel="DMAX"></programme>
-   <programme channel="DKISS"></programme>
+  <programme channel="DKISS"></programme>
+  <programme channel="MEGA"></programme>
+  <programme channel="TEN"></programme>
   
 </tv>
