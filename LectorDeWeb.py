@@ -11,7 +11,7 @@ class LectorDeWeb():
         return self.response.text
 
 if __name__ == "__main__":
-    datosxml="<programme><title></title></programme>"
+    datosxml='<programme><title></title></programme>'
     # lector = LectorDeWeb()
     # print(type(lector.response.text))
     # print(lector)
