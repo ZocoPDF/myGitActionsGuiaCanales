@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-
-  <channel id="MOVISTAR ESTRENOS">
+  <!-- <channel id="MOVISTAR ESTRENOS">
     <display-name>|ES|MOVISTAR ESTRENOS</display-name>
     <display-name>|ES| MOVISTAR ESTRENOS</display-name>
-  </channel>
+  </channel> -->
 
-  <channel id="DMAX">
+  <!-- <channel id="DMAX">
     <display-name>|ES|DMAX</display-name>
     <display-name>|ES| DMAX</display-name>
-  </channel>
+  </channel> -->
 
   <channel id="LA1">
     <display-name>|ES|LA 1</display-name>
     <display-name>|ES| LA 1</display-name>
   </channel>
 
-  <channel id="LA2">
+  <!-- <channel id="LA2">
       <display-name>|ES|LA 2</display-name>
       <display-name>|ES| LA 2</display-name>
-  </channel>
-
+  </channel> -->
+<!-- 
   <channel id="ANTENA3">
     <display-name>|ES|ANTENA 3</display-name>
     <display-name>|ES| ANTENA 3</display-name>
-  </channel>
+  </channel> -->
 
-  <programme channel="MOVISTAR ESTRENOS"></programme>
-  <programme channel="DMAX"></programme>
+  <!-- <programme channel="MOVISTAR ESTRENOS"></programme> -->
+  <!-- <programme channel="DMAX"></programme> -->
   <programme channel="LA1"></programme>
-  <programme channel="LA2"></programme>
-  <programme channel="ANTENA3"></programme>
+  <!-- <programme channel="LA2"></programme> -->
+  <!-- <programme channel="ANTENA3"></programme> -->
   
 </tv>
