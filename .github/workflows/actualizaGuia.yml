@@ -1,6 +1,6 @@
 name: Actualiza-Guia
 
-on: push
+on: 
 
 jobs:
   super-lint:
