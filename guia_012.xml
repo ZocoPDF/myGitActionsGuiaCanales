@@ -18,7 +18,7 @@
       <display-name>rabae</display-name>
   </channel>
 
-  <channel id="ANTENA3">
+  <channel id="|ES|ANTENA3">
     <display-name>zurullo</display-name>
   </channel>
 
@@ -26,6 +26,6 @@
   <!-- <programme channel="DMAX"></programme> -->
   <programme channel="|ES|LA1"></programme>
   <programme channel="|ES|LA1FHD"></programme>
-  <programme channel="ANTENA3"></programme>
+  <programme channel="|ES|ANTENA3"></programme>
   
 </tv>
