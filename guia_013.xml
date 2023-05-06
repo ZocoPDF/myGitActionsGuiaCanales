@@ -10,7 +10,7 @@
     <display-name>|ES| DMAX</display-name>
   </channel> -->
 
-  <channel id="|ES|LA 1">
+  <channel id="LA1HD">
     <display-name>rabo</display-name>
   </channel>
 
@@ -24,7 +24,7 @@
 
   <!-- <programme channel="MOVISTAR ESTRENOS"></programme> -->
   <!-- <programme channel="DMAX"></programme> -->
-  <programme channel="|ES|LA 1"></programme>
+  <programme channel="LA1HD"></programme>
   <!-- <programme channel="|ES|LA1FHD"></programme> -->
   <!-- <programme channel="|ES|ANTENA3"></programme> -->
   
