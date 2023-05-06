@@ -11,21 +11,21 @@
   </channel> -->
 
   <channel id="LA1HD">
-    <display-name>rabo</display-name>
+    <display-name>LA 1</display-name>
   </channel>
 
   <channel id="LA2HD">
-      <display-name>rabae</display-name>
+      <display-name>LA 2</display-name>
   </channel>
 
-  <!-- <channel id="|ES|ANTENA3">
-    <display-name>zurullo</display-name>
-  </channel> -->
+  <channel id="ANTENA3">
+    <display-name>ANTENA 3</display-name>
+  </channel>
 
   <!-- <programme channel="MOVISTAR ESTRENOS"></programme> -->
   <!-- <programme channel="DMAX"></programme> -->
   <programme channel="LA1HD"></programme>
   <programme channel="LA2HD"></programme>
-  <!-- <programme channel="|ES|ANTENA3"></programme> -->
+  <programme channel="ANTENA3"></programme>
   
 </tv>
