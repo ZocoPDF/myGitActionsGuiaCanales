@@ -12,13 +12,11 @@
 
   <channel id="LA1">
     <display-name>|ES|LA 1</display-name>
-    <!-- <display-name>|ES| LA 1</display-name> -->
   </channel>
 
-  <!-- <channel id="LA2">
+  <channel id="LA2">
       <display-name>|ES|LA 2</display-name>
-      <display-name>|ES| LA 2</display-name>
-  </channel> -->
+  </channel>
 <!-- 
   <channel id="ANTENA3">
     <display-name>|ES|ANTENA 3</display-name>
