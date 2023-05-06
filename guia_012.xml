@@ -14,7 +14,7 @@
     <display-name>rabo</display-name>
   </channel>
 
-  <channel id="LA2">
+  <channel id="|ES|LA1 FHD">
       <display-name>rabae</display-name>
   </channel>
 
@@ -25,7 +25,7 @@
   <!-- <programme channel="MOVISTAR ESTRENOS"></programme> -->
   <!-- <programme channel="DMAX"></programme> -->
   <programme channel="|ES|LA1"></programme>
-  <programme channel="LA2"></programme>
+  <programme channel="|ES|LA1 FHD"></programme>
   <programme channel="ANTENA3"></programme>
   
 </tv>
