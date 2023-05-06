@@ -12,9 +12,7 @@
 
   <channel id="LA1">
     <display-name>|ES|LA 1</display-name>
-    <display-name>|ES| LA 1</display-name>
-    <display-name>|ES|LA 1 HD</display-name>
-    <display-name>|ES| LA 1 HD</display-name>
+    <!-- <display-name>|ES| LA 1</display-name> -->
   </channel>
 
   <!-- <channel id="LA2">
