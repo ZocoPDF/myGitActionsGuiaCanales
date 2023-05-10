@@ -10,22 +10,27 @@
     <display-name>|ES| DMAX</display-name>
   </channel> -->
 
-  <channel id="LA1HD">
+  <channel id="48383">
     <display-name>LA 1</display-name>
   </channel>
 
-  <channel id="LA2HD">
+  <channel id="48385">
       <display-name>LA 2</display-name>
   </channel>
 
-  <channel id="ANTENA3">
+  <channel id="48387">
     <display-name>ANTENA 3</display-name>
+  </channel>
+
+  <channel id="110582">
+    <display-name>TVG América</display-name>
   </channel>
 
   <!-- <programme channel="MOVISTAR ESTRENOS"></programme> -->
   <!-- <programme channel="DMAX"></programme> -->
-  <programme channel="LA1HD"></programme>
-  <programme channel="LA2HD"></programme>
-  <programme channel="ANTENA3"></programme>
+  <programme channel="48383"></programme>
+  <programme channel="48385"></programme>
+  <programme channel="48387"></programme>
+  <programme channel="110582"></programme>
   
 </tv>
