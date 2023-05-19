@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <!-- <channel id="MOVISTAR ESTRENOS">
-    <display-name>|ES|MOVISTAR ESTRENOS</display-name>
-    <display-name>|ES| MOVISTAR ESTRENOS</display-name>
-  </channel> -->
-
-  <!-- <channel id="DMAX">
-    <display-name>|ES|DMAX</display-name>
-    <display-name>|ES| DMAX</display-name>
-  </channel> -->
-
   <channel id="LA1HD">
     <display-name>LA 1</display-name>
   </channel>
@@ -26,8 +16,6 @@
     <display-name>TVG América</display-name>
   </channel>
 
-  <!-- <programme channel="MOVISTAR ESTRENOS"></programme> -->
-  <!-- <programme channel="DMAX"></programme> -->
   <programme channel="LA1HD"></programme>
   <programme channel="LA2HD"></programme>
   <programme channel="ANTENA3"></programme>
