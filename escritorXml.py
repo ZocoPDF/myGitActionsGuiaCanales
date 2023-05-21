@@ -25,8 +25,8 @@ class EscritorXml():
             for programa in self.programacion[canal]:
                 programme = ET.SubElement(root, "programme", attrib={
                     'start':self.convertirFechas(self.programacion[canal][programa]['horaInicio']),
-                    # 'stop':self.convertirPixelsEnFechas(self.programacion[canal][programa]['horaInicio'],
-                    #                                     self.programacion[canal][programa]['horaFin']),
+                    'stop':self.convertirPixelsEnFechas(self.programacion[canal][programa]['horaInicio'],
+                                                        self.programacion[canal][programa]['horaFin']),
                     'channel':canalM3u if canalM3u != None else canal 
 
                     })
