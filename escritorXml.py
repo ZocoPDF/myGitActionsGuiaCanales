@@ -21,12 +21,14 @@ class EscritorXml():
 
         # agregamos los elementos <programme>
         for canal in self.programacion:
+            canalM3u = self.buscaKeyPorCanal(canal)
             for programa in self.programacion[canal]:
                 programme = ET.SubElement(root, "programme", attrib={
                     'start':self.convertirFechas(self.programacion[canal][programa]['horaInicio']),
                     'stop':self.convertirPixelsEnFechas(self.programacion[canal][programa]['horaInicio'],
                                                         self.programacion[canal][programa]['horaFin']),
-                    'channel':canal
+                    'channel':canalM3u if canalM3u != None else canal 
+
                     })
                 titulo = ET.SubElement(programme, "title")
                 titulo.text = self.programacion[canal][programa]['titulo']
@@ -64,3 +66,9 @@ class EscritorXml():
         prettyText = minidom.parseString(tree_str).toprettyxml(indent='    ')
 
         return prettyText
+    
+    # busca un value en un dict, pero ojo, no
+    def buscaKeyPorCanal(self, canal):
+        for k, v in self.canales.items():
+            if v in canal:return k
+        return None

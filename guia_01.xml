@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" ?>
 <tv>
     <channel id="MESTHD">
         <display-name>M+ Estrenos</display-name>
@@ -90,499 +90,499 @@
     <channel id="VAMOS">
         <display-name>M+ #Vamos</display-name>
     </channel>
-    <programme start="20230521060000 +0002" stop="20230521093000 +0002" channel="TVE">
+    <programme start="20230521060000 +0002" stop="20230521093000 +0002" channel="LA1HD">
         <title>Noticias 24H</title>
     </programme>
-    <programme start="20230521093000 +0002" stop="20230521102500 +0002" channel="TVE">
+    <programme start="20230521093000 +0002" stop="20230521102500 +0002" channel="LA1HD">
         <title>Comerse el mundo: Azores</title>
     </programme>
-    <programme start="20230521102500 +0002" stop="20230521131500 +0002" channel="TVE">
+    <programme start="20230521102500 +0002" stop="20230521131500 +0002" channel="LA1HD">
         <title>MasterChef: Episodio 16</title>
     </programme>
-    <programme start="20230521131500 +0002" stop="20230521140000 +0002" channel="TVE">
+    <programme start="20230521131500 +0002" stop="20230521140000 +0002" channel="LA1HD">
         <title>Brigada Tech: Águilas (Región de Murcia)</title>
     </programme>
-    <programme start="20230521140000 +0002" stop="20230521143000 +0002" channel="TVE">
+    <programme start="20230521140000 +0002" stop="20230521143000 +0002" channel="LA1HD">
         <title>Viaje al centro de la tele exprés: Viva el rock, grandes éxitos</title>
     </programme>
-    <programme start="20230521143000 +0002" stop="20230521150000 +0002" channel="TVE">
+    <programme start="20230521143000 +0002" stop="20230521150000 +0002" channel="LA1HD">
         <title>Corazón fin de semana</title>
     </programme>
-    <programme start="20230521150000 +0002" stop="20230521160000 +0002" channel="TVE">
+    <programme start="20230521150000 +0002" stop="20230521160000 +0002" channel="LA1HD">
         <title>Telediario 1 Fin de Semana</title>
     </programme>
-    <programme start="20230521160000 +0002" stop="20230521173000 +0002" channel="TVE">
+    <programme start="20230521160000 +0002" stop="20230521173000 +0002" channel="LA1HD">
         <title>Un día de abril</title>
     </programme>
-    <programme start="20230521173000 +0002" stop="20230521190000 +0002" channel="TVE">
+    <programme start="20230521173000 +0002" stop="20230521190000 +0002" channel="LA1HD">
         <title>Los caminos del corazón</title>
     </programme>
-    <programme start="20230521190000 +0002" stop="20230521203000 +0002" channel="TVE">
+    <programme start="20230521190000 +0002" stop="20230521203000 +0002" channel="LA1HD">
         <title>Un destino diferente</title>
     </programme>
-    <programme start="20230521203000 +0002" stop="20230521210000 +0002" channel="TVE">
+    <programme start="20230521203000 +0002" stop="20230521210000 +0002" channel="LA1HD">
         <title>Aquí la Tierra</title>
     </programme>
-    <programme start="20230521210000 +0002" stop="20230521220500 +0002" channel="TVE">
+    <programme start="20230521210000 +0002" stop="20230521220500 +0002" channel="LA1HD">
         <title>Telediario 2 Fin de Semana</title>
     </programme>
-    <programme start="20230521220500 +0002" stop="20230522004000 +0002" channel="TVE">
+    <programme start="20230521220500 +0002" stop="20230522004000 +0002" channel="LA1HD">
         <title>Django desencadenado</title>
     </programme>
-    <programme start="20230521004000 +0002" stop="20230521024000 +0002" channel="TVE">
+    <programme start="20230521004000 +0002" stop="20230521024000 +0002" channel="LA1HD">
         <title>Ejecución inminente</title>
     </programme>
-    <programme start="20230521024000 +0002" stop="20230521043000 +0002" channel="TVE">
+    <programme start="20230521024000 +0002" stop="20230521043000 +0002" channel="LA1HD">
         <title>Mandy</title>
     </programme>
-    <programme start="20230521043000 +0002" stop="20230521060000 +0002" channel="TVE">
+    <programme start="20230521043000 +0002" stop="20230521060000 +0002" channel="LA1HD">
         <title>Noticias 24H</title>
     </programme>
-    <programme start="20230521063500 +0002" stop="20230521073500 +0002" channel="LA2">
+    <programme start="20230521063500 +0002" stop="20230521073500 +0002" channel="LA2HD">
         <title>UNED</title>
     </programme>
-    <programme start="20230521073500 +0002" stop="20230521082500 +0002" channel="LA2">
+    <programme start="20230521073500 +0002" stop="20230521082500 +0002" channel="LA2HD">
         <title>El rey de la sabana: Depredadores de la sabana</title>
     </programme>
-    <programme start="20230521082500 +0002" stop="20230521091500 +0002" channel="LA2">
+    <programme start="20230521082500 +0002" stop="20230521091500 +0002" channel="LA2HD">
         <title>Los conciertos de La 2: Especial Día de Europa (Parte 1)</title>
     </programme>
-    <programme start="20230521100000 +0002" stop="20230521102500 +0002" channel="LA2">
+    <programme start="20230521100000 +0002" stop="20230521102500 +0002" channel="LA2HD">
         <title>Últimas preguntas</title>
     </programme>
-    <programme start="20230521103000 +0002" stop="20230521113000 +0002" channel="LA2">
+    <programme start="20230521103000 +0002" stop="20230521113000 +0002" channel="LA2HD">
         <title>El día del señor</title>
     </programme>
-    <programme start="20230521113000 +0002" stop="20230521115500 +0002" channel="LA2">
+    <programme start="20230521113000 +0002" stop="20230521115500 +0002" channel="LA2HD">
         <title>Pueblo de Dios</title>
     </programme>
-    <programme start="20230521115500 +0002" stop="20230521125500 +0002" channel="LA2">
+    <programme start="20230521115500 +0002" stop="20230521125500 +0002" channel="LA2HD">
         <title>Saber vivir: Episodio 174</title>
     </programme>
-    <programme start="20230521125500 +0002" stop="20230521135000 +0002" channel="LA2">
+    <programme start="20230521125500 +0002" stop="20230521135000 +0002" channel="LA2HD">
         <title>Flash Moda</title>
     </programme>
-    <programme start="20230521135000 +0002" stop="20230521142000 +0002" channel="LA2">
+    <programme start="20230521135000 +0002" stop="20230521142000 +0002" channel="LA2HD">
         <title>Zoom tendencias</title>
     </programme>
-    <programme start="20230521142000 +0002" stop="20230521144000 +0002" channel="LA2">
+    <programme start="20230521142000 +0002" stop="20230521144000 +0002" channel="LA2HD">
         <title>Las islas griegas con Julia Bradbury: Creta</title>
     </programme>
-    <programme start="20230521144000 +0002" stop="20230521153500 +0002" channel="LA2">
+    <programme start="20230521144000 +0002" stop="20230521153500 +0002" channel="LA2HD">
         <title>El valle del Loira. Un tesoro de Francia</title>
     </programme>
-    <programme start="20230521153500 +0002" stop="20230521162000 +0002" channel="LA2">
+    <programme start="20230521153500 +0002" stop="20230521162000 +0002" channel="LA2HD">
         <title>Saber y ganar fin de semana: Episodio 242</title>
     </programme>
-    <programme start="20230521162000 +0002" stop="20230521171000 +0002" channel="LA2">
+    <programme start="20230521162000 +0002" stop="20230521171000 +0002" channel="LA2HD">
         <title>Los secretos naturales del ecuador: El Amazonas</title>
     </programme>
-    <programme start="20230521171000 +0002" stop="20230521180000 +0002" channel="LA2">
+    <programme start="20230521171000 +0002" stop="20230521180000 +0002" channel="LA2HD">
         <title>En las profundidades del océano: La procreación</title>
     </programme>
-    <programme start="20230521180000 +0002" stop="20230521185000 +0002" channel="LA2">
+    <programme start="20230521180000 +0002" stop="20230521185000 +0002" channel="LA2HD">
         <title>Cazadores Mediterráneos</title>
     </programme>
-    <programme start="20230521185000 +0002" stop="20230521193500 +0002" channel="LA2">
+    <programme start="20230521185000 +0002" stop="20230521193500 +0002" channel="LA2HD">
         <title>Planeta Verde: Mundos estacionales</title>
     </programme>
-    <programme start="20230521193500 +0002" stop="20230521200500 +0002" channel="LA2">
+    <programme start="20230521193500 +0002" stop="20230521200500 +0002" channel="LA2HD">
         <title>80 cm: El Valle del Genal y sus pueblos</title>
     </programme>
-    <programme start="20230521200500 +0002" stop="20230521205500 +0002" channel="LA2">
+    <programme start="20230521200500 +0002" stop="20230521205500 +0002" channel="LA2HD">
         <title>Ruralitas: Rubielos Altos y Saldana</title>
     </programme>
-    <programme start="20230521205500 +0002" stop="20230521213000 +0002" channel="LA2">
+    <programme start="20230521205500 +0002" stop="20230521213000 +0002" channel="LA2HD">
         <title>Turismo rural en el mundo: Extremadura: por los valles del norte cacereño</title>
     </programme>
-    <programme start="20230521213000 +0002" stop="20230521223000 +0002" channel="LA2">
+    <programme start="20230521213000 +0002" stop="20230521223000 +0002" channel="LA2HD">
         <title>Florán Rey. De luz y de sombra</title>
     </programme>
-    <programme start="20230521223000 +0002" stop="20230521235700 +0002" channel="LA2">
+    <programme start="20230521223000 +0002" stop="20230521235700 +0002" channel="LA2HD">
         <title>Black Beach</title>
     </programme>
-    <programme start="20230521235700 +0002" stop="20230522012500 +0002" channel="LA2">
+    <programme start="20230521235700 +0002" stop="20230522012500 +0002" channel="LA2HD">
         <title>Novela Vaga</title>
     </programme>
-    <programme start="20230521012500 +0002" stop="20230521023500 +0002" channel="LA2">
+    <programme start="20230521012500 +0002" stop="20230521023500 +0002" channel="LA2HD">
         <title>El hombre más peligroso de Europa, Otto Skorzeny en España</title>
     </programme>
-    <programme start="20230521023500 +0002" stop="20230521033000 +0002" channel="LA2">
+    <programme start="20230521023500 +0002" stop="20230521033000 +0002" channel="LA2HD">
         <title>Puertos francos, la caja fuerte del arte</title>
     </programme>
-    <programme start="20230521033000 +0002" stop="20230521041500 +0002" channel="LA2">
+    <programme start="20230521033000 +0002" stop="20230521041500 +0002" channel="LA2HD">
         <title>La tumba prohibida de Atila</title>
     </programme>
-    <programme start="20230521041500 +0002" stop="20230521051000 +0002" channel="LA2">
+    <programme start="20230521041500 +0002" stop="20230521051000 +0002" channel="LA2HD">
         <title>Evolución: 250 años del Museo Nacional de Ciencias Naturales</title>
     </programme>
-    <programme start="20230521051000 +0002" stop="20230521053500 +0002" channel="LA2">
+    <programme start="20230521051000 +0002" stop="20230521053500 +0002" channel="LA2HD">
         <title>Las islas griegas con Julia Bradbury: Santorini</title>
     </programme>
-    <programme start="20230521053500 +0002" stop="20230521060000 +0002" channel="LA2">
+    <programme start="20230521053500 +0002" stop="20230521060000 +0002" channel="LA2HD">
         <title>La aventura del saber: Episodio 832</title>
     </programme>
-    <programme start="20230521050000 +0002" stop="20230521052000 +0002" channel="A3">
+    <programme start="20230521050000 +0002" stop="20230521052000 +0002" channel="ANTENA3">
         <title>Minutos musicales</title>
     </programme>
-    <programme start="20230521062000 +0002" stop="20230521070000 +0002" channel="A3">
+    <programme start="20230521062000 +0002" stop="20230521070000 +0002" channel="ANTENA3">
         <title>Remescar cosmética al instante: Episodio 5</title>
     </programme>
-    <programme start="20230521070000 +0002" stop="20230521072500 +0002" channel="A3">
+    <programme start="20230521070000 +0002" stop="20230521072500 +0002" channel="ANTENA3">
         <title>Pelopicopata: Episodio 43</title>
     </programme>
-    <programme start="20230521072500 +0002" stop="20230521075000 +0002" channel="A3">
+    <programme start="20230521072500 +0002" stop="20230521075000 +0002" channel="ANTENA3">
         <title>Pelopicopata: Episodio 44</title>
     </programme>
-    <programme start="20230521075000 +0002" stop="20230521081500 +0002" channel="A3">
+    <programme start="20230521075000 +0002" stop="20230521081500 +0002" channel="ANTENA3">
         <title>Pelopicopata: Episodio 45</title>
     </programme>
-    <programme start="20230521081500 +0002" stop="20230521100000 +0002" channel="A3">
+    <programme start="20230521081500 +0002" stop="20230521100000 +0002" channel="ANTENA3">
         <title>Los más</title>
     </programme>
-    <programme start="20230521100000 +0002" stop="20230521103500 +0002" channel="A3">
+    <programme start="20230521100000 +0002" stop="20230521103500 +0002" channel="ANTENA3">
         <title>Centímetros cúbicos (T2022): Episodio 283</title>
     </programme>
-    <programme start="20230521103500 +0002" stop="20230521132000 +0002" channel="A3">
+    <programme start="20230521103500 +0002" stop="20230521132000 +0002" channel="ANTENA3">
         <title>Tu cara me suena: Gala 8</title>
     </programme>
-    <programme start="20230521132000 +0002" stop="20230521135500 +0002" channel="A3">
+    <programme start="20230521132000 +0002" stop="20230521135500 +0002" channel="ANTENA3">
         <title>Cocina abierta de Karlos Arguiñano</title>
     </programme>
-    <programme start="20230521135500 +0002" stop="20230521150000 +0002" channel="A3">
+    <programme start="20230521135500 +0002" stop="20230521150000 +0002" channel="ANTENA3">
         <title>La ruleta de la suerte: Episodio 3747</title>
     </programme>
-    <programme start="20230521150000 +0002" stop="20230521154500 +0002" channel="A3">
+    <programme start="20230521150000 +0002" stop="20230521154500 +0002" channel="ANTENA3">
         <title>Antena 3 Noticias  (Fin de semana)</title>
     </programme>
-    <programme start="20230521160000 +0002" stop="20230521174500 +0002" channel="A3">
+    <programme start="20230521160000 +0002" stop="20230521174500 +0002" channel="ANTENA3">
         <title>Acusaciones y mentiras</title>
     </programme>
-    <programme start="20230521174500 +0002" stop="20230521191500 +0002" channel="A3">
+    <programme start="20230521174500 +0002" stop="20230521191500 +0002" channel="ANTENA3">
         <title>Tentada por el peligro</title>
     </programme>
-    <programme start="20230521191500 +0002" stop="20230521210000 +0002" channel="A3">
+    <programme start="20230521191500 +0002" stop="20230521210000 +0002" channel="ANTENA3">
         <title>La renuncia de una madre</title>
     </programme>
-    <programme start="20230521210000 +0002" stop="20230521214500 +0002" channel="A3">
+    <programme start="20230521210000 +0002" stop="20230521214500 +0002" channel="ANTENA3">
         <title>Antena 3 Noticias  (Fin de semana)</title>
     </programme>
-    <programme start="20230521221000 +0002" stop="20230522004500 +0002" channel="A3">
+    <programme start="20230521221000 +0002" stop="20230522004500 +0002" channel="ANTENA3">
         <title>Secretos de familia (T1): Episodio 34</title>
     </programme>
-    <programme start="20230521004500 +0002" stop="20230521023000 +0002" channel="A3">
+    <programme start="20230521004500 +0002" stop="20230521023000 +0002" channel="ANTENA3">
         <title>Doctor Alí</title>
     </programme>
-    <programme start="20230521023000 +0002" stop="20230521031500 +0002" channel="A3">
+    <programme start="20230521023000 +0002" stop="20230521031500 +0002" channel="ANTENA3">
         <title>Live casino</title>
     </programme>
-    <programme start="20230521031500 +0002" stop="20230521040000 +0002" channel="A3">
+    <programme start="20230521031500 +0002" stop="20230521040000 +0002" channel="ANTENA3">
         <title>Play Uzu Nights: Episodio 63</title>
     </programme>
-    <programme start="20230521040000 +0002" stop="20230521050000 +0002" channel="A3">
+    <programme start="20230521040000 +0002" stop="20230521050000 +0002" channel="ANTENA3">
         <title>Galería del coleccionista</title>
     </programme>
-    <programme start="20230521050000 +0002" stop="20230521060000 +0002" channel="A3">
+    <programme start="20230521050000 +0002" stop="20230521060000 +0002" channel="ANTENA3">
         <title>Minutos musicales</title>
     </programme>
-    <programme start="20230521045000 +0002" stop="20230521055000 +0002" channel="C4">
+    <programme start="20230521045000 +0002" stop="20230521055000 +0002" channel="CUATRO">
         <title>Puro Cuatro</title>
     </programme>
-    <programme start="20230521070000 +0002" stop="20230521073000 +0002" channel="C4">
+    <programme start="20230521070000 +0002" stop="20230521073000 +0002" channel="CUATRO">
         <title>Mejor llama a Kiko: Episodio 75</title>
     </programme>
-    <programme start="20230521073000 +0002" stop="20230521081500 +0002" channel="C4">
+    <programme start="20230521073000 +0002" stop="20230521081500 +0002" channel="CUATRO">
         <title>El zapping de Surferos: Lo mejor</title>
     </programme>
-    <programme start="20230521081500 +0002" stop="20230521091000 +0002" channel="C4">
+    <programme start="20230521081500 +0002" stop="20230521091000 +0002" channel="CUATRO">
         <title>Hotel, dulce hotel: Episodio 4</title>
     </programme>
-    <programme start="20230521091500 +0002" stop="20230521095000 +0002" channel="C4">
+    <programme start="20230521091500 +0002" stop="20230521095000 +0002" channel="CUATRO">
         <title>Callejeros Viajeros: Nicaragua</title>
     </programme>
-    <programme start="20230521095000 +0002" stop="20230521103500 +0002" channel="C4">
+    <programme start="20230521095000 +0002" stop="20230521103500 +0002" channel="CUATRO">
         <title>Callejeros Viajeros: Sídney</title>
     </programme>
-    <programme start="20230521103500 +0002" stop="20230521113000 +0002" channel="C4">
+    <programme start="20230521103500 +0002" stop="20230521113000 +0002" channel="CUATRO">
         <title>Callejeros Viajeros: Fiordos Noruegos</title>
     </programme>
-    <programme start="20230521113000 +0002" stop="20230521124000 +0002" channel="C4">
+    <programme start="20230521113000 +0002" stop="20230521124000 +0002" channel="CUATRO">
         <title>Viajeros Cuatro: España, sin ir más lejos: Asturias</title>
     </programme>
-    <programme start="20230521124000 +0002" stop="20230521140000 +0002" channel="C4">
+    <programme start="20230521124000 +0002" stop="20230521140000 +0002" channel="CUATRO">
         <title>Viajeros Cuatro: España, sin ir más lejos: Guipúzcoa</title>
     </programme>
-    <programme start="20230521140000 +0002" stop="20230521150000 +0002" channel="C4">
+    <programme start="20230521140000 +0002" stop="20230521150000 +0002" channel="CUATRO">
         <title>Cuatro al día fin de semana: Episodio 180</title>
     </programme>
-    <programme start="20230521152000 +0002" stop="20230521154000 +0002" channel="C4">
+    <programme start="20230521152000 +0002" stop="20230521154000 +0002" channel="CUATRO">
         <title>Callejeros Viajeros: Rumbo a Río</title>
     </programme>
-    <programme start="20230521154000 +0002" stop="20230521173500 +0002" channel="C4">
+    <programme start="20230521154000 +0002" stop="20230521173500 +0002" channel="CUATRO">
         <title>Caperucita Roja, ¿a quién tienes miedo?</title>
     </programme>
-    <programme start="20230521173500 +0002" stop="20230521200000 +0002" channel="C4">
+    <programme start="20230521173500 +0002" stop="20230521200000 +0002" channel="CUATRO">
         <title>La liga de los hombres extraordinarios</title>
     </programme>
-    <programme start="20230521200000 +0002" stop="20230521210500 +0002" channel="C4">
+    <programme start="20230521200000 +0002" stop="20230521210500 +0002" channel="CUATRO">
         <title>Kings League - Split 2 (T2023): PIO FC - 1K FC</title>
     </programme>
-    <programme start="20230521213000 +0002" stop="20230522000500 +0002" channel="C4">
+    <programme start="20230521213000 +0002" stop="20230522000500 +0002" channel="CUATRO">
         <title>Cuarto Milenio: Episodio 36</title>
     </programme>
-    <programme start="20230521000500 +0002" stop="20230521030000 +0002" channel="C4">
+    <programme start="20230521000500 +0002" stop="20230521030000 +0002" channel="CUATRO">
         <title>Cuarto Milenio: Episodio 32</title>
     </programme>
-    <programme start="20230521030000 +0002" stop="20230521043000 +0002" channel="C4">
+    <programme start="20230521030000 +0002" stop="20230521043000 +0002" channel="CUATRO">
         <title>En el punto de mira: El Niño Juan y conflictos vecinales</title>
     </programme>
-    <programme start="20230521043000 +0002" stop="20230521060000 +0002" channel="C4">
+    <programme start="20230521043000 +0002" stop="20230521060000 +0002" channel="CUATRO">
         <title>Puro Cuatro</title>
     </programme>
-    <programme start="20230521040000 +0002" stop="20230521043500 +0002" channel="T5">
+    <programme start="20230521040000 +0002" stop="20230521043500 +0002" channel="Telecinco.es">
         <title>Miramimúsica</title>
     </programme>
-    <programme start="20230521065000 +0002" stop="20230521080000 +0002" channel="T5">
+    <programme start="20230521065000 +0002" stop="20230521080000 +0002" channel="Telecinco.es">
         <title>I Love TV: Lo mejor</title>
     </programme>
-    <programme start="20230521080000 +0002" stop="20230521083000 +0002" channel="T5">
+    <programme start="20230521080000 +0002" stop="20230521083000 +0002" channel="Telecinco.es">
         <title>Mejor llama a Kiko: Episodio 71</title>
     </programme>
-    <programme start="20230521083000 +0002" stop="20230521090000 +0002" channel="T5">
+    <programme start="20230521083000 +0002" stop="20230521090000 +0002" channel="Telecinco.es">
         <title>Got Talent España. Momentazos: Episodio 2</title>
     </programme>
-    <programme start="20230521090000 +0002" stop="20230521095500 +0002" channel="T5">
+    <programme start="20230521090000 +0002" stop="20230521095500 +0002" channel="Telecinco.es">
         <title>Got Talent España. Momentazos: Episodio 4</title>
     </programme>
-    <programme start="20230521095500 +0002" stop="20230521105000 +0002" channel="T5">
+    <programme start="20230521095500 +0002" stop="20230521105000 +0002" channel="Telecinco.es">
         <title>Got Talent España. Momentazos: Episodio 5</title>
     </programme>
-    <programme start="20230521105000 +0002" stop="20230521132000 +0002" channel="T5">
+    <programme start="20230521105000 +0002" stop="20230521132000 +0002" channel="Telecinco.es">
         <title>Got Talent: All-Stars: Episodio 5</title>
     </programme>
-    <programme start="20230521132000 +0002" stop="20230521150000 +0002" channel="T5">
+    <programme start="20230521132000 +0002" stop="20230521150000 +0002" channel="Telecinco.es">
         <title>Socialité: Episodio 44</title>
     </programme>
-    <programme start="20230521150000 +0002" stop="20230521154000 +0002" channel="T5">
+    <programme start="20230521150000 +0002" stop="20230521154000 +0002" channel="Telecinco.es">
         <title>Informativos Telecinco Fin de Semana</title>
     </programme>
-    <programme start="20230521160000 +0002" stop="20230521210000 +0002" channel="T5">
+    <programme start="20230521160000 +0002" stop="20230521210000 +0002" channel="Telecinco.es">
         <title>¡Fiesta!: Episodio 75</title>
     </programme>
-    <programme start="20230521210000 +0002" stop="20230521214000 +0002" channel="T5">
+    <programme start="20230521210000 +0002" stop="20230521214000 +0002" channel="Telecinco.es">
         <title>Informativos Telecinco Fin de Semana noche</title>
     </programme>
-    <programme start="20230521220000 +0002" stop="20230522020000 +0002" channel="T5">
+    <programme start="20230521220000 +0002" stop="20230522020000 +0002" channel="Telecinco.es">
         <title>Supervivientes: Conexión Honduras: Episodio 12</title>
     </programme>
-    <programme start="20230521020000 +0002" stop="20230521022500 +0002" channel="T5">
+    <programme start="20230521020000 +0002" stop="20230521022500 +0002" channel="Telecinco.es">
         <title>Casino Gran Madrid Online Show: Episodio 141</title>
     </programme>
-    <programme start="20230521022500 +0002" stop="20230521025500 +0002" channel="T5">
+    <programme start="20230521022500 +0002" stop="20230521025500 +0002" channel="Telecinco.es">
         <title>Supervivientes: Resumen diario: Supervivientes 2023: Resumen diario</title>
     </programme>
-    <programme start="20230521030000 +0002" stop="20230521033000 +0002" channel="T5">
+    <programme start="20230521030000 +0002" stop="20230521033000 +0002" channel="Telecinco.es">
         <title>Mejor llama a Kiko: Episodio 75</title>
     </programme>
-    <programme start="20230521033000 +0002" stop="20230521040000 +0002" channel="T5">
+    <programme start="20230521033000 +0002" stop="20230521040000 +0002" channel="Telecinco.es">
         <title>Mejor llama a Kiko: Episodio 65</title>
     </programme>
-    <programme start="20230521040000 +0002" stop="20230521055500 +0002" channel="T5">
+    <programme start="20230521040000 +0002" stop="20230521055500 +0002" channel="Telecinco.es">
         <title>Miramimúsica</title>
     </programme>
-    <programme start="20230521043000 +0002" stop="20230521050000 +0002" channel="SEXTA">
+    <programme start="20230521043000 +0002" stop="20230521050000 +0002" channel="SEXTHD">
         <title>Minutos musicales</title>
     </programme>
-    <programme start="20230521063000 +0002" stop="20230521071000 +0002" channel="SEXTA">
+    <programme start="20230521063000 +0002" stop="20230521071000 +0002" channel="SEXTHD">
         <title>Remescar cosmética al instante: Episodio 5</title>
     </programme>
-    <programme start="20230521071000 +0002" stop="20230521075800 +0002" channel="SEXTA">
+    <programme start="20230521071000 +0002" stop="20230521075800 +0002" channel="SEXTHD">
         <title>Bestial: Episodio 6</title>
     </programme>
-    <programme start="20230521075800 +0002" stop="20230521084500 +0002" channel="SEXTA">
+    <programme start="20230521075800 +0002" stop="20230521084500 +0002" channel="SEXTHD">
         <title>Bestial: Episodio 8</title>
     </programme>
-    <programme start="20230521084500 +0002" stop="20230521100000 +0002" channel="SEXTA">
+    <programme start="20230521084500 +0002" stop="20230521100000 +0002" channel="SEXTHD">
         <title>¿Qué me pasa, doctor?</title>
     </programme>
-    <programme start="20230521100000 +0002" stop="20230521114000 +0002" channel="SEXTA">
+    <programme start="20230521100000 +0002" stop="20230521114000 +0002" channel="SEXTHD">
         <title>Zapeando: Episodio 2356</title>
     </programme>
-    <programme start="20230521114000 +0002" stop="20230521130000 +0002" channel="SEXTA">
+    <programme start="20230521114000 +0002" stop="20230521130000 +0002" channel="SEXTHD">
         <title>Equipo de investigación</title>
     </programme>
-    <programme start="20230521130000 +0002" stop="20230521140000 +0002" channel="SEXTA">
+    <programme start="20230521130000 +0002" stop="20230521140000 +0002" channel="SEXTHD">
         <title>Equipo de investigación</title>
     </programme>
-    <programme start="20230521140000 +0002" stop="20230521143000 +0002" channel="SEXTA">
+    <programme start="20230521140000 +0002" stop="20230521143000 +0002" channel="SEXTHD">
         <title>laSexta Noticias Fin de Semana</title>
     </programme>
-    <programme start="20230521143000 +0002" stop="20230521150000 +0002" channel="SEXTA">
+    <programme start="20230521143000 +0002" stop="20230521150000 +0002" channel="SEXTHD">
         <title>laSexta Deportes Fin de Semana</title>
     </programme>
-    <programme start="20230521150000 +0002" stop="20230521153000 +0002" channel="SEXTA">
+    <programme start="20230521150000 +0002" stop="20230521153000 +0002" channel="SEXTHD">
         <title>laSexta Meteo</title>
     </programme>
-    <programme start="20230521153000 +0002" stop="20230521200000 +0002" channel="SEXTA">
+    <programme start="20230521153000 +0002" stop="20230521200000 +0002" channel="SEXTHD">
         <title>La Roca: Episodio 34</title>
     </programme>
-    <programme start="20230521200000 +0002" stop="20230521203000 +0002" channel="SEXTA">
+    <programme start="20230521200000 +0002" stop="20230521203000 +0002" channel="SEXTHD">
         <title>laSexta Noticias Fin de Semana</title>
     </programme>
-    <programme start="20230521203000 +0002" stop="20230521210000 +0002" channel="SEXTA">
+    <programme start="20230521203000 +0002" stop="20230521210000 +0002" channel="SEXTHD">
         <title>laSexta Meteo</title>
     </programme>
-    <programme start="20230521210000 +0002" stop="20230521212500 +0002" channel="SEXTA">
+    <programme start="20230521210000 +0002" stop="20230521212500 +0002" channel="SEXTHD">
         <title>laSexta Deportes Fin de Semana</title>
     </programme>
-    <programme start="20230521212500 +0002" stop="20230521222200 +0002" channel="SEXTA">
+    <programme start="20230521212500 +0002" stop="20230521222200 +0002" channel="SEXTHD">
         <title>Anatomía de...: Episodio 4</title>
     </programme>
-    <programme start="20230521222200 +0002" stop="20230521233000 +0002" channel="SEXTA">
+    <programme start="20230521222200 +0002" stop="20230521233000 +0002" channel="SEXTHD">
         <title>Anatomía de...: Episodio 2</title>
     </programme>
-    <programme start="20230521233000 +0002" stop="20230522022000 +0002" channel="SEXTA">
+    <programme start="20230521233000 +0002" stop="20230522022000 +0002" channel="SEXTHD">
         <title>Encarcelados</title>
     </programme>
-    <programme start="20230521022000 +0002" stop="20230521030000 +0002" channel="SEXTA">
+    <programme start="20230521022000 +0002" stop="20230521030000 +0002" channel="SEXTHD">
         <title>Pokerstars casino</title>
     </programme>
-    <programme start="20230521030000 +0002" stop="20230521034500 +0002" channel="SEXTA">
+    <programme start="20230521030000 +0002" stop="20230521034500 +0002" channel="SEXTHD">
         <title>Live casino</title>
     </programme>
-    <programme start="20230521034500 +0002" stop="20230521060000 +0002" channel="SEXTA">
+    <programme start="20230521034500 +0002" stop="20230521060000 +0002" channel="SEXTHD">
         <title>Minutos musicales</title>
     </programme>
-    <programme start="20230521053900 +0002" stop="20230521055900 +0002" channel="MV3">
+    <programme start="20230521053900 +0002" stop="20230521055900 +0002" channel="CEROHD">
         <title>El libro de los negros (T1): Episodio 4</title>
     </programme>
-    <programme start="20230521062000 +0002" stop="20230521070100 +0002" channel="MV3">
+    <programme start="20230521062000 +0002" stop="20230521070100 +0002" channel="CEROHD">
         <title>El libro de los negros (T1): Episodio 5</title>
     </programme>
-    <programme start="20230521070100 +0002" stop="20230521074300 +0002" channel="MV3">
+    <programme start="20230521070100 +0002" stop="20230521074300 +0002" channel="CEROHD">
         <title>El libro de los negros (T1): Episodio 6</title>
     </programme>
-    <programme start="20230521074300 +0002" stop="20230521083000 +0002" channel="MV3">
+    <programme start="20230521074300 +0002" stop="20230521083000 +0002" channel="CEROHD">
         <title>Agatha Christie: 100 años de suspense</title>
     </programme>
-    <programme start="20230521083000 +0002" stop="20230521091400 +0002" channel="MV3">
+    <programme start="20230521083000 +0002" stop="20230521091400 +0002" channel="CEROHD">
         <title>Tesoros al descubierto: La dinastía egipcia perdida</title>
     </programme>
-    <programme start="20230521091400 +0002" stop="20230521100400 +0002" channel="MV3">
+    <programme start="20230521091400 +0002" stop="20230521100400 +0002" channel="CEROHD">
         <title>Tesoros al descubierto: La Esfinge</title>
     </programme>
-    <programme start="20230521100400 +0002" stop="20230521113700 +0002" channel="MV3">
+    <programme start="20230521100400 +0002" stop="20230521113700 +0002" channel="CEROHD">
         <title>Gru mi villano favorito</title>
     </programme>
-    <programme start="20230521113700 +0002" stop="20230521122300 +0002" channel="MV3">
+    <programme start="20230521113700 +0002" stop="20230521122300 +0002" channel="CEROHD">
         <title>La vida secreta del Zoo: Episodio 9</title>
     </programme>
-    <programme start="20230521122300 +0002" stop="20230521131500 +0002" channel="MV3">
+    <programme start="20230521122300 +0002" stop="20230521131500 +0002" channel="CEROHD">
         <title>La vida secreta del Zoo: Episodio 10</title>
     </programme>
-    <programme start="20230521131500 +0002" stop="20230521134500 +0002" channel="MV3">
+    <programme start="20230521131500 +0002" stop="20230521134500 +0002" channel="CEROHD">
         <title>Libro sobre libro: Querido diario</title>
     </programme>
-    <programme start="20230521134500 +0002" stop="20230521144200 +0002" channel="MV3">
+    <programme start="20230521134500 +0002" stop="20230521144200 +0002" channel="CEROHD">
         <title>Carlos III: el hombre detrás de la corona</title>
     </programme>
-    <programme start="20230521144200 +0002" stop="20230521154200 +0002" channel="MV3">
+    <programme start="20230521144200 +0002" stop="20230521154200 +0002" channel="CEROHD">
         <title>Showriano: Paulina Rubio</title>
     </programme>
-    <programme start="20230521154200 +0002" stop="20230521180300 +0002" channel="MV3">
+    <programme start="20230521154200 +0002" stop="20230521180300 +0002" channel="CEROHD">
         <title>El Código Da Vinci</title>
     </programme>
-    <programme start="20230521180300 +0002" stop="20230521193800 +0002" channel="MV3">
+    <programme start="20230521180300 +0002" stop="20230521193800 +0002" channel="CEROHD">
         <title>Cruzando el límite</title>
     </programme>
-    <programme start="20230521193800 +0002" stop="20230521202900 +0002" channel="MV3">
+    <programme start="20230521193800 +0002" stop="20230521202900 +0002" channel="CEROHD">
         <title>Los Windsor: 70 años bajo los focos: Futuro</title>
     </programme>
-    <programme start="20230521202900 +0002" stop="20230521213200 +0002" channel="MV3">
+    <programme start="20230521202900 +0002" stop="20230521213200 +0002" channel="CEROHD">
         <title>Martínez y Hermanos: Gloria Serra, José Manuel Calderón y Manuel Quijano</title>
     </programme>
-    <programme start="20230521213200 +0002" stop="20230521220500 +0002" channel="MV3">
+    <programme start="20230521213200 +0002" stop="20230521220500 +0002" channel="CEROHD">
         <title>Ilustres Ignorantes: Becarios</title>
     </programme>
-    <programme start="20230521220500 +0002" stop="20230521230100 +0002" channel="MV3">
+    <programme start="20230521220500 +0002" stop="20230521230100 +0002" channel="CEROHD">
         <title>Milá vs Milá: Lolita</title>
     </programme>
-    <programme start="20230521230100 +0002" stop="20230522000300 +0002" channel="MV3">
+    <programme start="20230521230100 +0002" stop="20230522000300 +0002" channel="CEROHD">
         <title>Showriano: Paulina Rubio</title>
     </programme>
-    <programme start="20230521000300 +0002" stop="20230521004500 +0002" channel="MV3">
+    <programme start="20230521000300 +0002" stop="20230521004500 +0002" channel="CEROHD">
         <title>La Unidad: Kabul (T3): Episodio 1</title>
     </programme>
-    <programme start="20230521004500 +0002" stop="20230521013000 +0002" channel="MV3">
+    <programme start="20230521004500 +0002" stop="20230521013000 +0002" channel="CEROHD">
         <title>La Unidad: Kabul (T3): Episodio 2</title>
     </programme>
-    <programme start="20230521013000 +0002" stop="20230521020600 +0002" channel="MV3">
+    <programme start="20230521013000 +0002" stop="20230521020600 +0002" channel="CEROHD">
         <title>La Unidad: Kabul (T3): Episodio 3</title>
     </programme>
-    <programme start="20230521020600 +0002" stop="20230521024300 +0002" channel="MV3">
+    <programme start="20230521020600 +0002" stop="20230521024300 +0002" channel="CEROHD">
         <title>La Unidad: Kabul (T3): Episodio 4</title>
     </programme>
-    <programme start="20230521024300 +0002" stop="20230521032500 +0002" channel="MV3">
+    <programme start="20230521024300 +0002" stop="20230521032500 +0002" channel="CEROHD">
         <title>La Unidad: Kabul (T3): Episodio 5</title>
     </programme>
-    <programme start="20230521032500 +0002" stop="20230521040600 +0002" channel="MV3">
+    <programme start="20230521032500 +0002" stop="20230521040600 +0002" channel="CEROHD">
         <title>La Unidad: Kabul (T3): Episodio 6</title>
     </programme>
-    <programme start="20230521040600 +0002" stop="20230521045600 +0002" channel="MV3">
+    <programme start="20230521040600 +0002" stop="20230521045600 +0002" channel="CEROHD">
         <title>Los crímenes de Londongrado: Primera parte</title>
     </programme>
-    <programme start="20230521045600 +0002" stop="20230521054600 +0002" channel="MV3">
+    <programme start="20230521045600 +0002" stop="20230521054600 +0002" channel="CEROHD">
         <title>Los crímenes de Londongrado: Segunda parte</title>
     </programme>
-    <programme start="20230521051500 +0002" stop="20230521061500 +0002" channel="VAMOSD">
+    <programme start="20230521051500 +0002" stop="20230521061500 +0002" channel="VAMOS">
         <title>WPT.  Danish Open (T2023): M. Sánchez/L. Campagnolo - F. Stupaczuk/M. Di Nenno</title>
     </programme>
-    <programme start="20230521070000 +0002" stop="20230521083800 +0002" channel="VAMOSD">
+    <programme start="20230521070000 +0002" stop="20230521083800 +0002" channel="VAMOS">
         <title>PGA Championship (T2023): Jornada 3. Parte 2</title>
     </programme>
-    <programme start="20230521083800 +0002" stop="20230521100000 +0002" channel="VAMOSD">
+    <programme start="20230521083800 +0002" stop="20230521100000 +0002" channel="VAMOS">
         <title>DeportePlus+ con Jesús Gallego (T22/23): Sábado 20/05/2023. Episodio 57</title>
     </programme>
-    <programme start="20230521100000 +0002" stop="20230521124000 +0002" channel="VAMOSD">
+    <programme start="20230521100000 +0002" stop="20230521124000 +0002" channel="VAMOS">
         <title>WPT.  Danish Open (T2023): D.Brea/B.González - A.Salazar/G.Triay</title>
     </programme>
-    <programme start="20230521124000 +0002" stop="20230521141500 +0002" channel="VAMOSD">
+    <programme start="20230521124000 +0002" stop="20230521141500 +0002" channel="VAMOS">
         <title>WPT.  Danish Open (T2023): F. Stupaczuk/M.Di Nenno - J.González/C.Gutiérrez</title>
     </programme>
-    <programme start="20230521141500 +0002" stop="20230521160000 +0002" channel="VAMOSD">
+    <programme start="20230521141500 +0002" stop="20230521160000 +0002" channel="VAMOS">
         <title>NBA (T22/23): Los Angeles Lakers -  Denver Nuggets (3º Final Conferencia)</title>
     </programme>
-    <programme start="20230521160000 +0002" stop="20230521182500 +0002" channel="VAMOSD">
+    <programme start="20230521160000 +0002" stop="20230521182500 +0002" channel="VAMOS">
         <title>Torneo de Roma (T2023): H.Rune - D.Medvedev</title>
     </programme>
-    <programme start="20230521182500 +0002" stop="20230521190000 +0002" channel="VAMOSD">
+    <programme start="20230521182500 +0002" stop="20230521190000 +0002" channel="VAMOS">
         <title>Bakalá express (T22/23): Episodio 37. Parte 1</title>
     </programme>
-    <programme start="20230521190000 +0002" stop="20230521200000 +0002" channel="VAMOSD">
+    <programme start="20230521190000 +0002" stop="20230521200000 +0002" channel="VAMOS">
         <title>Informe+. Gregarios. Ganar perdiendo</title>
     </programme>
-    <programme start="20230521200000 +0002" stop="20230521211500 +0002" channel="VAMOSD">
+    <programme start="20230521200000 +0002" stop="20230521211500 +0002" channel="VAMOS">
         <title>D+ en Juego Domingo (T2023): 21/05/2023 Primera Parte</title>
     </programme>
-    <programme start="20230521211500 +0002" stop="20230521215000 +0002" channel="VAMOSD">
+    <programme start="20230521211500 +0002" stop="20230521215000 +0002" channel="VAMOS">
         <title>Informe Robinson (T5): Año Petrovic. De enemigo a ídolo</title>
     </programme>
-    <programme start="20230521215000 +0002" stop="20230521225500 +0002" channel="VAMOSD">
+    <programme start="20230521215000 +0002" stop="20230521225500 +0002" channel="VAMOS">
         <title>Informe+. Ilia Topuria, El Matador</title>
     </programme>
-    <programme start="20230521225500 +0002" stop="20230522001500 +0002" channel="VAMOSD">
+    <programme start="20230521225500 +0002" stop="20230522001500 +0002" channel="VAMOS">
         <title>DeportePlus+ con Juanma Castaño (T22/23): Episodio 28</title>
     </programme>
-    <programme start="20230521001500 +0002" stop="20230521011500 +0002" channel="VAMOSD">
+    <programme start="20230521001500 +0002" stop="20230521011500 +0002" channel="VAMOS">
         <title>Carreras de Caballos- Turf (T2023): La Zarzuela</title>
     </programme>
-    <programme start="20230521011500 +0002" stop="20230521030000 +0002" channel="VAMOSD">
+    <programme start="20230521011500 +0002" stop="20230521030000 +0002" channel="VAMOS">
         <title>Serie A Calcio (T22/23): Nápoles - Inter</title>
     </programme>
-    <programme start="20230521030000 +0002" stop="20230521050000 +0002" channel="VAMOSD">
+    <programme start="20230521030000 +0002" stop="20230521050000 +0002" channel="VAMOS">
         <title>PGA Championship (T2023): Jornada 4. Parte 2</title>
     </programme>
-    <programme start="20230521050000 +0002" stop="20230521060000 +0002" channel="VAMOSD">
+    <programme start="20230521050000 +0002" stop="20230521060000 +0002" channel="VAMOS">
         <title>Bundesliga (T22/23): Augsburgo - Borussia Dortmund</title>
     </programme>
     <programme start="20230521060000 +0002" stop="20230521070000 +0002" channel="7TVMUR">
@@ -1998,97 +1998,97 @@
     <programme start="20230521051500 +0002" stop="20230521060000 +0002" channel="TVG2">
         <title>En xogo</title>
     </programme>
-    <programme start="20230521061000 +0002" stop="20230521080000 +0002" channel="MV1">
+    <programme start="20230521061000 +0002" stop="20230521080000 +0002" channel="MESTHD">
         <title>La conferencia</title>
     </programme>
-    <programme start="20230521080000 +0002" stop="20230521085500 +0002" channel="MV1">
+    <programme start="20230521080000 +0002" stop="20230521085500 +0002" channel="MESTHD">
         <title>El imperio de los Maxwell: Episodio 3</title>
     </programme>
-    <programme start="20230521090500 +0002" stop="20230521095500 +0002" channel="MV1">
+    <programme start="20230521090500 +0002" stop="20230521095500 +0002" channel="MESTHD">
         <title>OVNIS: Episodio 3</title>
     </programme>
-    <programme start="20230521100100 +0002" stop="20230521114000 +0002" channel="MV1">
+    <programme start="20230521100100 +0002" stop="20230521114000 +0002" channel="MESTHD">
         <title>La inspección</title>
     </programme>
-    <programme start="20230521114000 +0002" stop="20230521131000 +0002" channel="MV1">
+    <programme start="20230521114000 +0002" stop="20230521131000 +0002" channel="MESTHD">
         <title>Miguel Ríos. Rock and Ríos</title>
     </programme>
-    <programme start="20230521131000 +0002" stop="20230521142600 +0002" channel="MV1">
+    <programme start="20230521131000 +0002" stop="20230521142600 +0002" channel="MESTHD">
         <title>Cruce de caminos. Un documental sobre Miguel Ríos</title>
     </programme>
-    <programme start="20230521142600 +0002" stop="20230521150100 +0002" channel="MV1">
+    <programme start="20230521142600 +0002" stop="20230521150100 +0002" channel="MESTHD">
         <title>La Nevera de Inverfest: Derby Motoreta's Burrito Kachimba</title>
     </programme>
-    <programme start="20230521150100 +0002" stop="20230521165700 +0002" channel="MV1">
+    <programme start="20230521150100 +0002" stop="20230521165700 +0002" channel="MESTHD">
         <title>El que no soy</title>
     </programme>
-    <programme start="20230521170500 +0002" stop="20230521183000 +0002" channel="MV1">
+    <programme start="20230521170500 +0002" stop="20230521183000 +0002" channel="MESTHD">
         <title>A todo tren 2</title>
     </programme>
-    <programme start="20230521184000 +0002" stop="20230521203500 +0002" channel="MV1">
+    <programme start="20230521184000 +0002" stop="20230521203500 +0002" channel="MESTHD">
         <title>Fuego</title>
     </programme>
-    <programme start="20230521204500 +0002" stop="20230521215100 +0002" channel="MV1">
+    <programme start="20230521204500 +0002" stop="20230521215100 +0002" channel="MESTHD">
         <title>19, solos frente a la verdad</title>
     </programme>
-    <programme start="20230521220200 +0002" stop="20230521234000 +0002" channel="MV1">
+    <programme start="20230521220200 +0002" stop="20230521234000 +0002" channel="MESTHD">
         <title>La inspección</title>
     </programme>
-    <programme start="20230521234000 +0002" stop="20230522020500 +0002" channel="MV1">
+    <programme start="20230521234000 +0002" stop="20230522020500 +0002" channel="MESTHD">
         <title>La batalla del lago Changjin II</title>
     </programme>
-    <programme start="20230521020500 +0002" stop="20230521031500 +0002" channel="MV1">
+    <programme start="20230521020500 +0002" stop="20230521031500 +0002" channel="MESTHD">
         <title>Saturday Night Live: Pedro Pascal / Coldplay</title>
     </programme>
-    <programme start="20230521031500 +0002" stop="20230521041500 +0002" channel="MV1">
+    <programme start="20230521031500 +0002" stop="20230521041500 +0002" channel="MESTHD">
         <title>El show de Elon Musk: Episodio 3</title>
     </programme>
-    <programme start="20230521041500 +0002" stop="20230521051100 +0002" channel="MV1">
+    <programme start="20230521041500 +0002" stop="20230521051100 +0002" channel="MESTHD">
         <title>Glastonbury 2022: Episodio 1</title>
     </programme>
-    <programme start="20230521051800 +0002" stop="20230521054700 +0002" channel="MV1">
+    <programme start="20230521051800 +0002" stop="20230521054700 +0002" channel="MESTHD">
         <title>Arquitectura emocional 1959</title>
     </programme>
-    <programme start="20230521061500 +0002" stop="20230521080000 +0002" channel="MEST2">
+    <programme start="20230521061500 +0002" stop="20230521080000 +0002" channel="MEST">
         <title>Resident Evil: bienvenidos a Raccoon City</title>
     </programme>
-    <programme start="20230521080000 +0002" stop="20230521100600 +0002" channel="MEST2">
+    <programme start="20230521080000 +0002" stop="20230521100600 +0002" channel="MEST">
         <title>Warcraft: El origen</title>
     </programme>
-    <programme start="20230521100600 +0002" stop="20230521103600 +0002" channel="MEST2">
+    <programme start="20230521100600 +0002" stop="20230521103600 +0002" channel="MEST">
         <title>Pánico en la granja: vacaciones de verano</title>
     </programme>
-    <programme start="20230521103600 +0002" stop="20230521123000 +0002" channel="MEST2">
+    <programme start="20230521103600 +0002" stop="20230521123000 +0002" channel="MEST">
         <title>Space Jam: nuevas leyendas</title>
     </programme>
-    <programme start="20230521123000 +0002" stop="20230521150000 +0002" channel="MEST2">
+    <programme start="20230521123000 +0002" stop="20230521150000 +0002" channel="MEST">
         <title>Spider-Man: No Way Home</title>
     </programme>
-    <programme start="20230521150000 +0002" stop="20230521165200 +0002" channel="MEST2">
+    <programme start="20230521150000 +0002" stop="20230521165200 +0002" channel="MEST">
         <title>¡Canta 2!</title>
     </programme>
-    <programme start="20230521165200 +0002" stop="20230521182300 +0002" channel="MEST2">
+    <programme start="20230521165200 +0002" stop="20230521182300 +0002" channel="MEST">
         <title>Minions: el origen de Gru</title>
     </programme>
-    <programme start="20230521182300 +0002" stop="20230521200700 +0002" channel="MEST2">
+    <programme start="20230521182300 +0002" stop="20230521200700 +0002" channel="MEST">
         <title>Los tipos malos</title>
     </programme>
-    <programme start="20230521200700 +0002" stop="20230521220000 +0002" channel="MEST2">
+    <programme start="20230521200700 +0002" stop="20230521220000 +0002" channel="MEST">
         <title>Lilo, mi amigo el cocodrilo</title>
     </programme>
-    <programme start="20230521220000 +0002" stop="20230521233500 +0002" channel="MEST2">
+    <programme start="20230521220000 +0002" stop="20230521233500 +0002" channel="MEST">
         <title>Marcel, la concha con zapatos</title>
     </programme>
-    <programme start="20230521234900 +0002" stop="20230522021300 +0002" channel="MEST2">
+    <programme start="20230521234900 +0002" stop="20230522021300 +0002" channel="MEST">
         <title>El Código Da Vinci</title>
     </programme>
-    <programme start="20230521021300 +0002" stop="20230521035500 +0002" channel="MEST2">
+    <programme start="20230521021300 +0002" stop="20230521035500 +0002" channel="MEST">
         <title>La invitación</title>
     </programme>
-    <programme start="20230521035500 +0002" stop="20230521054300 +0002" channel="MEST2">
+    <programme start="20230521035500 +0002" stop="20230521054300 +0002" channel="MEST">
         <title>La habitación del pánico</title>
     </programme>
-    <programme start="20230521054300 +0002" stop="20230521060000 +0002" channel="MEST2">
+    <programme start="20230521054300 +0002" stop="20230521060000 +0002" channel="MEST">
         <title>Última noche en el Soho</title>
     </programme>
     <programme start="20230521061500 +0002" stop="20230521070100 +0002" channel="MUNIDA">
@@ -2154,265 +2154,265 @@
     <programme start="20230521051100 +0002" stop="20230521055900 +0002" channel="MUNIDA">
         <title>Harry Palmer: el expediente Ipcress (T1): Episodio 4</title>
     </programme>
-    <programme start="20230521053300 +0002" stop="20230521070800 +0002" channel="MCLAS">
+    <programme start="20230521053300 +0002" stop="20230521070800 +0002" channel="MovistarClasicos.es">
         <title>Rollerball, ¿un futuro próximo?</title>
     </programme>
-    <programme start="20230521073500 +0002" stop="20230521083500 +0002" channel="MCLAS">
+    <programme start="20230521073500 +0002" stop="20230521083500 +0002" channel="MovistarClasicos.es">
         <title>El chico</title>
     </programme>
-    <programme start="20230521083500 +0002" stop="20230521100000 +0002" channel="MCLAS">
+    <programme start="20230521083500 +0002" stop="20230521100000 +0002" channel="MovistarClasicos.es">
         <title>Una mujer de París</title>
     </programme>
-    <programme start="20230521100000 +0002" stop="20230521111500 +0002" channel="MCLAS">
+    <programme start="20230521100000 +0002" stop="20230521111500 +0002" channel="MovistarClasicos.es">
         <title>La quimera del oro</title>
     </programme>
-    <programme start="20230521111500 +0002" stop="20230521123000 +0002" channel="MCLAS">
+    <programme start="20230521111500 +0002" stop="20230521123000 +0002" channel="MovistarClasicos.es">
         <title>El circo</title>
     </programme>
-    <programme start="20230521123000 +0002" stop="20230521140000 +0002" channel="MCLAS">
+    <programme start="20230521123000 +0002" stop="20230521140000 +0002" channel="MovistarClasicos.es">
         <title>Luces de la ciudad</title>
     </programme>
-    <programme start="20230521140000 +0002" stop="20230521153000 +0002" channel="MCLAS">
+    <programme start="20230521140000 +0002" stop="20230521153000 +0002" channel="MovistarClasicos.es">
         <title>Tiempos modernos</title>
     </programme>
-    <programme start="20230521153000 +0002" stop="20230521172800 +0002" channel="MCLAS">
+    <programme start="20230521153000 +0002" stop="20230521172800 +0002" channel="MovistarClasicos.es">
         <title>La voz de Charlie Chaplin</title>
     </programme>
-    <programme start="20230521172800 +0002" stop="20230521193500 +0002" channel="MCLAS">
+    <programme start="20230521172800 +0002" stop="20230521193500 +0002" channel="MovistarClasicos.es">
         <title>El gran dictador</title>
     </programme>
-    <programme start="20230521193500 +0002" stop="20230521214800 +0002" channel="MCLAS">
+    <programme start="20230521193500 +0002" stop="20230521214800 +0002" channel="MovistarClasicos.es">
         <title>Monsieur Verdoux</title>
     </programme>
-    <programme start="20230521220000 +0002" stop="20230522002000 +0002" channel="MCLAS">
+    <programme start="20230521220000 +0002" stop="20230522002000 +0002" channel="MovistarClasicos.es">
         <title>Candilejas</title>
     </programme>
-    <programme start="20230521002000 +0002" stop="20230521020700 +0002" channel="MCLAS">
+    <programme start="20230521002000 +0002" stop="20230521020700 +0002" channel="MovistarClasicos.es">
         <title>Un rey en Nueva York</title>
     </programme>
-    <programme start="20230521020700 +0002" stop="20230521040700 +0002" channel="MCLAS">
+    <programme start="20230521020700 +0002" stop="20230521040700 +0002" channel="MovistarClasicos.es">
         <title>La misteriosa dama de negro</title>
     </programme>
-    <programme start="20230521040700 +0002" stop="20230521054500 +0002" channel="MCLAS">
+    <programme start="20230521040700 +0002" stop="20230521054500 +0002" channel="MovistarClasicos.es">
         <title>Sombrero de copa</title>
     </programme>
-    <programme start="20230521044800 +0002" stop="20230521051300 +0002" channel="CPACCI">
+    <programme start="20230521044800 +0002" stop="20230521051300 +0002" channel="MACCIHD">
         <title>Reservoir Dogs</title>
     </programme>
-    <programme start="20230521062500 +0002" stop="20230521080000 +0002" channel="CPACCI">
+    <programme start="20230521062500 +0002" stop="20230521080000 +0002" channel="MACCIHD">
         <title>Odd Thomas, cazador de fantasmas</title>
     </programme>
-    <programme start="20230521080000 +0002" stop="20230521085700 +0002" channel="CPACCI">
+    <programme start="20230521080000 +0002" stop="20230521085700 +0002" channel="MACCIHD">
         <title>Brad Pitt: todas las caras</title>
     </programme>
-    <programme start="20230521085700 +0002" stop="20230521105100 +0002" channel="CPACCI">
+    <programme start="20230521085700 +0002" stop="20230521105100 +0002" channel="MACCIHD">
         <title>El francotirador de Donbás</title>
     </programme>
-    <programme start="20230521105100 +0002" stop="20230521123600 +0002" channel="CPACCI">
+    <programme start="20230521105100 +0002" stop="20230521123600 +0002" channel="MACCIHD">
         <title>Espías desde el cielo</title>
     </programme>
-    <programme start="20230521124500 +0002" stop="20230521150000 +0002" channel="CPACCI">
+    <programme start="20230521124500 +0002" stop="20230521150000 +0002" channel="MACCIHD">
         <title>Sherlock Holmes</title>
     </programme>
-    <programme start="20230521150000 +0002" stop="20230521171200 +0002" channel="CPACCI">
+    <programme start="20230521150000 +0002" stop="20230521171200 +0002" channel="MACCIHD">
         <title>En tierra hostil</title>
     </programme>
-    <programme start="20230521171200 +0002" stop="20230521193200 +0002" channel="CPACCI">
+    <programme start="20230521171200 +0002" stop="20230521193200 +0002" channel="MACCIHD">
         <title>Terminator 2: El juicio final</title>
     </programme>
-    <programme start="20230521193200 +0002" stop="20230521214400 +0002" channel="CPACCI">
+    <programme start="20230521193200 +0002" stop="20230521214400 +0002" channel="MACCIHD">
         <title>Instinto básico</title>
     </programme>
-    <programme start="20230521214400 +0002" stop="20230521220000 +0002" channel="CPACCI">
+    <programme start="20230521214400 +0002" stop="20230521220000 +0002" channel="MACCIHD">
         <title>Espacio M+: Marlowe (Liam Neeson)</title>
     </programme>
-    <programme start="20230521220000 +0002" stop="20230522000000 +0002" channel="CPACCI">
+    <programme start="20230521220000 +0002" stop="20230522000000 +0002" channel="MACCIHD">
         <title>Beowulf</title>
     </programme>
-    <programme start="20230521000000 +0002" stop="20230521015400 +0002" channel="CPACCI">
+    <programme start="20230521000000 +0002" stop="20230521015400 +0002" channel="MACCIHD">
         <title>Infierno blanco</title>
     </programme>
-    <programme start="20230521015400 +0002" stop="20230521034700 +0002" channel="CPACCI">
+    <programme start="20230521015400 +0002" stop="20230521034700 +0002" channel="MACCIHD">
         <title>La chaqueta metálica</title>
     </programme>
-    <programme start="20230521040200 +0002" stop="20230521054900 +0002" channel="CPACCI">
+    <programme start="20230521040200 +0002" stop="20230521054900 +0002" channel="MACCIHD">
         <title>Arma letal</title>
     </programme>
-    <programme start="20230521061500 +0002" stop="20230521074500 +0002" channel="CPCOME">
+    <programme start="20230521061500 +0002" stop="20230521074500 +0002" channel="MCOMHD">
         <title>La mujer explosiva</title>
     </programme>
-    <programme start="20230521074500 +0002" stop="20230521093400 +0002" channel="CPCOME">
+    <programme start="20230521074500 +0002" stop="20230521093400 +0002" channel="MCOMHD">
         <title>El sentido de la vida</title>
     </programme>
-    <programme start="20230521093400 +0002" stop="20230521100400 +0002" channel="CPCOME">
+    <programme start="20230521093400 +0002" stop="20230521100400 +0002" channel="MCOMHD">
         <title>Ilustres Ignorantes: Becarios</title>
     </programme>
-    <programme start="20230521100400 +0002" stop="20230521114900 +0002" channel="CPCOME">
+    <programme start="20230521100400 +0002" stop="20230521114900 +0002" channel="MCOMHD">
         <title>Adivina quién</title>
     </programme>
-    <programme start="20230521114900 +0002" stop="20230521135800 +0002" channel="CPCOME">
+    <programme start="20230521114900 +0002" stop="20230521135800 +0002" channel="MCOMHD">
         <title>The Mexican</title>
     </programme>
-    <programme start="20230521135800 +0002" stop="20230521145800 +0002" channel="CPCOME">
+    <programme start="20230521135800 +0002" stop="20230521145800 +0002" channel="MCOMHD">
         <title>Martínez y Hermanos: Gloria Serra, José Manuel Calderón y Manuel Quijano</title>
     </programme>
-    <programme start="20230521145800 +0002" stop="20230521163000 +0002" channel="CPCOME">
+    <programme start="20230521145800 +0002" stop="20230521163000 +0002" channel="MCOMHD">
         <title>Tadeo Jones 3. La tabla esmeralda</title>
     </programme>
-    <programme start="20230521163000 +0002" stop="20230521180200 +0002" channel="CPCOME">
+    <programme start="20230521163000 +0002" stop="20230521180200 +0002" channel="MCOMHD">
         <title>El fantástico viaje de Margot y Marguerite</title>
     </programme>
-    <programme start="20230521180200 +0002" stop="20230521195000 +0002" channel="CPCOME">
+    <programme start="20230521180200 +0002" stop="20230521195000 +0002" channel="MCOMHD">
         <title>Men in Black 3</title>
     </programme>
-    <programme start="20230521195000 +0002" stop="20230521213100 +0002" channel="CPCOME">
+    <programme start="20230521195000 +0002" stop="20230521213100 +0002" channel="MCOMHD">
         <title>Austin Powers</title>
     </programme>
-    <programme start="20230521213100 +0002" stop="20230521231500 +0002" channel="CPCOME">
+    <programme start="20230521213100 +0002" stop="20230521231500 +0002" channel="MCOMHD">
         <title>Jacuzzi al pasado</title>
     </programme>
-    <programme start="20230521232300 +0002" stop="20230522014200 +0002" channel="CPCOME">
+    <programme start="20230521232300 +0002" stop="20230522014200 +0002" channel="MCOMHD">
         <title>Todo a la vez en todas partes</title>
     </programme>
-    <programme start="20230521014200 +0002" stop="20230521031700 +0002" channel="CPCOME">
+    <programme start="20230521014200 +0002" stop="20230521031700 +0002" channel="MCOMHD">
         <title>Memorias de un zombie adolescente</title>
     </programme>
-    <programme start="20230521031700 +0002" stop="20230521045200 +0002" channel="CPCOME">
+    <programme start="20230521031700 +0002" stop="20230521045200 +0002" channel="MCOMHD">
         <title>One Cut of the Dead</title>
     </programme>
-    <programme start="20230521045200 +0002" stop="20230521060000 +0002" channel="CPCOME">
+    <programme start="20230521045200 +0002" stop="20230521060000 +0002" channel="MCOMHD">
         <title>You Kill Me</title>
     </programme>
-    <programme start="20230521060700 +0002" stop="20230521080000 +0002" channel="CPCOLE">
+    <programme start="20230521060700 +0002" stop="20230521080000 +0002" channel="MDRAMHD">
         <title>24 Hour Party People</title>
     </programme>
-    <programme start="20230521080000 +0002" stop="20230521082000 +0002" channel="CPCOLE">
+    <programme start="20230521080000 +0002" stop="20230521082000 +0002" channel="MDRAMHD">
         <title>Vendedores de hielo</title>
     </programme>
-    <programme start="20230521082000 +0002" stop="20230521104800 +0002" channel="CPCOLE">
+    <programme start="20230521082000 +0002" stop="20230521104800 +0002" channel="MDRAMHD">
         <title>Mulholland Drive</title>
     </programme>
-    <programme start="20230521104800 +0002" stop="20230521114800 +0002" channel="CPCOLE">
+    <programme start="20230521104800 +0002" stop="20230521114800 +0002" channel="MDRAMHD">
         <title>Denzel Washington en acción</title>
     </programme>
-    <programme start="20230521114800 +0002" stop="20230521134200 +0002" channel="CPCOLE">
+    <programme start="20230521114800 +0002" stop="20230521134200 +0002" channel="MDRAMHD">
         <title>Secretos de estado</title>
     </programme>
-    <programme start="20230521134200 +0002" stop="20230521153000 +0002" channel="CPCOLE">
+    <programme start="20230521134200 +0002" stop="20230521153000 +0002" channel="MDRAMHD">
         <title>Suburbicon</title>
     </programme>
-    <programme start="20230521153000 +0002" stop="20230521175000 +0002" channel="CPCOLE">
+    <programme start="20230521153000 +0002" stop="20230521175000 +0002" channel="MDRAMHD">
         <title>Un asunto real</title>
     </programme>
-    <programme start="20230521175000 +0002" stop="20230521181000 +0002" channel="CPCOLE">
+    <programme start="20230521175000 +0002" stop="20230521181000 +0002" channel="MDRAMHD">
         <title>William Levy revoluciona España</title>
     </programme>
-    <programme start="20230521181000 +0002" stop="20230521202700 +0002" channel="CPCOLE">
+    <programme start="20230521181000 +0002" stop="20230521202700 +0002" channel="MDRAMHD">
         <title>Infiltrado en el Kkklan</title>
     </programme>
-    <programme start="20230521202700 +0002" stop="20230521220000 +0002" channel="CPCOLE">
+    <programme start="20230521202700 +0002" stop="20230521220000 +0002" channel="MDRAMHD">
         <title>Cold War</title>
     </programme>
-    <programme start="20230521220000 +0002" stop="20230521234300 +0002" channel="CPCOLE">
+    <programme start="20230521220000 +0002" stop="20230521234300 +0002" channel="MDRAMHD">
         <title>Sexo, mentiras y cintas de vídeo</title>
     </programme>
-    <programme start="20230521235500 +0002" stop="20230522014800 +0002" channel="CPCOLE">
+    <programme start="20230521235500 +0002" stop="20230522014800 +0002" channel="MDRAMHD">
         <title>T2: Trainspotting</title>
     </programme>
-    <programme start="20230521014800 +0002" stop="20230521034500 +0002" channel="CPCOLE">
+    <programme start="20230521014800 +0002" stop="20230521034500 +0002" channel="MDRAMHD">
         <title>Control</title>
     </programme>
-    <programme start="20230521034500 +0002" stop="20230521055400 +0002" channel="CPCOLE">
+    <programme start="20230521034500 +0002" stop="20230521055400 +0002" channel="MDRAMHD">
         <title>El héroe de Berlín (Race)</title>
     </programme>
-    <programme start="20230521061500 +0002" stop="20230521070000 +0002" channel="DCESP">
+    <programme start="20230521061500 +0002" stop="20230521070000 +0002" channel="MOVISTAR CLASICOS CINE Ñ FHD">
         <title>Creadoras</title>
     </programme>
-    <programme start="20230521070000 +0002" stop="20230521073600 +0002" channel="DCESP">
+    <programme start="20230521070000 +0002" stop="20230521073600 +0002" channel="MOVISTAR CLASICOS CINE Ñ FHD">
         <title>Cuerpos policiales: ¿Ficción o realidad?</title>
     </programme>
-    <programme start="20230521073600 +0002" stop="20230521093100 +0002" channel="DCESP">
+    <programme start="20230521073600 +0002" stop="20230521093100 +0002" channel="MOVISTAR CLASICOS CINE Ñ FHD">
         <title>Torapia</title>
     </programme>
-    <programme start="20230521093100 +0002" stop="20230521110400 +0002" channel="DCESP">
+    <programme start="20230521093100 +0002" stop="20230521110400 +0002" channel="MOVISTAR CLASICOS CINE Ñ FHD">
         <title>Isi &amp; Disi</title>
     </programme>
-    <programme start="20230521110400 +0002" stop="20230521123600 +0002" channel="DCESP">
+    <programme start="20230521110400 +0002" stop="20230521123600 +0002" channel="MOVISTAR CLASICOS CINE Ñ FHD">
         <title>Isi &amp; Disi Alto voltaje</title>
     </programme>
-    <programme start="20230521123600 +0002" stop="20230521140100 +0002" channel="DCESP">
+    <programme start="20230521123600 +0002" stop="20230521140100 +0002" channel="MOVISTAR CLASICOS CINE Ñ FHD">
         <title>Pagafantas</title>
     </programme>
-    <programme start="20230521141400 +0002" stop="20230521155400 +0002" channel="DCESP">
+    <programme start="20230521141400 +0002" stop="20230521155400 +0002" channel="MOVISTAR CLASICOS CINE Ñ FHD">
         <title>La educación de las hadas</title>
     </programme>
-    <programme start="20230521155400 +0002" stop="20230521174100 +0002" channel="DCESP">
+    <programme start="20230521155400 +0002" stop="20230521174100 +0002" channel="MOVISTAR CLASICOS CINE Ñ FHD">
         <title>Carmen y Lola</title>
     </programme>
-    <programme start="20230521174100 +0002" stop="20230521193200 +0002" channel="DCESP">
+    <programme start="20230521174100 +0002" stop="20230521193200 +0002" channel="MOVISTAR CLASICOS CINE Ñ FHD">
         <title>Libertad</title>
     </programme>
-    <programme start="20230521193200 +0002" stop="20230521211600 +0002" channel="DCESP">
+    <programme start="20230521193200 +0002" stop="20230521211600 +0002" channel="MOVISTAR CLASICOS CINE Ñ FHD">
         <title>La voluntaria</title>
     </programme>
-    <programme start="20230521213000 +0002" stop="20230521230900 +0002" channel="DCESP">
+    <programme start="20230521213000 +0002" stop="20230521230900 +0002" channel="MOVISTAR CLASICOS CINE Ñ FHD">
         <title>El espíritu de la colmena</title>
     </programme>
-    <programme start="20230521230900 +0002" stop="20230522005300 +0002" channel="DCESP">
+    <programme start="20230521230900 +0002" stop="20230522005300 +0002" channel="MOVISTAR CLASICOS CINE Ñ FHD">
         <title>Las cosas del querer</title>
     </programme>
-    <programme start="20230521005300 +0002" stop="20230521023400 +0002" channel="DCESP">
+    <programme start="20230521005300 +0002" stop="20230521023400 +0002" channel="MOVISTAR CLASICOS CINE Ñ FHD">
         <title>¡Ay, Carmela!</title>
     </programme>
-    <programme start="20230521023400 +0002" stop="20230521043500 +0002" channel="DCESP">
+    <programme start="20230521023400 +0002" stop="20230521043500 +0002" channel="MOVISTAR CLASICOS CINE Ñ FHD">
         <title>La hora de los valientes</title>
     </programme>
-    <programme start="20230521043500 +0002" stop="20230521060000 +0002" channel="DCESP">
+    <programme start="20230521043500 +0002" stop="20230521060000 +0002" channel="MOVISTAR CLASICOS CINE Ñ FHD">
         <title>Así en el cielo como en la tierra</title>
     </programme>
-    <programme start="20230521034700 +0002" stop="20230521074700 +0002" channel="MONFIR">
+    <programme start="20230521034700 +0002" stop="20230521074700 +0002" channel="MOVISTAR FEST">
         <title>Pecera Movistar Fest</title>
     </programme>
-    <programme start="20230521100000 +0002" stop="20230521111500 +0002" channel="MONFIR">
+    <programme start="20230521100000 +0002" stop="20230521111500 +0002" channel="MOVISTAR FEST">
         <title>Saturday Night Live: Ana de Armas / Karol G</title>
     </programme>
-    <programme start="20230521111500 +0002" stop="20230521120800 +0002" channel="MONFIR">
+    <programme start="20230521111500 +0002" stop="20230521120800 +0002" channel="MOVISTAR FEST">
         <title>Sesiones Movistar+: Israel Fernández</title>
     </programme>
-    <programme start="20230521120800 +0002" stop="20230521140000 +0002" channel="MONFIR">
+    <programme start="20230521120800 +0002" stop="20230521140000 +0002" channel="MOVISTAR FEST">
         <title>El último concierto</title>
     </programme>
-    <programme start="20230521140000 +0002" stop="20230521151600 +0002" channel="MONFIR">
+    <programme start="20230521140000 +0002" stop="20230521151600 +0002" channel="MOVISTAR FEST">
         <title>Jerry Lee Lewis. Música del diablo</title>
     </programme>
-    <programme start="20230521151600 +0002" stop="20230521153500 +0002" channel="MONFIR">
+    <programme start="20230521151600 +0002" stop="20230521153500 +0002" channel="MOVISTAR FEST">
         <title>Menú Stereo: Episodio 14</title>
     </programme>
-    <programme start="20230521153500 +0002" stop="20230521171000 +0002" channel="MONFIR">
+    <programme start="20230521153500 +0002" stop="20230521171000 +0002" channel="MOVISTAR FEST">
         <title>Freddie Mercury: el show final</title>
     </programme>
-    <programme start="20230521171000 +0002" stop="20230521185000 +0002" channel="MONFIR">
+    <programme start="20230521171000 +0002" stop="20230521185000 +0002" channel="MOVISTAR FEST">
         <title>Joy Division</title>
     </programme>
-    <programme start="20230521185000 +0002" stop="20230521195000 +0002" channel="MONFIR">
+    <programme start="20230521185000 +0002" stop="20230521195000 +0002" channel="MOVISTAR FEST">
         <title>Damon Albarn: un cuento inglés moderno</title>
     </programme>
-    <programme start="20230521195000 +0002" stop="20230521220000 +0002" channel="MONFIR">
+    <programme start="20230521195000 +0002" stop="20230521220000 +0002" channel="MOVISTAR FEST">
         <title>Oasis: Supersonic</title>
     </programme>
-    <programme start="20230521220000 +0002" stop="20230522001000 +0002" channel="MONFIR">
+    <programme start="20230521220000 +0002" stop="20230522001000 +0002" channel="MOVISTAR FEST">
         <title>Amy (La chica detrás del nombre)</title>
     </programme>
-    <programme start="20230521001000 +0002" stop="20230521022500 +0002" channel="MONFIR">
+    <programme start="20230521001000 +0002" stop="20230521022500 +0002" channel="MOVISTAR FEST">
         <title>Moonage Daydream</title>
     </programme>
-    <programme start="20230521022500 +0002" stop="20230521024500 +0002" channel="MONFIR">
+    <programme start="20230521022500 +0002" stop="20230521024500 +0002" channel="MOVISTAR FEST">
         <title>Menú Stereo: Episodio 14</title>
     </programme>
-    <programme start="20230521024500 +0002" stop="20230521041300 +0002" channel="MONFIR">
+    <programme start="20230521024500 +0002" stop="20230521041300 +0002" channel="MOVISTAR FEST">
         <title>Kiko Veneno. Un día Lobo López</title>
     </programme>
-    <programme start="20230521041300 +0002" stop="20230521060000 +0002" channel="MONFIR">
+    <programme start="20230521041300 +0002" stop="20230521060000 +0002" channel="MOVISTAR FEST">
         <title>Pecera Movistar Fest</title>
     </programme>
     <programme start="20230521053000 +0002" stop="20230521061900 +0002" channel="RESIST">
@@ -2478,85 +2478,85 @@
     <programme start="20230521051000 +0002" stop="20230521060000 +0002" channel="RESIST">
         <title>La Resistencia: Ester Expósito</title>
     </programme>
-    <programme start="20230521051800 +0002" stop="20230521055900 +0002" channel="TCM">
+    <programme start="20230521051800 +0002" stop="20230521055900 +0002" channel="TCMLA">
         <title>Videodrome</title>
     </programme>
-    <programme start="20230521064100 +0002" stop="20230521085200 +0002" channel="TCM">
+    <programme start="20230521064100 +0002" stop="20230521085200 +0002" channel="TCMLA">
         <title>Los cuentos de Hoffman</title>
     </programme>
-    <programme start="20230521085200 +0002" stop="20230521103800 +0002" channel="TCM">
+    <programme start="20230521085200 +0002" stop="20230521103800 +0002" channel="TCMLA">
         <title>Dos cabalgan juntos</title>
     </programme>
-    <programme start="20230521103800 +0002" stop="20230521120300 +0002" channel="TCM">
+    <programme start="20230521103800 +0002" stop="20230521120300 +0002" channel="TCMLA">
         <title>Joe Kidd</title>
     </programme>
-    <programme start="20230521120300 +0002" stop="20230521134200 +0002" channel="TCM">
+    <programme start="20230521120300 +0002" stop="20230521134200 +0002" channel="TCMLA">
         <title>Súper empollonas</title>
     </programme>
-    <programme start="20230521134200 +0002" stop="20230521153900 +0002" channel="TCM">
+    <programme start="20230521134200 +0002" stop="20230521153900 +0002" channel="TCMLA">
         <title>El resplandor</title>
     </programme>
-    <programme start="20230521153900 +0002" stop="20230521182300 +0002" channel="TCM">
+    <programme start="20230521153900 +0002" stop="20230521182300 +0002" channel="TCMLA">
         <title>Interstellar</title>
     </programme>
-    <programme start="20230521182300 +0002" stop="20230521200600 +0002" channel="TCM">
+    <programme start="20230521182300 +0002" stop="20230521200600 +0002" channel="TCMLA">
         <title>Flores rotas</title>
     </programme>
-    <programme start="20230521200600 +0002" stop="20230521220000 +0002" channel="TCM">
+    <programme start="20230521200600 +0002" stop="20230521220000 +0002" channel="TCMLA">
         <title>La llegada</title>
     </programme>
-    <programme start="20230521220000 +0002" stop="20230522000000 +0002" channel="TCM">
+    <programme start="20230521220000 +0002" stop="20230522000000 +0002" channel="TCMLA">
         <title>Neds (No educados y delincuentes)</title>
     </programme>
-    <programme start="20230521000000 +0002" stop="20230521015400 +0002" channel="TCM">
+    <programme start="20230521000000 +0002" stop="20230521015400 +0002" channel="TCMLA">
         <title>Los profesionales</title>
     </programme>
-    <programme start="20230521015400 +0002" stop="20230521041100 +0002" channel="TCM">
+    <programme start="20230521015400 +0002" stop="20230521041100 +0002" channel="TCMLA">
         <title>Z. La ciudad perdida</title>
     </programme>
-    <programme start="20230521041100 +0002" stop="20230521055200 +0002" channel="TCM">
+    <programme start="20230521041100 +0002" stop="20230521055200 +0002" channel="TCMLA">
         <title>El mundo en sus manos</title>
     </programme>
-    <programme start="20230521061100 +0002" stop="20230521082600 +0002" channel="HOLLYW">
+    <programme start="20230521061100 +0002" stop="20230521082600 +0002" channel="CANHOLL">
         <title>Independence Day</title>
     </programme>
-    <programme start="20230521082600 +0002" stop="20230521100400 +0002" channel="HOLLYW">
+    <programme start="20230521082600 +0002" stop="20230521100400 +0002" channel="CANHOLL">
         <title>300: El origen de un imperio</title>
     </programme>
-    <programme start="20230521100400 +0002" stop="20230521113600 +0002" channel="HOLLYW">
+    <programme start="20230521100400 +0002" stop="20230521113600 +0002" channel="CANHOLL">
         <title>Venganza</title>
     </programme>
-    <programme start="20230521113600 +0002" stop="20230521130100 +0002" channel="HOLLYW">
+    <programme start="20230521113600 +0002" stop="20230521130100 +0002" channel="CANHOLL">
         <title>Liberad a Willy III: el rescate</title>
     </programme>
-    <programme start="20230521130100 +0002" stop="20230521142900 +0002" channel="HOLLYW">
+    <programme start="20230521130100 +0002" stop="20230521142900 +0002" channel="CANHOLL">
         <title>Loca academia de policía 2: Su primera misión</title>
     </programme>
-    <programme start="20230521142900 +0002" stop="20230521155900 +0002" channel="HOLLYW">
+    <programme start="20230521142900 +0002" stop="20230521155900 +0002" channel="CANHOLL">
         <title>Loca academia de policía 3: De vuelta a la escuela</title>
     </programme>
-    <programme start="20230521155900 +0002" stop="20230521172800 +0002" channel="HOLLYW">
+    <programme start="20230521155900 +0002" stop="20230521172800 +0002" channel="CANHOLL">
         <title>Loca academia de policía 4: Los ciudadanos se defienden</title>
     </programme>
-    <programme start="20230521172800 +0002" stop="20230521190400 +0002" channel="HOLLYW">
+    <programme start="20230521172800 +0002" stop="20230521190400 +0002" channel="CANHOLL">
         <title>Loca academia de policía 5: Operación Miami Beach</title>
     </programme>
-    <programme start="20230521190400 +0002" stop="20230521203300 +0002" channel="HOLLYW">
+    <programme start="20230521190400 +0002" stop="20230521203300 +0002" channel="CANHOLL">
         <title>Loca academia de policía 6: Ciudad sitiada</title>
     </programme>
-    <programme start="20230521203300 +0002" stop="20230521220000 +0002" channel="HOLLYW">
+    <programme start="20230521203300 +0002" stop="20230521220000 +0002" channel="CANHOLL">
         <title>Loca academia de policía 7: Misión en Moscú</title>
     </programme>
-    <programme start="20230521220000 +0002" stop="20230522000900 +0002" channel="HOLLYW">
+    <programme start="20230521220000 +0002" stop="20230522000900 +0002" channel="CANHOLL">
         <title>Sherlock Holmes: Juego de sombras</title>
     </programme>
-    <programme start="20230521000900 +0002" stop="20230521013300 +0002" channel="HOLLYW">
+    <programme start="20230521000900 +0002" stop="20230521013300 +0002" channel="CANHOLL">
         <title>Viaje al centro de la Tierra 2: La isla misteriosa</title>
     </programme>
-    <programme start="20230521013300 +0002" stop="20230521033700 +0002" channel="HOLLYW">
+    <programme start="20230521013300 +0002" stop="20230521033700 +0002" channel="CANHOLL">
         <title>Un día inolvidable</title>
     </programme>
-    <programme start="20230521033700 +0002" stop="20230521055300 +0002" channel="HOLLYW">
+    <programme start="20230521033700 +0002" stop="20230521055300 +0002" channel="CANHOLL">
         <title>El exorcista</title>
     </programme>
     <programme start="20230521052100 +0002" stop="20230521062200 +0002" channel="XTRM">
@@ -2613,58 +2613,58 @@
     <programme start="20230521051500 +0002" stop="20230521060000 +0002" channel="XTRM">
         <title>Transporter (T2): Ep.6 Diva</title>
     </programme>
-    <programme start="20230521052900 +0002" stop="20230521055100 +0002" channel="SUNDAN">
+    <programme start="20230521052900 +0002" stop="20230521055100 +0002" channel="SUNDESP">
         <title>Soldados (T1): Episodio 4</title>
     </programme>
-    <programme start="20230521062200 +0002" stop="20230521080400 +0002" channel="SUNDAN">
+    <programme start="20230521062200 +0002" stop="20230521080400 +0002" channel="SUNDESP">
         <title>Vivir es fácil con los ojos cerrados</title>
     </programme>
-    <programme start="20230521080400 +0002" stop="20230521092900 +0002" channel="SUNDAN">
+    <programme start="20230521080400 +0002" stop="20230521092900 +0002" channel="SUNDESP">
         <title>Oro blanco</title>
     </programme>
-    <programme start="20230521092900 +0002" stop="20230521105600 +0002" channel="SUNDAN">
+    <programme start="20230521092900 +0002" stop="20230521105600 +0002" channel="SUNDESP">
         <title>Waterboys</title>
     </programme>
-    <programme start="20230521105600 +0002" stop="20230521125100 +0002" channel="SUNDAN">
+    <programme start="20230521105600 +0002" stop="20230521125100 +0002" channel="SUNDESP">
         <title>Agosto</title>
     </programme>
-    <programme start="20230521125100 +0002" stop="20230521133300 +0002" channel="SUNDAN">
+    <programme start="20230521125100 +0002" stop="20230521133300 +0002" channel="SUNDESP">
         <title>Soldados (T1): Episodio 5</title>
     </programme>
-    <programme start="20230521133300 +0002" stop="20230521153100 +0002" channel="SUNDAN">
+    <programme start="20230521133300 +0002" stop="20230521153100 +0002" channel="SUNDESP">
         <title>Charlatán</title>
     </programme>
-    <programme start="20230521153100 +0002" stop="20230521170300 +0002" channel="SUNDAN">
+    <programme start="20230521153100 +0002" stop="20230521170300 +0002" channel="SUNDESP">
         <title>Entre ellas</title>
     </programme>
-    <programme start="20230521170300 +0002" stop="20230521190000 +0002" channel="SUNDAN">
+    <programme start="20230521170300 +0002" stop="20230521190000 +0002" channel="SUNDESP">
         <title>La sombra del poder</title>
     </programme>
-    <programme start="20230521190000 +0002" stop="20230521204200 +0002" channel="SUNDAN">
+    <programme start="20230521190000 +0002" stop="20230521204200 +0002" channel="SUNDESP">
         <title>Llenos de vida</title>
     </programme>
-    <programme start="20230521204200 +0002" stop="20230521223000 +0002" channel="SUNDAN">
+    <programme start="20230521204200 +0002" stop="20230521223000 +0002" channel="SUNDESP">
         <title>Los aires difíciles</title>
     </programme>
-    <programme start="20230521223000 +0002" stop="20230522001200 +0002" channel="SUNDAN">
+    <programme start="20230521223000 +0002" stop="20230522001200 +0002" channel="SUNDESP">
         <title>Ojalá estuviera aquí</title>
     </programme>
-    <programme start="20230521001200 +0002" stop="20230521013600 +0002" channel="SUNDAN">
+    <programme start="20230521001200 +0002" stop="20230521013600 +0002" channel="SUNDESP">
         <title>Dos suegros y un destino</title>
     </programme>
-    <programme start="20230521013600 +0002" stop="20230521025900 +0002" channel="SUNDAN">
+    <programme start="20230521013600 +0002" stop="20230521025900 +0002" channel="SUNDESP">
         <title>Una mujer brillante</title>
     </programme>
-    <programme start="20230521025900 +0002" stop="20230521041500 +0002" channel="SUNDAN">
+    <programme start="20230521025900 +0002" stop="20230521041500 +0002" channel="SUNDESP">
         <title>Rock'N'Love</title>
     </programme>
-    <programme start="20230521041500 +0002" stop="20230521045600 +0002" channel="SUNDAN">
+    <programme start="20230521041500 +0002" stop="20230521045600 +0002" channel="SUNDESP">
         <title>Soldados (T1): Episodio 5</title>
     </programme>
-    <programme start="20230521045600 +0002" stop="20230521054200 +0002" channel="SUNDAN">
+    <programme start="20230521045600 +0002" stop="20230521054200 +0002" channel="SUNDESP">
         <title>Soldados (T1): Episodio 6</title>
     </programme>
-    <programme start="20230521054200 +0002" stop="20230521060000 +0002" channel="SUNDAN">
+    <programme start="20230521054200 +0002" stop="20230521060000 +0002" channel="SUNDESP">
         <title>Soldados (T1): Episodio 7</title>
     </programme>
     <programme start="20230521061400 +0002" stop="20230521075700 +0002" channel="DARK">
@@ -2859,211 +2859,211 @@
     <programme start="20230521054000 +0002" stop="20230521060000 +0002" channel="PARCH">
         <title>Cinexpress (piezas)</title>
     </programme>
-    <programme start="20230521053100 +0002" stop="20230521055000 +0002" channel="MV2">
+    <programme start="20230521053100 +0002" stop="20230521055000 +0002" channel="MSERHD">
         <title>Harry Palmer: el expediente Ipcress (T1): Episodio 4</title>
     </programme>
-    <programme start="20230521061900 +0002" stop="20230521070600 +0002" channel="MV2">
+    <programme start="20230521061900 +0002" stop="20230521070600 +0002" channel="MSERHD">
         <title>Harry Palmer: el expediente Ipcress (T1): Episodio 5</title>
     </programme>
-    <programme start="20230521070600 +0002" stop="20230521075500 +0002" channel="MV2">
+    <programme start="20230521070600 +0002" stop="20230521075500 +0002" channel="MSERHD">
         <title>Harry Palmer: el expediente Ipcress (T1): Episodio 6</title>
     </programme>
-    <programme start="20230521080000 +0002" stop="20230521083300 +0002" channel="MV2">
+    <programme start="20230521080000 +0002" stop="20230521083300 +0002" channel="MSERHD">
         <title>Fácil (T1): Ep.1 Está clarísimo</title>
     </programme>
-    <programme start="20230521083300 +0002" stop="20230521091300 +0002" channel="MV2">
+    <programme start="20230521083300 +0002" stop="20230521091300 +0002" channel="MSERHD">
         <title>Fácil (T1): Ep.2 No es basura todo lo que parece</title>
     </programme>
-    <programme start="20230521091300 +0002" stop="20230521094800 +0002" channel="MV2">
+    <programme start="20230521091300 +0002" stop="20230521094800 +0002" channel="MSERHD">
         <title>Fácil (T1): Ep.3 ¿Yo antes era normal?</title>
     </programme>
-    <programme start="20230521094800 +0002" stop="20230521102400 +0002" channel="MV2">
+    <programme start="20230521094800 +0002" stop="20230521102400 +0002" channel="MSERHD">
         <title>Fácil (T1): Ep.4 Está prohibido</title>
     </programme>
-    <programme start="20230521102400 +0002" stop="20230521110600 +0002" channel="MV2">
+    <programme start="20230521102400 +0002" stop="20230521110600 +0002" channel="MSERHD">
         <title>Fácil (T1): Ep.5 Yo mando que no hay normas</title>
     </programme>
-    <programme start="20230521111000 +0002" stop="20230521113700 +0002" channel="MV2">
+    <programme start="20230521111000 +0002" stop="20230521113700 +0002" channel="MSERHD">
         <title>El hijo zurdo (T1): Ep.1 Tal astilla</title>
     </programme>
-    <programme start="20230521113700 +0002" stop="20230521120100 +0002" channel="MV2">
+    <programme start="20230521113700 +0002" stop="20230521120100 +0002" channel="MSERHD">
         <title>El hijo zurdo (T1): Ep.2 La playa</title>
     </programme>
-    <programme start="20230521120100 +0002" stop="20230521122700 +0002" channel="MV2">
+    <programme start="20230521120100 +0002" stop="20230521122700 +0002" channel="MSERHD">
         <title>El hijo zurdo (T1): Ep.3 Las llaves de casa</title>
     </programme>
-    <programme start="20230521122700 +0002" stop="20230521125500 +0002" channel="MV2">
+    <programme start="20230521122700 +0002" stop="20230521125500 +0002" channel="MSERHD">
         <title>El hijo zurdo (T1): Ep.4 Lo mejor para todos</title>
     </programme>
-    <programme start="20230521125500 +0002" stop="20230521132100 +0002" channel="MV2">
+    <programme start="20230521125500 +0002" stop="20230521132100 +0002" channel="MSERHD">
         <title>El hijo zurdo (T1): Ep.5 Poco a poco</title>
     </programme>
-    <programme start="20230521132100 +0002" stop="20230521135000 +0002" channel="MV2">
+    <programme start="20230521132100 +0002" stop="20230521135000 +0002" channel="MSERHD">
         <title>El hijo zurdo (T1): Ep.6 El hijo zurdo</title>
     </programme>
-    <programme start="20230521135000 +0002" stop="20230521142100 +0002" channel="MV2">
+    <programme start="20230521135000 +0002" stop="20230521142100 +0002" channel="MSERHD">
         <title>El limpiador (T2): Ep.1 La transacción</title>
     </programme>
-    <programme start="20230521142100 +0002" stop="20230521145500 +0002" channel="MV2">
+    <programme start="20230521142100 +0002" stop="20230521145500 +0002" channel="MSERHD">
         <title>El limpiador (T2): Ep.2 El payaso</title>
     </programme>
-    <programme start="20230521145500 +0002" stop="20230521153000 +0002" channel="MV2">
+    <programme start="20230521145500 +0002" stop="20230521153000 +0002" channel="MSERHD">
         <title>El limpiador (T2): Ep.3 El turno de noche</title>
     </programme>
-    <programme start="20230521153000 +0002" stop="20230521161700 +0002" channel="MV2">
+    <programme start="20230521153000 +0002" stop="20230521161700 +0002" channel="MSERHD">
         <title>Todas las criaturas grandes y pequeñas (T3): Ep.1 A la segunda va la vencida</title>
     </programme>
-    <programme start="20230521161700 +0002" stop="20230521170600 +0002" channel="MV2">
+    <programme start="20230521161700 +0002" stop="20230521170600 +0002" channel="MSERHD">
         <title>Todas las criaturas grandes y pequeñas (T3): Ep.2 Se acabó la luna de miel</title>
     </programme>
-    <programme start="20230521170600 +0002" stop="20230521175500 +0002" channel="MV2">
+    <programme start="20230521170600 +0002" stop="20230521175500 +0002" channel="MSERHD">
         <title>Todas las criaturas grandes y pequeñas (T3): Ep.3 Sobreviviendo a Siegfried</title>
     </programme>
-    <programme start="20230521175500 +0002" stop="20230521182000 +0002" channel="MV2">
+    <programme start="20230521175500 +0002" stop="20230521182000 +0002" channel="MSERHD">
         <title>Caza al culpable (T1): Ep.1 Jackie</title>
     </programme>
-    <programme start="20230521182000 +0002" stop="20230521184900 +0002" channel="MV2">
+    <programme start="20230521182000 +0002" stop="20230521184900 +0002" channel="MSERHD">
         <title>Caza al culpable (T1): Ep.2 Nicola</title>
     </programme>
-    <programme start="20230521184900 +0002" stop="20230521191400 +0002" channel="MV2">
+    <programme start="20230521184900 +0002" stop="20230521191400 +0002" channel="MSERHD">
         <title>Caza al culpable (T1): Ep.3 Maia</title>
     </programme>
-    <programme start="20230521191400 +0002" stop="20230521194300 +0002" channel="MV2">
+    <programme start="20230521191400 +0002" stop="20230521194300 +0002" channel="MSERHD">
         <title>Caza al culpable (T1): Ep.4 Jaisal</title>
     </programme>
-    <programme start="20230521194300 +0002" stop="20230521200800 +0002" channel="MV2">
+    <programme start="20230521194300 +0002" stop="20230521200800 +0002" channel="MSERHD">
         <title>Caza al culpable (T1): Ep.5 Ryan</title>
     </programme>
-    <programme start="20230521200800 +0002" stop="20230521203900 +0002" channel="MV2">
+    <programme start="20230521200800 +0002" stop="20230521203900 +0002" channel="MSERHD">
         <title>Caza al culpable (T1): Ep.6 Harry</title>
     </programme>
-    <programme start="20230521203900 +0002" stop="20230521210400 +0002" channel="MV2">
+    <programme start="20230521203900 +0002" stop="20230521210400 +0002" channel="MSERHD">
         <title>Caza al culpable (T1): Ep.7 Susannah</title>
     </programme>
-    <programme start="20230521210400 +0002" stop="20230521213500 +0002" channel="MV2">
+    <programme start="20230521210400 +0002" stop="20230521213500 +0002" channel="MSERHD">
         <title>Caza al culpable (T1): Ep.8 Danny</title>
     </programme>
-    <programme start="20230521213500 +0002" stop="20230521222300 +0002" channel="MV2">
+    <programme start="20230521213500 +0002" stop="20230521222300 +0002" channel="MSERHD">
         <title>The Chosen (Los elegidos) (T2): Ep.5 Espíritu</title>
     </programme>
-    <programme start="20230521222300 +0002" stop="20230521231000 +0002" channel="MV2">
+    <programme start="20230521222300 +0002" stop="20230521231000 +0002" channel="MSERHD">
         <title>The Chosen (Los elegidos) (T2): Ep.6 Ilícito</title>
     </programme>
-    <programme start="20230521231000 +0002" stop="20230522001000 +0002" channel="MV2">
+    <programme start="20230521231000 +0002" stop="20230522001000 +0002" channel="MSERHD">
         <title>Montecristo (T1): Episodio 1</title>
     </programme>
-    <programme start="20230521001000 +0002" stop="20230521010100 +0002" channel="MV2">
+    <programme start="20230521001000 +0002" stop="20230521010100 +0002" channel="MSERHD">
         <title>Montecristo (T1): Episodio 2</title>
     </programme>
-    <programme start="20230521010100 +0002" stop="20230521015600 +0002" channel="MV2">
+    <programme start="20230521010100 +0002" stop="20230521015600 +0002" channel="MSERHD">
         <title>Montecristo (T1): Episodio 3</title>
     </programme>
-    <programme start="20230521015600 +0002" stop="20230521025000 +0002" channel="MV2">
+    <programme start="20230521015600 +0002" stop="20230521025000 +0002" channel="MSERHD">
         <title>Montecristo (T1): Episodio 4</title>
     </programme>
-    <programme start="20230521025000 +0002" stop="20230521034300 +0002" channel="MV2">
+    <programme start="20230521025000 +0002" stop="20230521034300 +0002" channel="MSERHD">
         <title>Montecristo (T1): Episodio 5</title>
     </programme>
-    <programme start="20230521034300 +0002" stop="20230521043600 +0002" channel="MV2">
+    <programme start="20230521034300 +0002" stop="20230521043600 +0002" channel="MSERHD">
         <title>Montecristo (T1): Episodio 6</title>
     </programme>
-    <programme start="20230521045100 +0002" stop="20230521055100 +0002" channel="MV2">
+    <programme start="20230521045100 +0002" stop="20230521055100 +0002" channel="MSERHD">
         <title>A la caza del amor (T1): Episodio 1</title>
     </programme>
-    <programme start="20230521054900 +0002" stop="20230521060900 +0002" channel="CPSER">
+    <programme start="20230521054900 +0002" stop="20230521060900 +0002" channel="MSERMAN">
         <title>I Love That for You (Me alegro por ti) (T1): Ep.4 Impecable a diario</title>
     </programme>
-    <programme start="20230521062000 +0002" stop="20230521065000 +0002" channel="CPSER">
+    <programme start="20230521062000 +0002" stop="20230521065000 +0002" channel="MSERMAN">
         <title>I Love That for You (Me alegro por ti) (T1): Ep.5 Las galletitas de papá</title>
     </programme>
-    <programme start="20230521065000 +0002" stop="20230521071900 +0002" channel="CPSER">
+    <programme start="20230521065000 +0002" stop="20230521071900 +0002" channel="MSERMAN">
         <title>I Love That for You (Me alegro por ti) (T1): Ep.6 Colegas de cristal</title>
     </programme>
-    <programme start="20230521073000 +0002" stop="20230521075800 +0002" channel="CPSER">
+    <programme start="20230521073000 +0002" stop="20230521075800 +0002" channel="MSERMAN">
         <title>Black Monday (T3): Ep.6 ¡Cinco!</title>
     </programme>
-    <programme start="20230521075800 +0002" stop="20230521083000 +0002" channel="CPSER">
+    <programme start="20230521075800 +0002" stop="20230521083000 +0002" channel="MSERMAN">
         <title>Black Monday (T3): Ep.7 ¡Cuatro!</title>
     </programme>
-    <programme start="20230521083000 +0002" stop="20230521085900 +0002" channel="CPSER">
+    <programme start="20230521083000 +0002" stop="20230521085900 +0002" channel="MSERMAN">
         <title>Black Monday (T3): Ep.8 ¡Tres!</title>
     </programme>
-    <programme start="20230521085900 +0002" stop="20230521093100 +0002" channel="CPSER">
+    <programme start="20230521085900 +0002" stop="20230521093100 +0002" channel="MSERMAN">
         <title>Black Monday (T3): Ep.9 ¡Dos!</title>
     </programme>
-    <programme start="20230521093100 +0002" stop="20230521100500 +0002" channel="CPSER">
+    <programme start="20230521093100 +0002" stop="20230521100500 +0002" channel="MSERMAN">
         <title>Black Monday (T3): Ep.10 ¡Uno!</title>
     </programme>
-    <programme start="20230521100500 +0002" stop="20230521110300 +0002" channel="CPSER">
+    <programme start="20230521100500 +0002" stop="20230521110300 +0002" channel="MSERMAN">
         <title>Un espía entre amigos (T1): Ep.4 Vodka</title>
     </programme>
-    <programme start="20230521110300 +0002" stop="20230521115500 +0002" channel="CPSER">
+    <programme start="20230521110300 +0002" stop="20230521115500 +0002" channel="MSERMAN">
         <title>Un espía entre amigos (T1): Ep.5 Nieve</title>
     </programme>
-    <programme start="20230521115500 +0002" stop="20230521125700 +0002" channel="CPSER">
+    <programme start="20230521115500 +0002" stop="20230521125700 +0002" channel="MSERMAN">
         <title>Un espía entre amigos (T1): Ep.6 Tierra de nadie</title>
     </programme>
-    <programme start="20230521125700 +0002" stop="20230521141700 +0002" channel="CPSER">
+    <programme start="20230521125700 +0002" stop="20230521141700 +0002" channel="MSERMAN">
         <title>Outlander (T6): Ep.1 Ecos</title>
     </programme>
-    <programme start="20230521141700 +0002" stop="20230521153000 +0002" channel="CPSER">
+    <programme start="20230521141700 +0002" stop="20230521153000 +0002" channel="MSERMAN">
         <title>Outlander (T6): Ep.2 Armas de guerra</title>
     </programme>
-    <programme start="20230521153000 +0002" stop="20230521163000 +0002" channel="CPSER">
+    <programme start="20230521153000 +0002" stop="20230521163000 +0002" channel="MSERMAN">
         <title>Yellowjackets (T2): Ep.7 Entierro</title>
     </programme>
-    <programme start="20230521163000 +0002" stop="20230521171400 +0002" channel="CPSER">
+    <programme start="20230521163000 +0002" stop="20230521171400 +0002" channel="MSERMAN">
         <title>The Blacklist (T10): Ep.11 El hombre del sombrero</title>
     </programme>
-    <programme start="20230521171400 +0002" stop="20230521180200 +0002" channel="CPSER">
+    <programme start="20230521171400 +0002" stop="20230521180200 +0002" channel="MSERMAN">
         <title>El descubrimiento de las brujas (T3): Episodio 1</title>
     </programme>
-    <programme start="20230521180200 +0002" stop="20230521185200 +0002" channel="CPSER">
+    <programme start="20230521180200 +0002" stop="20230521185200 +0002" channel="MSERMAN">
         <title>El descubrimiento de las brujas (T3): Episodio 2</title>
     </programme>
-    <programme start="20230521185200 +0002" stop="20230521194400 +0002" channel="CPSER">
+    <programme start="20230521185200 +0002" stop="20230521194400 +0002" channel="MSERMAN">
         <title>El descubrimiento de las brujas (T3): Episodio 3</title>
     </programme>
-    <programme start="20230521194400 +0002" stop="20230521200300 +0002" channel="CPSER">
+    <programme start="20230521194400 +0002" stop="20230521200300 +0002" channel="MSERMAN">
         <title>El joven Sheldon (T5): Ep.13 Tiritas y la rendición Cooper</title>
     </programme>
-    <programme start="20230521200300 +0002" stop="20230521202900 +0002" channel="CPSER">
+    <programme start="20230521200300 +0002" stop="20230521202900 +0002" channel="MSERMAN">
         <title>El joven Sheldon (T5): Ep.14 Ardides femeninos y un rasca y gana</title>
     </programme>
-    <programme start="20230521202900 +0002" stop="20230521205500 +0002" channel="CPSER">
+    <programme start="20230521202900 +0002" stop="20230521205500 +0002" channel="MSERMAN">
         <title>El joven Sheldon (T5): Ep.15 Una langosta, un armadillo y un número mucho más alto</title>
     </programme>
-    <programme start="20230521205500 +0002" stop="20230521211900 +0002" channel="CPSER">
+    <programme start="20230521205500 +0002" stop="20230521211900 +0002" channel="MSERMAN">
         <title>El joven Sheldon (T6): Ep.18 Hombrecitos verdes y una proposición de matrimonio</title>
     </programme>
-    <programme start="20230521211900 +0002" stop="20230521214500 +0002" channel="CPSER">
+    <programme start="20230521211900 +0002" stop="20230521214500 +0002" channel="MSERMAN">
         <title>El joven Sheldon (T6): Ep.19 La nueva chica del tiempo y un exceso de mimos</title>
     </programme>
-    <programme start="20230521214500 +0002" stop="20230521230300 +0002" channel="CPSER">
+    <programme start="20230521214500 +0002" stop="20230521230300 +0002" channel="MSERMAN">
         <title>Outlander (T6): Ep.1 Ecos</title>
     </programme>
-    <programme start="20230521230300 +0002" stop="20230522001800 +0002" channel="CPSER">
+    <programme start="20230521230300 +0002" stop="20230522001800 +0002" channel="MSERMAN">
         <title>Outlander (T6): Ep.2 Armas de guerra</title>
     </programme>
-    <programme start="20230521002300 +0002" stop="20230521012100 +0002" channel="CPSER">
+    <programme start="20230521002300 +0002" stop="20230521012100 +0002" channel="MSERMAN">
         <title>Yellowjackets (T2): Ep.7 Entierro</title>
     </programme>
-    <programme start="20230521012900 +0002" stop="20230521015800 +0002" channel="CPSER">
+    <programme start="20230521012900 +0002" stop="20230521015800 +0002" channel="MSERMAN">
         <title>Arquitectura emocional 1959</title>
     </programme>
-    <programme start="20230521022000 +0002" stop="20230521031100 +0002" channel="CPSER">
+    <programme start="20230521022000 +0002" stop="20230521031100 +0002" channel="MSERMAN">
         <title>Billions (T6): Ep.1 A los cañones</title>
     </programme>
-    <programme start="20230521031100 +0002" stop="20230521035800 +0002" channel="CPSER">
+    <programme start="20230521031100 +0002" stop="20230521035800 +0002" channel="MSERMAN">
         <title>Billions (T6): Ep.2 Ojos mentirosos</title>
     </programme>
-    <programme start="20230521035800 +0002" stop="20230521044400 +0002" channel="CPSER">
+    <programme start="20230521035800 +0002" stop="20230521044400 +0002" channel="MSERMAN">
         <title>Billions (T6): Ep.3 ETS</title>
     </programme>
-    <programme start="20230521044400 +0002" stop="20230521053100 +0002" channel="CPSER">
+    <programme start="20230521044400 +0002" stop="20230521053100 +0002" channel="MSERMAN">
         <title>Billions (T6): Ep.4 Tasa de quema</title>
     </programme>
-    <programme start="20230521053100 +0002" stop="20230521060000 +0002" channel="CPSER">
+    <programme start="20230521053100 +0002" stop="20230521060000 +0002" channel="MSERMAN">
         <title>Billions (T6): Ep.5 Buen ojo</title>
     </programme>
     <programme start="20230521060000 +0002" stop="20230521064500 +0002" channel="FOXGE">
@@ -3387,67 +3387,67 @@
     <programme start="20230521053200 +0002" stop="20230521060000 +0002" channel="PCM">
         <title>Central de Cómicos Express</title>
     </programme>
-    <programme start="20230521054200 +0002" stop="20230521060900 +0002" channel="CL13">
+    <programme start="20230521054200 +0002" stop="20230521060900 +0002" channel="CALLE13">
         <title>Ley y orden: acción criminal (T5): Ep.10 Casa de muñecas</title>
     </programme>
-    <programme start="20230521062700 +0002" stop="20230521071300 +0002" channel="CL13">
+    <programme start="20230521062700 +0002" stop="20230521071300 +0002" channel="CALLE13">
         <title>Ley y orden: acción criminal (T5): Ep.11 Serpenteando</title>
     </programme>
-    <programme start="20230521071300 +0002" stop="20230521080000 +0002" channel="CL13">
+    <programme start="20230521071300 +0002" stop="20230521080000 +0002" channel="CALLE13">
         <title>Ley y orden: acción criminal (T5): Ep.12 Guardia</title>
     </programme>
-    <programme start="20230521080000 +0002" stop="20230521084300 +0002" channel="CL13">
+    <programme start="20230521080000 +0002" stop="20230521084300 +0002" channel="CALLE13">
         <title>Ley y orden: acción criminal (T5): Ep.13 Orgullo de familia</title>
     </programme>
-    <programme start="20230521084300 +0002" stop="20230521092800 +0002" channel="CL13">
+    <programme start="20230521084300 +0002" stop="20230521092800 +0002" channel="CALLE13">
         <title>Ley y orden: acción criminal (T5): Ep.14 Hombre blanco</title>
     </programme>
-    <programme start="20230521092800 +0002" stop="20230521101500 +0002" channel="CL13">
+    <programme start="20230521092800 +0002" stop="20230521101500 +0002" channel="CALLE13">
         <title>Ley y orden: unidad de víctimas especiales (T11): Ep.13 Panfleto</title>
     </programme>
-    <programme start="20230521101500 +0002" stop="20230521110500 +0002" channel="CL13">
+    <programme start="20230521101500 +0002" stop="20230521110500 +0002" channel="CALLE13">
         <title>Chicago P.D. (T10): Ep.12 Puedo dejarte marchar</title>
     </programme>
-    <programme start="20230521110500 +0002" stop="20230521115400 +0002" channel="CL13">
+    <programme start="20230521110500 +0002" stop="20230521115400 +0002" channel="CALLE13">
         <title>Chicago P.D. (T10): Ep.13 El fantasma en ti</title>
     </programme>
-    <programme start="20230521115400 +0002" stop="20230521124400 +0002" channel="CL13">
+    <programme start="20230521115400 +0002" stop="20230521124400 +0002" channel="CALLE13">
         <title>Chicago P.D. (T10): Ep.14 Atrapados</title>
     </programme>
-    <programme start="20230521124400 +0002" stop="20230521133400 +0002" channel="CL13">
+    <programme start="20230521124400 +0002" stop="20230521133400 +0002" channel="CALLE13">
         <title>Chicago P.D. (T10): Ep.15 Sangre y honor</title>
     </programme>
-    <programme start="20230521133400 +0002" stop="20230521142500 +0002" channel="CL13">
+    <programme start="20230521133400 +0002" stop="20230521142500 +0002" channel="CALLE13">
         <title>Chicago P.D. (T10): Ep.16 Deadlocked</title>
     </programme>
-    <programme start="20230521142500 +0002" stop="20230521152400 +0002" channel="CL13">
+    <programme start="20230521142500 +0002" stop="20230521152400 +0002" channel="CALLE13">
         <title>The Equalizer (T3): Ep.15 Sin salida</title>
     </programme>
-    <programme start="20230521152400 +0002" stop="20230521165700 +0002" channel="CL13">
+    <programme start="20230521152400 +0002" stop="20230521165700 +0002" channel="CALLE13">
         <title>Sniper: Al límite</title>
     </programme>
-    <programme start="20230521165700 +0002" stop="20230521183700 +0002" channel="CL13">
+    <programme start="20230521165700 +0002" stop="20230521183700 +0002" channel="CALLE13">
         <title>Sniper: El legado</title>
     </programme>
-    <programme start="20230521183700 +0002" stop="20230521201800 +0002" channel="CL13">
+    <programme start="20230521183700 +0002" stop="20230521201800 +0002" channel="CALLE13">
         <title>Sniper: Fuego oculto</title>
     </programme>
-    <programme start="20230521201800 +0002" stop="20230521220000 +0002" channel="CL13">
+    <programme start="20230521201800 +0002" stop="20230521220000 +0002" channel="CALLE13">
         <title>Asesinato en Lourdes</title>
     </programme>
-    <programme start="20230521220000 +0002" stop="20230521234100 +0002" channel="CL13">
+    <programme start="20230521220000 +0002" stop="20230521234100 +0002" channel="CALLE13">
         <title>Asesinato en Amiens</title>
     </programme>
-    <programme start="20230521234100 +0002" stop="20230522011900 +0002" channel="CL13">
+    <programme start="20230521234100 +0002" stop="20230522011900 +0002" channel="CALLE13">
         <title>Asesinato en la Provence: el precio de la lealtad</title>
     </programme>
-    <programme start="20230521011900 +0002" stop="20230521025400 +0002" channel="CL13">
+    <programme start="20230521011900 +0002" stop="20230521025400 +0002" channel="CALLE13">
         <title>Alexandra Ehle (T1): Ep.5 La superviviente</title>
     </programme>
-    <programme start="20230521025400 +0002" stop="20230521045100 +0002" channel="CL13">
+    <programme start="20230521025400 +0002" stop="20230521045100 +0002" channel="CALLE13">
         <title>Alexandra Ehle (T1): Ep.6 La peste</title>
     </programme>
-    <programme start="20230521045100 +0002" stop="20230521060000 +0002" channel="CL13">
+    <programme start="20230521045100 +0002" stop="20230521060000 +0002" channel="CALLE13">
         <title>Alexandra Ehle (T1): Ep.7 El milagro</title>
     </programme>
     <programme start="20230521060000 +0002" stop="20230521064200 +0002" channel="COSMO">
@@ -3609,73 +3609,73 @@
     <programme start="20230521034900 +0002" stop="20230521055600 +0002" channel="SET">
         <title>Sin piedad</title>
     </programme>
-    <programme start="20230521054600 +0002" stop="20230521061500 +0002" channel="SCI-FI">
+    <programme start="20230521054600 +0002" stop="20230521061500 +0002" channel="SYFYHA">
         <title>Scorpion (T1): Ep.2 Punto único de fallo</title>
     </programme>
-    <programme start="20230521062900 +0002" stop="20230521071200 +0002" channel="SCI-FI">
+    <programme start="20230521062900 +0002" stop="20230521071200 +0002" channel="SYFYHA">
         <title>Scorpion (T1): Ep.3 Ciclón</title>
     </programme>
-    <programme start="20230521071200 +0002" stop="20230521080000 +0002" channel="SCI-FI">
+    <programme start="20230521071200 +0002" stop="20230521080000 +0002" channel="SYFYHA">
         <title>Scorpion (T1): Ep.4 Faltos de personal</title>
     </programme>
-    <programme start="20230521080900 +0002" stop="20230521085200 +0002" channel="SCI-FI">
+    <programme start="20230521080900 +0002" stop="20230521085200 +0002" channel="SYFYHA">
         <title>Chucky (T2): Ep.6 Sí que ha resucitado</title>
     </programme>
-    <programme start="20230521085200 +0002" stop="20230521093800 +0002" channel="SCI-FI">
+    <programme start="20230521085200 +0002" stop="20230521093800 +0002" channel="SYFYHA">
         <title>Chucky (T2): Ep.7 En capilla</title>
     </programme>
-    <programme start="20230521093800 +0002" stop="20230521102900 +0002" channel="SCI-FI">
+    <programme start="20230521093800 +0002" stop="20230521102900 +0002" channel="SYFYHA">
         <title>Chucky (T2): Episodio 8</title>
     </programme>
-    <programme start="20230521102900 +0002" stop="20230521111600 +0002" channel="SCI-FI">
+    <programme start="20230521102900 +0002" stop="20230521111600 +0002" channel="SYFYHA">
         <title>Evil (T2): Ep.11 I es de IRS</title>
     </programme>
-    <programme start="20230521111600 +0002" stop="20230521120300 +0002" channel="SCI-FI">
+    <programme start="20230521111600 +0002" stop="20230521120300 +0002" channel="SYFYHA">
         <title>Evil (T2): Ep.12 D es de Demoniaco</title>
     </programme>
-    <programme start="20230521120300 +0002" stop="20230521125600 +0002" channel="SCI-FI">
+    <programme start="20230521120300 +0002" stop="20230521125600 +0002" channel="SYFYHA">
         <title>Evil (T2): Ep.13 C es de Canibal</title>
     </programme>
-    <programme start="20230521125600 +0002" stop="20230521135100 +0002" channel="SCI-FI">
+    <programme start="20230521125600 +0002" stop="20230521135100 +0002" channel="SYFYHA">
         <title>Evil (T3): Ep.1 El demonio de la muerte</title>
     </programme>
-    <programme start="20230521135100 +0002" stop="20230521144700 +0002" channel="SCI-FI">
+    <programme start="20230521135100 +0002" stop="20230521144700 +0002" channel="SYFYHA">
         <title>The Ark (T1): Ep.6 Dos por dos</title>
     </programme>
-    <programme start="20230521144700 +0002" stop="20230521161700 +0002" channel="SCI-FI">
+    <programme start="20230521144700 +0002" stop="20230521161700 +0002" channel="SYFYHA">
         <title>La hora más oscura</title>
     </programme>
-    <programme start="20230521161700 +0002" stop="20230521181300 +0002" channel="SCI-FI">
+    <programme start="20230521161700 +0002" stop="20230521181300 +0002" channel="SYFYHA">
         <title>El secreto de los hermanos Grimm</title>
     </programme>
-    <programme start="20230521181300 +0002" stop="20230521200000 +0002" channel="SCI-FI">
+    <programme start="20230521181300 +0002" stop="20230521200000 +0002" channel="SYFYHA">
         <title>Paul</title>
     </programme>
-    <programme start="20230521200000 +0002" stop="20230521220000 +0002" channel="SCI-FI">
+    <programme start="20230521200000 +0002" stop="20230521220000 +0002" channel="SYFYHA">
         <title>E.T., el extraterrestre</title>
     </programme>
-    <programme start="20230521220000 +0002" stop="20230521234100 +0002" channel="SCI-FI">
+    <programme start="20230521220000 +0002" stop="20230521234100 +0002" channel="SYFYHA">
         <title>Elektra</title>
     </programme>
-    <programme start="20230521234100 +0002" stop="20230522011900 +0002" channel="SCI-FI">
+    <programme start="20230521234100 +0002" stop="20230522011900 +0002" channel="SYFYHA">
         <title>Daredevil</title>
     </programme>
-    <programme start="20230521011900 +0002" stop="20230521020700 +0002" channel="SCI-FI">
+    <programme start="20230521011900 +0002" stop="20230521020700 +0002" channel="SYFYHA">
         <title>Sanctuary (T4): Ep.10 Acólito</title>
     </programme>
-    <programme start="20230521020700 +0002" stop="20230521025400 +0002" channel="SCI-FI">
+    <programme start="20230521020700 +0002" stop="20230521025400 +0002" channel="SYFYHA">
         <title>Sanctuary (T4): Ep.11 Las profundidades</title>
     </programme>
-    <programme start="20230521025400 +0002" stop="20230521033800 +0002" channel="SCI-FI">
+    <programme start="20230521025400 +0002" stop="20230521033800 +0002" channel="SYFYHA">
         <title>Sanctuary (T4): Ep.12 Santuario para nadie (Parte 1)</title>
     </programme>
-    <programme start="20230521033800 +0002" stop="20230521042300 +0002" channel="SCI-FI">
+    <programme start="20230521033800 +0002" stop="20230521042300 +0002" channel="SYFYHA">
         <title>Sanctuary (T4): Ep.13 Santuario para nadie (Parte 2)</title>
     </programme>
-    <programme start="20230521042300 +0002" stop="20230521050600 +0002" channel="SCI-FI">
+    <programme start="20230521042300 +0002" stop="20230521050600 +0002" channel="SYFYHA">
         <title>Scorpion (T1): Ep.5 Plutonio para la eternidad</title>
     </programme>
-    <programme start="20230521050600 +0002" stop="20230521055000 +0002" channel="SCI-FI">
+    <programme start="20230521050600 +0002" stop="20230521055000 +0002" channel="SYFYHA">
         <title>Scorpion (T1): Ep.6 El verdadero yo</title>
     </programme>
     <programme start="20230521053500 +0002" stop="20230521072500 +0002" channel="13TV">
@@ -3945,70 +3945,70 @@
     <programme start="20230521035500 +0002" stop="20230521060000 +0002" channel="NEOX">
         <title>Minutos musicales</title>
     </programme>
-    <programme start="20230521061500 +0002" stop="20230521073700 +0002" channel="ATRESS">
+    <programme start="20230521061500 +0002" stop="20230521073700 +0002" channel="A3CI">
         <title>Allí abajo (T2): Ep.8 Esposado</title>
     </programme>
-    <programme start="20230521073700 +0002" stop="20230521090000 +0002" channel="ATRESS">
+    <programme start="20230521073700 +0002" stop="20230521090000 +0002" channel="A3CI">
         <title>Allí abajo (T2): Ep.9 El novio de mi madre</title>
     </programme>
-    <programme start="20230521090000 +0002" stop="20230521102200 +0002" channel="ATRESS">
+    <programme start="20230521090000 +0002" stop="20230521102200 +0002" channel="A3CI">
         <title>Allí abajo (T2): Ep.10 Bendígame, padre</title>
     </programme>
-    <programme start="20230521102200 +0002" stop="20230521114500 +0002" channel="ATRESS">
+    <programme start="20230521102200 +0002" stop="20230521114500 +0002" channel="A3CI">
         <title>Allí abajo (T2): Ep.11 El desliz</title>
     </programme>
-    <programme start="20230521114500 +0002" stop="20230521124800 +0002" channel="ATRESS">
+    <programme start="20230521114500 +0002" stop="20230521124800 +0002" channel="A3CI">
         <title>Crimen en el paraíso (T1): Episodio 7</title>
     </programme>
-    <programme start="20230521124800 +0002" stop="20230521135100 +0002" channel="ATRESS">
+    <programme start="20230521124800 +0002" stop="20230521135100 +0002" channel="A3CI">
         <title>Crimen en el paraíso (T1): Episodio 3</title>
     </programme>
-    <programme start="20230521135100 +0002" stop="20230521145400 +0002" channel="ATRESS">
+    <programme start="20230521135100 +0002" stop="20230521145400 +0002" channel="A3CI">
         <title>Crimen en el paraíso (T1): Episodio 4</title>
     </programme>
-    <programme start="20230521145400 +0002" stop="20230521155700 +0002" channel="ATRESS">
+    <programme start="20230521145400 +0002" stop="20230521155700 +0002" channel="A3CI">
         <title>Crimen en el paraíso (T1): Episodio 5</title>
     </programme>
-    <programme start="20230521155700 +0002" stop="20230521170000 +0002" channel="ATRESS">
+    <programme start="20230521155700 +0002" stop="20230521170000 +0002" channel="A3CI">
         <title>Crimen en el paraíso (T1): Episodio 6</title>
     </programme>
-    <programme start="20230521170000 +0002" stop="20230521180300 +0002" channel="ATRESS">
+    <programme start="20230521170000 +0002" stop="20230521180300 +0002" channel="A3CI">
         <title>Crimen en el paraíso (T2): Episodio 5</title>
     </programme>
-    <programme start="20230521180300 +0002" stop="20230521190600 +0002" channel="ATRESS">
+    <programme start="20230521180300 +0002" stop="20230521190600 +0002" channel="A3CI">
         <title>Crimen en el paraíso (T2): Episodio 6</title>
     </programme>
-    <programme start="20230521190600 +0002" stop="20230521200900 +0002" channel="ATRESS">
+    <programme start="20230521190600 +0002" stop="20230521200900 +0002" channel="A3CI">
         <title>Crimen en el paraíso (T2): Episodio 7</title>
     </programme>
-    <programme start="20230521200900 +0002" stop="20230521211200 +0002" channel="ATRESS">
+    <programme start="20230521200900 +0002" stop="20230521211200 +0002" channel="A3CI">
         <title>Crimen en el paraíso (T2): Episodio 8</title>
     </programme>
-    <programme start="20230521211200 +0002" stop="20230521221500 +0002" channel="ATRESS">
+    <programme start="20230521211200 +0002" stop="20230521221500 +0002" channel="A3CI">
         <title>Crimen en el paraíso (T3): Episodio 1</title>
     </programme>
-    <programme start="20230521221500 +0002" stop="20230521231100 +0002" channel="ATRESS">
+    <programme start="20230521221500 +0002" stop="20230521231100 +0002" channel="A3CI">
         <title>Intuición Criminal (T5): Ep.9 Wolf Brennersdorfer</title>
     </programme>
-    <programme start="20230521231100 +0002" stop="20230522000700 +0002" channel="ATRESS">
+    <programme start="20230521231100 +0002" stop="20230522000700 +0002" channel="A3CI">
         <title>Intuición Criminal (T5): Ep.10 Alan Richter</title>
     </programme>
-    <programme start="20230521000700 +0002" stop="20230521010300 +0002" channel="ATRESS">
+    <programme start="20230521000700 +0002" stop="20230521010300 +0002" channel="A3CI">
         <title>Intuición Criminal (T5): Ep.5 Carlo Michalek</title>
     </programme>
-    <programme start="20230521010300 +0002" stop="20230521020000 +0002" channel="ATRESS">
+    <programme start="20230521010300 +0002" stop="20230521020000 +0002" channel="A3CI">
         <title>Intuición Criminal (T5): Ep.6 Knut Holm</title>
     </programme>
-    <programme start="20230521020000 +0002" stop="20230521024500 +0002" channel="ATRESS">
+    <programme start="20230521020000 +0002" stop="20230521024500 +0002" channel="A3CI">
         <title>Live casino</title>
     </programme>
-    <programme start="20230521024500 +0002" stop="20230521034500 +0002" channel="ATRESS">
+    <programme start="20230521024500 +0002" stop="20230521034500 +0002" channel="A3CI">
         <title>Aquí no hay quien viva (T2): Ep.12 Érase una despedida de soltero</title>
     </programme>
-    <programme start="20230521034500 +0002" stop="20230521044500 +0002" channel="ATRESS">
+    <programme start="20230521034500 +0002" stop="20230521044500 +0002" channel="A3CI">
         <title>Aquí no hay quien viva (T2): Ep.13 Érase una boda</title>
     </programme>
-    <programme start="20230521044500 +0002" stop="20230521054500 +0002" channel="ATRESS">
+    <programme start="20230521044500 +0002" stop="20230521054500 +0002" channel="A3CI">
         <title>Aquí no hay quien viva (T1): Ep.2 Érase una reforma</title>
     </programme>
     <programme start="20230521020000 +0002" stop="20230521040000 +0002" channel="MELLAV">
