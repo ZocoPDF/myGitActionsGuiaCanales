@@ -21,12 +21,12 @@ class EscritorXml():
 
         # agregamos los elementos <programme>
         for canal in self.programacion:
-            canalM3u = self.buscaKeyPorCanal(canal)
+            canalM3u = self.buscaKeyPorCanal(canal) # el problema con esto es que nunca llega a la 2ª v que encuentra
             for programa in self.programacion[canal]:
                 programme = ET.SubElement(root, "programme", attrib={
                     'start':self.convertirFechas(self.programacion[canal][programa]['horaInicio']),
-                    'stop':self.convertirPixelsEnFechas(self.programacion[canal][programa]['horaInicio'],
-                                                        self.programacion[canal][programa]['horaFin']),
+                    # 'stop':self.convertirPixelsEnFechas(self.programacion[canal][programa]['horaInicio'],
+                    #                                     self.programacion[canal][programa]['horaFin']),
                     'channel':canalM3u if canalM3u != None else canal 
 
                     })
@@ -45,17 +45,18 @@ class EscritorXml():
     # 'hh:mm' -> "YYYYMMDDHHMMSS + Zona Horaria"
     def convertirFechas(self, hora:str):
         hoyFecha = datetime.now().date()
-        fechaHora = datetime.combine(hoyFecha, datetime.strptime(hora, "%H:%M").time(), tzinfo=timezone(timedelta(minutes=2)))
+        fechaHora = datetime.combine(hoyFecha, datetime.strptime(hora, "%H:%M").time(), tzinfo=timezone(timedelta(hours=2)))
         return fechaHora.strftime("%Y%m%d%H%M%S %z")
 
     # obtener hora fin en formato hh:mm a partir de la hora de inicio y duración en pixels, 20/100 min/pixel
     def convertirPixelsEnFechas(self, hora:str, pixels:str):
         minutos = int(pixels)*20/100
         hoyFecha = datetime.now().date()
-        fechaHora = datetime.combine(hoyFecha, datetime.strptime(hora, "%H:%M").time(), tzinfo=timezone(timedelta(minutes=2)))
+        fechaHora = datetime.combine(hoyFecha, datetime.strptime(hora, "%H:%M").time(), tzinfo=timezone(timedelta(hours=2)))
         fechaHoraFin = fechaHora + timedelta(minutes=minutos)
         return fechaHoraFin.strftime("%Y%m%d%H%M%S %z")
     
+    # formatea el texto del archivo xml para que quede legible
     def formatearXml(self, root):
         # Genera el archivo XML con formato legible
         tree_str = ET.tostring(root, encoding="utf-8").decode("utf-8")
