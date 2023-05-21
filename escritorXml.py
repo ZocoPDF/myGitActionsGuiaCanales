@@ -59,8 +59,8 @@ class EscritorXml():
         tree_str = ET.tostring(root, encoding="utf-8").decode("utf-8")
         
         # Agrega el encoding al elemento <?xml ?>
-        tree_str = '<?xml version="1.0" encoding="UTF-8"?>' + '<!DOCTYPE tv SYSTEM "xmltv.dtd">' + tree_str
+        tree_str = '<?xml version="1.0" encoding="UTF-8"?>' + tree_str #+ '<!DOCTYPE tv SYSTEM "xmltv.dtd">' + tree_str
 
-        prettyText = minidom.parseString(tree_str).toprettyxml()
+        prettyText = minidom.parseString(tree_str).toprettyxml(indent='    ')
 
         return prettyText
