@@ -1,4 +1,5 @@
 import xml.etree.ElementTree as ET
+import xml.dom.minidom as minidom
 from datetime import datetime, timedelta, timezone
 
 # clase que crea guia_01.xml a partir del 2 diccionarios, uno con los datos de programación y otro con
@@ -33,22 +34,11 @@ class EscritorXml():
         # crea objeto ElementTree con el elemento raiz
         tree = ET.ElementTree(root)
 
-        # Configura el formato de indentación y espaciado
-        indentation = "  "  # Espacio de indentación (por ejemplo, 2 espacios)
-        newline = "\n"     # Salto de línea
-
-        # Genera el archivo XML con formato legible
-        tree_str = ET.tostring(root, encoding="utf-8").decode("utf-8")
-        tree_str = tree_str.replace("><", ">" + newline + "<")  # Agrega saltos de línea entre elementos
-        # tree_str = tree_str.replace(">", ">" + indentation)    # Agrega indentación antes de cada elemento de cierre
-        # tree_str = indentation + tree_str[len(indentation):]   # Ajusta la indentación del elemento raíz
-        
-        # Agrega el encoding al elemento <?xml ?>
-        xml_declaration = '<?xml version="1.0" encoding="UTF-8"?>' + newline + tree_str
+        xmlFormated = self.formatearXml(root)
         
         # guardamos en un archivo
         with open("guia_01.xml", "w", encoding='UTF-8') as file:
-            file.write(xml_declaration)
+            file.write(xmlFormated)
 
     # 'hh:mm' -> "YYYYMMDDHHMMSS + Zona Horaria"
     def convertirFechas(self, hora:str):
@@ -63,3 +53,14 @@ class EscritorXml():
         fechaHora = datetime.combine(hoyFecha, datetime.strptime(hora, "%H:%M").time(), tzinfo=timezone(timedelta(minutes=2)))
         fechaHoraFin = fechaHora + timedelta(minutes=minutos)
         return fechaHoraFin.strftime("%Y%m%d%H%M%S %z")
+    
+    def formatearXml(self, root):
+        # Genera el archivo XML con formato legible
+        tree_str = ET.tostring(root, encoding="utf-8").decode("utf-8")
+        
+        # Agrega el encoding al elemento <?xml ?>
+        tree_str = '<?xml version="1.0" encoding="UTF-8"?>' + '<!DOCTYPE tv SYSTEM "xmltv.dtd">' + tree_str
+
+        prettyText = minidom.parseString(tree_str).toprettyxml()
+
+        return prettyText
