@@ -52,9 +52,15 @@ class BuscadorDeCanalesEnArchivo():
         for key, value in self.dicCanalesTv.items():
             if key.find('|ES|') != -1:
                 listaKeysParaCambiar.append(key)
+
+        for key, value in self.dicCanalesTv.items():
+            if value[0]==' ':self.dicCanalesTv[key]=value[1:]
         
         for key in listaKeysParaCambiar:
-            self.dicCanalesTv[key[5:]] = self.dicCanalesTv.pop(key)
+            if key[4:6]=='  ':
+                self.dicCanalesTv[key[6:]] = self.dicCanalesTv.pop(key)
+            else:
+                self.dicCanalesTv[key[5:]] = self.dicCanalesTv.pop(key)
         print("diccionario revisado")
         # print(self.dicCanalesTv)
         
@@ -83,5 +89,6 @@ if __name__ == '__main__':
     # buscador.completarIdsCanales()
     # for key, value in buscador.dicCanalesTv.items():
     #     print(key +':'+ value)
+    print(buscador.dicCanalesTv)
 
     

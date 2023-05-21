@@ -1,6 +1,8 @@
 name: Actualiza-Guia
 
-on: 
+on:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   super-lint:
