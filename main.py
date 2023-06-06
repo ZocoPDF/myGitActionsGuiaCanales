@@ -1,4 +1,4 @@
-from oculto_a_github.buscadorArchivo import BuscadorDeCanalesEnArchivo
+from buscadorArchivo import BuscadorDeCanalesEnArchivo
 from emparejador import *
 from buscadorWeb import *
 from escritorXml import *

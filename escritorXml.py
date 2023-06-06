@@ -2,7 +2,8 @@ import xml.etree.ElementTree as ET
 import xml.dom.minidom as minidom
 from datetime import datetime, timedelta, timezone
 
-# clase que crea guia_01.xml a partir del 2 diccionarios, uno con los datos de programación y otro con
+# clase que crea guia_01.xml a partir de 2 diccionarios, uno con los datos de programación y otro con
+# cod canal m3u : cod canal movistar
 class EscritorXml():
     def __init__(self, dictProgramacion, dictCanalesEmparejados, dictCanalesMovistar ):
         self.programacion = dictProgramacion        # -> diccionario de BuscadorWeb {canal:{programa_n:{'titulo':'texto', 'hora inicio':'hh:mm', 'horaFin':'pixels' 'categoria':'texto' } } } => 3 niveles de dict
