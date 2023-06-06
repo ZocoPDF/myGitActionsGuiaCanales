@@ -19,8 +19,8 @@ class EscritorXml():
             displayName = ET.SubElement(channel, "display-name")
             displayName.text = self.titulosCanales[self.canales[canal]]
 
+        # agregamos los elementos <programme> hay que mejorar esto para 2 m3u diferentes con 1 movistar comun
         canalesM3uAlmacenados=[]
-        # agregamos los elementos <programme>
         for canal in self.programacion:
             canalM3u = self.buscaKeyPorCanal(canal, canalesM3uAlmacenados)
             if canalM3u == None: 
